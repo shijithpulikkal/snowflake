@@ -10,11 +10,11 @@ Built on a Snowflake trial account to show what's achievable without enterprise 
 
 | # | Project | What it demonstrates |
 |---|---------|----------------------|
-| 1 | [Real-Time Streaming Pipeline](./01-streaming-pipeline) | Snowpipe auto-ingest, Streams (CDC), Tasks, AWS S3 integration |
-| 2 | [Snowpark ML Pipeline](./02-snowpark-ml-pipeline) | In-warehouse feature engineering, model training, Snowflake Model Registry |
-| 3 | [Cost & Performance Optimization](./03-cost-performance-optimization) | Query profiling, warehouse right-sizing, materialized views, search optimization |
-| 4 | [Multi-Source dbt Pipeline](./04-dbt-multisource-pipeline) | dbt staging/intermediate/marts modeling, multi-source ingestion, testing, lineage |
-| 5 | [Data Sharing & Governance](./05-data-sharing-governance) | Row access policies, dynamic & tag-based masking, Secure Data Sharing |
+| 1 | [Real-Time Streaming Pipeline](./P1%20snowflake-streaming-pipeline) | Snowpipe auto-ingest, Streams (CDC), Tasks, AWS S3 integration |
+| 2 | [Snowpark ML Pipeline](./P2%20snowflake-snowpark-ml-pipeline) | In-warehouse feature engineering, model training, Snowflake Model Registry |
+| 3 | [Cost & Performance Optimization](./P3%20snowflake-cost-performance-optimization) | Query profiling, warehouse right-sizing, materialized views, search optimization |
+| 4 | [Multi-Source dbt Pipeline](./P4%20snowflake-dbt-multisource-pipeline) | dbt staging/intermediate/marts modeling, multi-source ingestion, testing, lineage |
+| 5 | [Data Sharing & Governance](./P5%20snowflake-data-sharing-governance) | Row access policies, dynamic & tag-based masking, Secure Data Sharing |
 
 ---
 
@@ -26,7 +26,7 @@ An end-to-end CDC-style pipeline: a Python producer simulates a live event strea
 
 **Highlights:** Secure storage integration (no hardcoded AWS credentials), real IAM trust policy troubleshooting, ~1-2 minute end-to-end latency documented honestly against true streaming systems like Kafka.
 
-[→ Full write-up](./01-streaming-pipeline)
+
 
 ---
 
@@ -40,7 +40,7 @@ A churn prediction model trained on the Telco Customer Churn dataset, with featu
 
 **Result:** Accuracy 0.768, F1 0.532 on held-out test data.
 
-[→ Full write-up](./02-snowpark-ml-pipeline)
+
 
 ---
 
@@ -52,7 +52,7 @@ A deliberately inefficient query against Snowflake's built-in TPC-H sample datas
 
 **Highlights:** A concrete, measured before/after table (elapsed time, bytes scanned, credits consumed) plus a documented finding that warehouse size past a certain point stopped improving performance — the kind of judgment call that separates tuning from guessing.
 
-[→ Full write-up](./03-cost-performance-optimization)
+
 
 ---
 
@@ -64,7 +64,7 @@ Three genuinely different source types — a flat file, a live REST API, and a P
 
 **Highlights:** A final mart that genuinely combines all three sources into one customer-level view (orders, USD-normalized revenue, support ticket burden) — not three disconnected pipelines that happen to share a repo.
 
-[→ Full write-up](./04-dbt-multisource-pipeline)
+
 
 ---
 
@@ -76,45 +76,13 @@ A synthetic multi-tenant healthcare-style dataset locked down with Row Access Po
 
 **Highlights:** A governed view (not the raw table) shared to a second Snowflake account with zero data copying and zero consumer-side storage cost — demonstrating least-privilege sharing design, not just that sharing is technically possible.
 
-[→ Full write-up](./05-data-sharing-governance)
+
 
 ---
 
-## Repo structure
-
-```
-snowflake/
-├── README.md                          ← you are here
-├── 01-streaming-pipeline/
-│   ├── README.md
-│   ├── sql/
-│   ├── python/
-│   └── screenshots/
-├── 02-snowpark-ml-pipeline/
-│   ├── README.md
-│   ├── sql/
-│   ├── python/
-│   └── screenshots/
-├── 03-cost-performance-optimization/
-│   ├── README.md
-│   ├── sql/
-│   └── screenshots/
-├── 04-dbt-multisource-pipeline/
-│   ├── README.md
-│   ├── dbt_project/
-│   ├── python/
-│   └── screenshots/
-└── 05-data-sharing-governance/
-    ├── README.md
-    ├── sql/
-    ├── python/
-    └── screenshots/
-```
-
----
 
 ## About
 
 Built by Shijith Pulikkal as a hands-on Snowflake portfolio — every project was built, broken, debugged, and fixed on a live trial account rather than copied from documentation. Each project folder includes the real troubleshooting encountered along the way, because that's a more honest signal of understanding than a pipeline that "just worked."
 
-Portfolio site: _[add link]_
+
