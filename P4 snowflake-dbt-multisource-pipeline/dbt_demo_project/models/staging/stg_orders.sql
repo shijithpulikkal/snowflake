@@ -1,0 +1,7 @@
+SELECT
+    ORDER_ID,
+    CUSTOMER_ID,
+    CUSTOMER_NAME,
+    TO_DATE(ORDER_DATE, 'DD-MM-YYYY') AS ORDER_DATE,
+    SALES::FLOAT AS SALES_AMOUNT
+FROM {{ source('raw', 'orders_raw') }}

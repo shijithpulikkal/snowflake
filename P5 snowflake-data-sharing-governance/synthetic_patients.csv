@@ -1,0 +1,2001 @@
+patient_id,full_name,ssn,department,diagnosis,treatment_cost,admitted_date
+PT-1000,Laura Williams,688-99-8579,Cardiology,Migraine,7576.25,2026-01-10
+PT-1001,Karen Jones,485-56-2352,Oncology,Fracture,11862.66,2026-05-22
+PT-1002,Renee Howard,458-73-4246,Radiology,Type 2 Diabetes,3255.0,2026-06-03
+PT-1003,Rachel Newman,489-75-1549,Oncology,Type 2 Diabetes,13033.71,2026-02-16
+PT-1004,Renee Williams,421-14-6750,Pediatrics,Fracture,12194.88,2026-03-28
+PT-1005,Carrie Robbins,581-69-9543,Oncology,Type 2 Diabetes,4207.06,2026-01-11
+PT-1006,Mrs. Nancy Walker DDS,223-24-6044,Oncology,Hypertension,5570.5,2026-08-28
+PT-1007,Rebecca Webb,233-04-0608,Pediatrics,Asthma,2042.78,2026-08-15
+PT-1008,Mary Fox,457-79-5899,Cardiology,Hypertension,6145.03,2026-09-03
+PT-1009,Brendan Anderson,325-37-6377,Oncology,Asthma,5649.89,2026-03-17
+PT-1010,Jean Cervantes,752-35-9922,Pediatrics,Asthma,9760.76,2026-01-17
+PT-1011,Vincent Gibson,427-81-6124,Pediatrics,Asthma,13070.61,2026-04-10
+PT-1012,Elizabeth Reed,241-04-2570,Oncology,Type 2 Diabetes,3388.69,2026-08-27
+PT-1013,Steven Vargas,822-42-7053,Cardiology,Hypertension,14525.7,2026-03-22
+PT-1014,Joel Harris,379-68-1896,Oncology,Asthma,6776.72,2026-05-22
+PT-1015,David Durham,416-84-3506,Oncology,Fracture,8593.17,2026-02-03
+PT-1016,Dominic Mann,160-07-9797,Radiology,Hypertension,12346.28,2026-03-21
+PT-1017,Brian Walker,744-46-1757,Oncology,Hypertension,8290.75,2026-04-14
+PT-1018,Michael Anderson,283-70-7573,Radiology,Migraine,14800.58,2026-03-17
+PT-1019,Katherine Carter,433-18-8911,Radiology,Hypertension,3393.05,2026-04-21
+PT-1020,Emma Williams,506-70-3004,Pediatrics,Type 2 Diabetes,10096.19,2026-06-05
+PT-1021,Brad Leonard,400-66-6852,Radiology,Type 2 Diabetes,12910.24,2026-06-09
+PT-1022,Katherine Johnson,462-15-8218,Radiology,Type 2 Diabetes,11001.36,2026-05-03
+PT-1023,Heidi Schroeder,308-75-8237,Radiology,Fracture,12384.21,2026-04-01
+PT-1024,Jordan Wright,667-38-7022,Cardiology,Type 2 Diabetes,14049.16,2026-01-01
+PT-1025,Kyle Mcdaniel,807-82-6574,Cardiology,Type 2 Diabetes,2694.49,2026-06-28
+PT-1026,Kevin Stevens,812-33-5306,Radiology,Fracture,8807.4,2026-05-12
+PT-1027,Amanda Harris,098-42-8731,Pediatrics,Migraine,6785.51,2026-06-17
+PT-1028,Tamara Evans,513-03-3150,Oncology,Migraine,5808.5,2026-03-30
+PT-1029,Stephanie Eaton,095-31-8986,Radiology,Migraine,12119.58,2026-05-26
+PT-1030,Michelle Long,763-70-4956,Oncology,Hypertension,9649.84,2026-07-13
+PT-1031,Sarah Hamilton,184-48-3883,Oncology,Hypertension,4232.84,2026-06-17
+PT-1032,Scott Morales,469-19-8418,Radiology,Fracture,9794.95,2026-01-09
+PT-1033,Chris Smith,623-45-6980,Radiology,Hypertension,7391.24,2026-03-13
+PT-1034,Paul Schaefer,078-59-1607,Oncology,Asthma,545.63,2026-01-13
+PT-1035,Charles Miller,852-57-2653,Cardiology,Fracture,4288.84,2026-06-01
+PT-1036,Jody Martinez,687-73-3799,Pediatrics,Type 2 Diabetes,11119.75,2026-09-14
+PT-1037,Nicole Young,028-89-8968,Oncology,Asthma,6530.32,2026-05-29
+PT-1038,Stephanie Wells,588-79-1831,Oncology,Migraine,10480.86,2026-08-03
+PT-1039,Daniel Hopkins,761-57-6045,Cardiology,Migraine,466.65,2026-08-15
+PT-1040,Katrina Brown,599-01-1084,Pediatrics,Asthma,13429.43,2026-03-07
+PT-1041,Ashley Wolfe,023-89-7062,Cardiology,Asthma,10230.18,2026-09-04
+PT-1042,Sierra Dyer,395-28-0998,Oncology,Asthma,9884.85,2026-08-26
+PT-1043,Brian Ewing,197-16-9742,Radiology,Type 2 Diabetes,5511.42,2026-02-09
+PT-1044,Robert Clark,159-03-0896,Pediatrics,Fracture,1716.49,2026-05-25
+PT-1045,Kevin Long,392-74-8455,Radiology,Fracture,10035.24,2026-06-08
+PT-1046,Melissa Smith,588-07-7704,Radiology,Type 2 Diabetes,2406.02,2026-07-31
+PT-1047,Kimberly Barnett,727-98-1034,Radiology,Asthma,8537.59,2026-06-23
+PT-1048,Janet Harrison,316-73-5992,Oncology,Asthma,9681.07,2026-02-10
+PT-1049,Courtney Gray,459-16-5116,Cardiology,Migraine,4365.09,2026-07-05
+PT-1050,Jamie Johnson,567-15-0787,Radiology,Migraine,3440.58,2026-07-28
+PT-1051,Kathryn Nguyen,137-99-0233,Cardiology,Migraine,10008.03,2026-08-02
+PT-1052,Tracy Smith,056-60-9952,Cardiology,Hypertension,9438.44,2026-03-12
+PT-1053,Cynthia Duran,211-53-6556,Cardiology,Asthma,12920.52,2026-05-10
+PT-1054,Jennifer Lawson,394-84-6210,Radiology,Hypertension,4928.09,2026-05-06
+PT-1055,Jeremiah Scott,743-01-8600,Cardiology,Migraine,350.81,2026-06-21
+PT-1056,Raymond Phillips,318-42-5861,Oncology,Asthma,6391.32,2026-06-28
+PT-1057,Lisa King,607-71-1837,Oncology,Asthma,8153.81,2026-02-13
+PT-1058,Scott White,748-86-2755,Oncology,Hypertension,1618.97,2026-07-25
+PT-1059,Annette Guerra DDS,330-60-8405,Oncology,Hypertension,7239.11,2026-03-18
+PT-1060,Keith Gonzalez,189-88-4216,Pediatrics,Migraine,13151.71,2026-01-31
+PT-1061,Ryan Hubbard,626-99-5741,Oncology,Fracture,1328.45,2026-03-23
+PT-1062,Whitney Hamilton,594-05-8518,Radiology,Asthma,7646.54,2026-03-17
+PT-1063,Kim Lloyd,092-68-5183,Cardiology,Migraine,11568.05,2026-03-26
+PT-1064,Jessica Roman,096-74-6425,Pediatrics,Migraine,12155.46,2026-07-01
+PT-1065,Joshua Brown,402-08-1302,Cardiology,Hypertension,2072.65,2026-01-14
+PT-1066,Lauren Pena,037-53-9498,Oncology,Type 2 Diabetes,12471.2,2026-04-12
+PT-1067,Rebecca Williams,800-94-7500,Oncology,Asthma,14350.02,2026-07-10
+PT-1068,Brooke Hughes,278-62-1656,Oncology,Asthma,7992.76,2026-03-03
+PT-1069,Alexander Garcia,257-46-4273,Cardiology,Fracture,11941.61,2026-04-04
+PT-1070,Crystal Brown,735-03-0665,Cardiology,Type 2 Diabetes,2861.33,2026-04-04
+PT-1071,Larry Johnson,411-99-0549,Cardiology,Hypertension,5196.29,2026-01-21
+PT-1072,Danielle Larson,312-72-5708,Pediatrics,Fracture,2038.0,2026-03-28
+PT-1073,Sara Giles,014-50-5366,Cardiology,Hypertension,3657.52,2026-03-08
+PT-1074,Jacob Rodriguez,250-27-6149,Cardiology,Asthma,1291.37,2026-02-06
+PT-1075,Jonathan Gonzalez,054-06-0779,Cardiology,Type 2 Diabetes,4293.68,2026-02-27
+PT-1076,Christian Stewart,661-06-9809,Radiology,Hypertension,6795.01,2026-08-31
+PT-1077,Colleen Le,698-34-8829,Radiology,Migraine,8251.51,2026-04-19
+PT-1078,Jerry Robinson,733-05-1740,Radiology,Type 2 Diabetes,2094.65,2026-04-22
+PT-1079,Shawn Smith,855-26-8857,Cardiology,Fracture,14806.63,2026-03-18
+PT-1080,Sarah Conner,565-98-3348,Radiology,Type 2 Diabetes,563.66,2026-04-11
+PT-1081,Christine Osborne,582-70-9811,Oncology,Type 2 Diabetes,12034.57,2026-07-07
+PT-1082,Megan Fernandez,204-21-5838,Radiology,Fracture,11666.79,2026-01-18
+PT-1083,Samantha Curry,447-26-8840,Radiology,Migraine,2151.95,2026-07-21
+PT-1084,Jennifer Scott,712-46-4465,Pediatrics,Hypertension,5520.41,2026-09-08
+PT-1085,Mary Roberts,832-34-1573,Radiology,Asthma,1597.84,2026-05-17
+PT-1086,Sandra Black,269-09-7735,Oncology,Type 2 Diabetes,7834.39,2026-06-25
+PT-1087,Natalie Duncan,222-30-4260,Oncology,Hypertension,10205.73,2026-04-27
+PT-1088,Sarah Jackson,705-66-0340,Cardiology,Type 2 Diabetes,11688.84,2026-08-04
+PT-1089,Allen Lawrence,737-75-4586,Oncology,Hypertension,10128.66,2026-07-30
+PT-1090,Stephen Montes,321-37-5810,Radiology,Hypertension,6379.72,2026-01-05
+PT-1091,Christopher Hernandez,681-85-2695,Radiology,Migraine,8260.43,2026-01-27
+PT-1092,Franklin Cameron MD,714-05-7890,Cardiology,Asthma,11442.73,2026-07-10
+PT-1093,Thomas Brewer,258-60-7371,Radiology,Migraine,880.74,2026-02-25
+PT-1094,Michele Ross,489-29-7833,Pediatrics,Fracture,11923.34,2026-08-09
+PT-1095,Marie Santos,551-89-4496,Oncology,Type 2 Diabetes,2052.29,2026-04-08
+PT-1096,Teresa Rojas,775-89-1858,Radiology,Asthma,3162.24,2026-03-17
+PT-1097,Jenny Burgess MD,085-65-4034,Radiology,Type 2 Diabetes,9840.79,2026-03-13
+PT-1098,Anthony Pruitt,312-85-6396,Cardiology,Fracture,12454.75,2026-06-01
+PT-1099,Anthony Jimenez,294-18-0168,Radiology,Asthma,12678.57,2026-09-09
+PT-1100,Marco Craig,853-76-3742,Cardiology,Asthma,3435.71,2026-01-06
+PT-1101,Charlene Fisher,888-61-6925,Oncology,Fracture,1127.48,2026-07-24
+PT-1102,Leslie Page,579-63-5366,Pediatrics,Type 2 Diabetes,3619.3,2026-08-03
+PT-1103,Brian Gibbs,238-81-3261,Oncology,Fracture,10035.24,2026-03-04
+PT-1104,George Sandoval,612-32-3147,Cardiology,Type 2 Diabetes,5194.82,2026-06-12
+PT-1105,Stacie Hansen,061-35-9498,Oncology,Hypertension,999.66,2026-03-16
+PT-1106,Dr. Karen Rogers,291-79-6455,Radiology,Asthma,3373.36,2026-01-10
+PT-1107,Crystal Rodriguez,203-76-5385,Oncology,Type 2 Diabetes,10256.91,2026-06-18
+PT-1108,Michaela Mcdowell,274-15-0372,Radiology,Type 2 Diabetes,471.77,2026-08-03
+PT-1109,Lynn Morrison,791-67-5629,Oncology,Fracture,12908.02,2026-07-22
+PT-1110,Thomas Rogers,745-51-0273,Oncology,Asthma,7962.85,2026-04-16
+PT-1111,Pedro Johnson,512-06-5248,Oncology,Asthma,6375.31,2026-02-23
+PT-1112,Shannon Price,008-17-4802,Radiology,Type 2 Diabetes,6539.99,2026-08-28
+PT-1113,Jessica Simmons,443-12-3790,Radiology,Fracture,5090.3,2026-06-18
+PT-1114,Tammy Sanders,744-83-5417,Oncology,Fracture,10239.1,2026-06-13
+PT-1115,Denise Solomon,580-87-6205,Oncology,Fracture,8906.11,2026-03-26
+PT-1116,Jason Cook,793-25-5291,Pediatrics,Migraine,13721.81,2026-06-26
+PT-1117,Raymond Pruitt Jr.,294-53-4874,Pediatrics,Asthma,2665.06,2026-04-10
+PT-1118,Amanda Stevenson,344-89-5364,Oncology,Fracture,12842.75,2026-04-26
+PT-1119,Andrea Davis,522-46-5400,Cardiology,Fracture,10579.88,2026-09-09
+PT-1120,Shannon Smith,269-55-7487,Radiology,Asthma,11828.26,2026-06-03
+PT-1121,Jeffrey Palmer,857-44-3126,Pediatrics,Asthma,11903.98,2026-03-28
+PT-1122,Christy Powell,346-46-5910,Pediatrics,Hypertension,13857.76,2026-04-07
+PT-1123,Wendy Li,836-44-6707,Oncology,Hypertension,12841.25,2026-02-12
+PT-1124,Ryan Webb,879-15-7837,Radiology,Type 2 Diabetes,14911.03,2026-08-25
+PT-1125,Jennifer Carr,870-25-3207,Pediatrics,Asthma,11885.96,2026-04-02
+PT-1126,Casey Barker,048-35-2552,Radiology,Type 2 Diabetes,4346.05,2026-03-30
+PT-1127,Timothy Richards,524-51-1042,Cardiology,Fracture,14461.43,2026-05-05
+PT-1128,Carrie Love,082-46-0530,Cardiology,Asthma,1994.23,2026-06-16
+PT-1129,Harold Mcclain,557-23-0836,Radiology,Hypertension,6907.2,2026-03-04
+PT-1130,Raymond Hayden,144-37-4799,Radiology,Fracture,2588.91,2026-09-02
+PT-1131,James Richardson,145-26-9009,Pediatrics,Fracture,2818.27,2026-03-26
+PT-1132,Tina Boyd,759-21-3276,Radiology,Migraine,5806.41,2026-07-21
+PT-1133,Meagan Dyer,372-12-0016,Oncology,Hypertension,603.46,2026-07-23
+PT-1134,John Harris,517-18-1349,Radiology,Asthma,831.57,2026-05-30
+PT-1135,Leslie Hart,156-77-0394,Pediatrics,Fracture,8919.37,2026-02-08
+PT-1136,Jonathan Miller,417-87-6545,Pediatrics,Migraine,2454.64,2026-03-10
+PT-1137,Brittany Lopez MD,155-95-0039,Cardiology,Type 2 Diabetes,14110.6,2026-05-18
+PT-1138,Lydia Franklin,522-33-9500,Oncology,Type 2 Diabetes,13745.75,2026-09-08
+PT-1139,Courtney Murphy,335-24-7524,Pediatrics,Type 2 Diabetes,4470.83,2026-05-26
+PT-1140,Gary Gomez,703-04-1195,Cardiology,Fracture,10837.37,2026-08-15
+PT-1141,Stephen Jackson,302-47-3597,Oncology,Asthma,704.08,2026-04-24
+PT-1142,Ronald Smith,899-54-6350,Pediatrics,Type 2 Diabetes,3450.93,2026-05-02
+PT-1143,Madison Mathis,836-70-3365,Radiology,Asthma,4821.36,2026-03-24
+PT-1144,Katherine Kane,416-62-7309,Oncology,Asthma,12807.41,2026-01-12
+PT-1145,Kelly Curry,265-34-0701,Oncology,Fracture,5356.1,2026-05-25
+PT-1146,Ricardo Pope,692-86-3054,Pediatrics,Fracture,9389.82,2026-08-14
+PT-1147,Joshua Lopez,755-67-6278,Radiology,Type 2 Diabetes,2140.86,2026-07-27
+PT-1148,Zoe Carpenter,406-81-8106,Pediatrics,Migraine,12329.08,2026-03-03
+PT-1149,Robert Cruz,480-17-6648,Cardiology,Hypertension,9340.35,2026-08-07
+PT-1150,Whitney Ortiz,641-03-0178,Radiology,Hypertension,4979.85,2026-04-05
+PT-1151,Evan Garcia,005-91-1677,Radiology,Migraine,3674.98,2026-01-13
+PT-1152,Anthony Bartlett,126-46-6660,Radiology,Fracture,14523.07,2026-05-11
+PT-1153,Michelle Harmon,498-89-2127,Radiology,Type 2 Diabetes,5694.67,2026-01-03
+PT-1154,Jeffrey Elliott,848-22-4443,Radiology,Asthma,12814.64,2026-02-26
+PT-1155,Nicole Bennett,574-27-8567,Oncology,Asthma,10420.37,2026-07-05
+PT-1156,Lauren James,579-17-4846,Oncology,Migraine,387.32,2026-04-11
+PT-1157,Whitney Matthews,433-02-1680,Radiology,Asthma,3411.42,2026-04-14
+PT-1158,Tamara Harrington,244-94-2573,Pediatrics,Type 2 Diabetes,4706.55,2026-02-05
+PT-1159,Rebecca Hebert,540-88-6079,Cardiology,Hypertension,973.46,2026-04-22
+PT-1160,Kelsey Maxwell,782-38-7437,Pediatrics,Fracture,14717.47,2026-03-03
+PT-1161,Tiffany Jackson MD,623-67-3270,Cardiology,Asthma,8370.84,2026-05-03
+PT-1162,Jessica Browning,351-26-9435,Oncology,Migraine,7426.17,2026-09-13
+PT-1163,Charles Brown,726-70-5379,Oncology,Migraine,2828.19,2026-04-09
+PT-1164,Katherine Thomas,733-82-2020,Pediatrics,Type 2 Diabetes,7157.64,2026-08-10
+PT-1165,Robert Young,810-70-1782,Radiology,Migraine,9863.4,2026-04-10
+PT-1166,Aaron Black,652-22-6904,Cardiology,Hypertension,8235.46,2026-08-27
+PT-1167,Vicki Collins,089-32-6795,Radiology,Asthma,8563.48,2026-07-09
+PT-1168,Eric Warren,271-71-8093,Cardiology,Migraine,1108.73,2026-08-11
+PT-1169,Ann Thompson,342-45-1094,Radiology,Migraine,595.49,2026-02-08
+PT-1170,Nancy Watts,752-23-0213,Cardiology,Hypertension,12080.76,2026-02-19
+PT-1171,Evelyn Reyes,188-45-2037,Cardiology,Asthma,5369.43,2026-07-26
+PT-1172,Jessica Parker,293-88-5935,Radiology,Asthma,814.91,2026-05-16
+PT-1173,Gail Poole,678-62-5299,Oncology,Migraine,8544.47,2026-07-01
+PT-1174,Misty Knight,288-53-9873,Oncology,Type 2 Diabetes,11770.47,2026-01-15
+PT-1175,Aaron Holland,594-69-9025,Radiology,Asthma,8620.01,2026-04-22
+PT-1176,Troy Garcia,368-88-5513,Radiology,Hypertension,9534.08,2026-03-02
+PT-1177,Veronica Brandt,459-96-9872,Pediatrics,Type 2 Diabetes,10893.51,2026-05-31
+PT-1178,Robert Harris,504-53-9677,Radiology,Migraine,12878.22,2026-07-04
+PT-1179,Erica Martin,881-72-2680,Pediatrics,Migraine,13274.24,2026-03-08
+PT-1180,Jason Oconnor,145-83-3309,Cardiology,Hypertension,1298.79,2026-02-13
+PT-1181,Jeffrey Cook,642-77-6471,Oncology,Fracture,14345.15,2026-08-22
+PT-1182,Cody Castro,008-86-7820,Radiology,Migraine,6983.09,2026-03-09
+PT-1183,Spencer Wagner,391-94-9045,Radiology,Fracture,7263.04,2026-04-07
+PT-1184,Jennifer Washington,672-53-9999,Oncology,Fracture,6942.35,2026-08-22
+PT-1185,Melissa Herrera,639-24-0717,Pediatrics,Hypertension,6897.88,2026-04-03
+PT-1186,Andrea Scott,223-71-3639,Pediatrics,Migraine,8131.32,2026-08-16
+PT-1187,Daniel Krause,377-51-6634,Radiology,Asthma,13809.23,2026-01-07
+PT-1188,Peter Kim,183-74-7828,Pediatrics,Fracture,8297.27,2026-08-15
+PT-1189,Jennifer Nunez,867-83-0146,Pediatrics,Hypertension,691.37,2026-07-05
+PT-1190,Jennifer Salas,148-71-2222,Radiology,Hypertension,8356.98,2026-01-24
+PT-1191,Matthew Wolfe,153-24-5808,Oncology,Migraine,8206.19,2026-05-05
+PT-1192,Samantha Thompson,281-23-9575,Pediatrics,Migraine,4555.19,2026-08-25
+PT-1193,Jennifer Werner,779-47-0411,Pediatrics,Migraine,8868.36,2026-03-19
+PT-1194,Stacy Barr,451-41-4350,Pediatrics,Asthma,10914.78,2026-08-15
+PT-1195,Ariel Miles,210-46-4519,Radiology,Asthma,6615.16,2026-09-08
+PT-1196,Michael Flores,107-85-4036,Pediatrics,Asthma,501.34,2026-02-24
+PT-1197,Caleb Park,771-90-9289,Oncology,Fracture,5092.21,2026-01-29
+PT-1198,Marcus Reed,590-76-9939,Oncology,Migraine,10800.84,2026-02-08
+PT-1199,Michael Mitchell,837-58-3509,Cardiology,Hypertension,3342.8,2026-08-10
+PT-1200,Eric Harmon,339-26-5354,Oncology,Type 2 Diabetes,6122.77,2026-08-13
+PT-1201,Dawn Willis,247-77-7582,Oncology,Asthma,14366.87,2026-04-14
+PT-1202,Hector Carlson,858-12-3334,Oncology,Fracture,13025.06,2026-05-18
+PT-1203,Matthew Merritt,162-17-8061,Radiology,Type 2 Diabetes,14786.37,2026-08-03
+PT-1204,Chelsea Sharp,253-37-7466,Cardiology,Hypertension,934.3,2026-08-12
+PT-1205,Alyssa Richards,055-14-9982,Oncology,Type 2 Diabetes,12016.52,2026-06-16
+PT-1206,Sandra Hobbs,270-95-5189,Cardiology,Type 2 Diabetes,2471.75,2026-09-06
+PT-1207,Karen Johnson,703-66-2528,Radiology,Asthma,10280.83,2026-02-09
+PT-1208,Nancy Ryan,206-23-6661,Cardiology,Asthma,10180.37,2026-08-06
+PT-1209,Alexis Collins,089-24-0144,Cardiology,Fracture,13766.14,2026-06-05
+PT-1210,Robert Soto,112-40-6005,Cardiology,Fracture,7764.49,2026-04-26
+PT-1211,Elizabeth Bond,758-05-3149,Oncology,Asthma,12027.06,2026-02-09
+PT-1212,Terry Galvan,744-57-4085,Cardiology,Type 2 Diabetes,6829.79,2026-03-13
+PT-1213,Elizabeth Little,645-37-8974,Pediatrics,Asthma,10363.38,2026-06-10
+PT-1214,Sheila Lambert,148-27-1505,Radiology,Type 2 Diabetes,6921.84,2026-07-28
+PT-1215,Donald Lynch,740-03-6627,Cardiology,Migraine,14839.05,2026-03-31
+PT-1216,Tina Kidd,763-51-0438,Pediatrics,Type 2 Diabetes,5482.77,2026-06-22
+PT-1217,Vincent Thomas,005-44-4465,Pediatrics,Migraine,1896.33,2026-09-02
+PT-1218,Emily Hill,018-36-8111,Cardiology,Type 2 Diabetes,2617.91,2026-08-21
+PT-1219,Jennifer Jackson,135-46-3514,Cardiology,Type 2 Diabetes,8207.59,2026-08-07
+PT-1220,Robert Lang,853-99-3526,Cardiology,Type 2 Diabetes,6035.44,2026-06-04
+PT-1221,Karen Reed,837-52-8925,Cardiology,Fracture,9154.83,2026-07-01
+PT-1222,Charles Robinson,743-09-7927,Radiology,Type 2 Diabetes,6445.75,2026-07-18
+PT-1223,Jasmin Clark,009-27-8121,Pediatrics,Asthma,3638.67,2026-07-15
+PT-1224,Rebekah Padilla,423-04-4742,Oncology,Type 2 Diabetes,13440.81,2026-07-07
+PT-1225,Jamie Lambert,160-20-7750,Radiology,Migraine,13260.5,2026-05-26
+PT-1226,Jason Gordon,229-88-3639,Pediatrics,Type 2 Diabetes,9673.04,2026-07-09
+PT-1227,Tara Rojas,416-65-6955,Cardiology,Type 2 Diabetes,1378.8,2026-05-17
+PT-1228,Kathy Mcknight,055-43-4805,Cardiology,Asthma,9224.84,2026-08-20
+PT-1229,Danielle Peters,798-42-2602,Radiology,Migraine,7027.0,2026-04-27
+PT-1230,Vincent Murray,781-71-9994,Cardiology,Hypertension,820.87,2026-05-10
+PT-1231,Anthony Jackson,288-76-8783,Oncology,Hypertension,1878.32,2026-02-09
+PT-1232,Christopher Tran,774-45-2901,Pediatrics,Migraine,8995.62,2026-07-31
+PT-1233,Cody Harrison,127-49-9197,Pediatrics,Hypertension,3330.92,2026-03-12
+PT-1234,Mark Parker,041-94-8833,Pediatrics,Migraine,5080.1,2026-04-21
+PT-1235,Daniel Baker,056-76-4525,Radiology,Asthma,807.69,2026-08-31
+PT-1236,Jennifer Dalton,040-20-6205,Oncology,Fracture,11154.24,2026-01-03
+PT-1237,Christopher Bradley,391-03-7876,Radiology,Asthma,9235.61,2026-03-30
+PT-1238,Molly Schmidt,305-10-1629,Cardiology,Asthma,9492.47,2026-06-25
+PT-1239,Sarah Jackson,599-40-5932,Cardiology,Fracture,2300.01,2026-03-16
+PT-1240,Kelly Schwartz,124-71-4157,Cardiology,Fracture,1447.88,2026-06-04
+PT-1241,Mark Cook,375-04-8683,Cardiology,Migraine,14253.08,2026-06-06
+PT-1242,Stephen James,126-55-4671,Pediatrics,Fracture,2528.76,2026-04-26
+PT-1243,Laura Coleman,577-41-1505,Radiology,Hypertension,4673.52,2026-03-28
+PT-1244,Alvin White,437-24-0077,Radiology,Migraine,6737.53,2026-07-20
+PT-1245,Douglas Thomas,023-44-4112,Oncology,Migraine,2612.3,2026-02-07
+PT-1246,Adrian Andrews,421-12-8765,Cardiology,Asthma,2284.47,2026-01-23
+PT-1247,Michael Williams,252-22-1533,Pediatrics,Hypertension,4525.67,2026-07-10
+PT-1248,Kimberly Norman,506-29-0640,Radiology,Type 2 Diabetes,5097.22,2026-06-10
+PT-1249,Natalie Roach,850-13-2581,Radiology,Type 2 Diabetes,9291.82,2026-06-12
+PT-1250,Gina Mcpherson,446-19-7697,Cardiology,Type 2 Diabetes,630.99,2026-08-05
+PT-1251,Ryan Mooney,806-40-2920,Oncology,Asthma,13599.46,2026-02-06
+PT-1252,Erin Willis,004-51-0407,Radiology,Asthma,1054.85,2026-03-04
+PT-1253,Philip Freeman,264-20-5158,Radiology,Fracture,13131.63,2026-03-13
+PT-1254,Daniel Scott,608-34-4469,Pediatrics,Asthma,12528.03,2026-04-13
+PT-1255,Jacob Sanford,285-04-8177,Radiology,Fracture,5732.93,2026-03-07
+PT-1256,Crystal Clark,798-17-2542,Radiology,Hypertension,1079.96,2026-04-10
+PT-1257,William Hicks,329-53-6574,Radiology,Migraine,3863.09,2026-06-05
+PT-1258,Dana Coleman,378-46-8868,Pediatrics,Fracture,2120.0,2026-05-14
+PT-1259,Chelsea Lopez,179-83-3981,Pediatrics,Asthma,13982.93,2026-09-02
+PT-1260,Shelly Carter,198-61-3199,Pediatrics,Migraine,13157.89,2026-06-04
+PT-1261,Christian Moody,284-87-2049,Pediatrics,Migraine,14776.88,2026-07-14
+PT-1262,Eric Hanson,252-15-0808,Cardiology,Fracture,8063.56,2026-08-06
+PT-1263,Alexander Lee,558-36-6275,Radiology,Asthma,6817.35,2026-06-02
+PT-1264,Jeffrey Leblanc,019-14-5887,Oncology,Asthma,4134.0,2026-03-02
+PT-1265,Denise Nolan,719-43-4451,Radiology,Hypertension,7191.71,2026-06-02
+PT-1266,Brian Ramirez,209-15-0024,Cardiology,Hypertension,1022.45,2026-08-02
+PT-1267,Mark Lynch,527-31-1571,Radiology,Hypertension,6773.76,2026-07-28
+PT-1268,Gregory Fields,760-33-7454,Oncology,Hypertension,6149.65,2026-03-11
+PT-1269,Miranda Brown,898-12-5000,Oncology,Asthma,14595.71,2026-04-09
+PT-1270,Alvin Gray,814-43-9623,Cardiology,Type 2 Diabetes,2399.46,2026-09-14
+PT-1271,Jaime Taylor,789-82-8683,Radiology,Type 2 Diabetes,7153.69,2026-05-01
+PT-1272,Madison Nelson,239-03-9187,Cardiology,Type 2 Diabetes,1240.3,2026-06-14
+PT-1273,Elizabeth Mcmahon,544-62-8598,Cardiology,Asthma,13482.21,2026-04-12
+PT-1274,Howard Sharp,795-31-4283,Pediatrics,Asthma,11723.57,2026-07-18
+PT-1275,Trevor Rodriguez,865-99-8780,Cardiology,Type 2 Diabetes,12967.1,2026-01-07
+PT-1276,Paige Robbins,118-82-4897,Radiology,Type 2 Diabetes,4690.28,2026-02-28
+PT-1277,Brenda Robinson,592-37-9103,Oncology,Migraine,14054.86,2026-05-29
+PT-1278,Cheyenne Webb,055-27-1845,Pediatrics,Asthma,8413.16,2026-04-13
+PT-1279,Kathryn Harris,617-63-4181,Oncology,Hypertension,5043.32,2026-08-13
+PT-1280,Brian Reid,841-89-2621,Cardiology,Fracture,9318.14,2026-03-08
+PT-1281,Kimberly Rodriguez,706-38-2837,Pediatrics,Asthma,11274.03,2026-04-05
+PT-1282,Tammy Peck,634-86-5225,Cardiology,Type 2 Diabetes,13055.4,2026-06-12
+PT-1283,Mrs. Deborah Thomas,791-06-1610,Oncology,Hypertension,1057.77,2026-08-21
+PT-1284,Allison Krueger,493-90-0570,Pediatrics,Hypertension,5139.27,2026-02-22
+PT-1285,Joseph Chen,298-73-6319,Cardiology,Hypertension,10589.89,2026-04-14
+PT-1286,Eric Stone,606-23-4046,Cardiology,Fracture,982.23,2026-09-05
+PT-1287,Joshua Rose,664-34-7123,Oncology,Asthma,803.7,2026-08-20
+PT-1288,Adam Mendez,832-25-0577,Oncology,Type 2 Diabetes,5662.26,2026-08-30
+PT-1289,Jennifer Hoffman,885-97-3091,Cardiology,Hypertension,4868.56,2026-04-06
+PT-1290,Sandra Porter,439-56-9095,Radiology,Asthma,4301.02,2026-08-03
+PT-1291,Courtney Robinson,800-29-9243,Oncology,Asthma,10416.64,2026-05-14
+PT-1292,Lisa Williams,558-75-5562,Pediatrics,Fracture,1140.93,2026-07-28
+PT-1293,Gregory Dodson,073-70-1012,Cardiology,Type 2 Diabetes,14847.27,2026-06-06
+PT-1294,Sarah Barnes,828-78-6347,Pediatrics,Type 2 Diabetes,14050.87,2026-03-19
+PT-1295,Michael Lyons,827-02-3699,Pediatrics,Migraine,4242.94,2026-06-27
+PT-1296,Luke Jackson,736-61-7338,Cardiology,Fracture,3843.78,2026-01-27
+PT-1297,James Russell,509-98-5883,Cardiology,Migraine,10067.91,2026-08-06
+PT-1298,Michael Rios,249-67-4083,Oncology,Asthma,7515.18,2026-04-13
+PT-1299,Amy Gonzales,355-86-9535,Cardiology,Migraine,4192.88,2026-03-09
+PT-1300,Kimberly Ingram,308-46-6517,Oncology,Asthma,7584.2,2026-05-01
+PT-1301,Adam Morris,594-63-3028,Oncology,Migraine,521.73,2026-07-05
+PT-1302,Tim Waters,551-42-2673,Cardiology,Type 2 Diabetes,5491.53,2026-08-07
+PT-1303,Albert Bolton,016-01-1965,Oncology,Type 2 Diabetes,3811.86,2026-09-05
+PT-1304,Joshua Wolfe,442-54-3198,Pediatrics,Hypertension,369.87,2026-01-09
+PT-1305,Joy Gilbert,335-95-8720,Radiology,Hypertension,269.75,2026-05-17
+PT-1306,Tyrone Smith,402-99-2443,Radiology,Hypertension,11011.9,2026-02-24
+PT-1307,Kyle Singh,792-55-0113,Oncology,Fracture,2465.37,2026-08-28
+PT-1308,Chad Evans,520-84-7642,Oncology,Fracture,3454.52,2026-01-25
+PT-1309,Timothy Dorsey,780-49-1345,Oncology,Fracture,5874.71,2026-04-05
+PT-1310,Joseph Gutierrez,602-60-9186,Cardiology,Hypertension,5510.33,2026-07-08
+PT-1311,Gary Murphy,036-72-6721,Radiology,Asthma,11516.02,2026-04-08
+PT-1312,Cynthia Douglas,212-45-6863,Cardiology,Type 2 Diabetes,9301.83,2026-03-17
+PT-1313,Penny Powell,461-28-9074,Oncology,Asthma,10883.95,2026-03-13
+PT-1314,Brian Allen,795-57-9517,Radiology,Migraine,2174.56,2026-03-20
+PT-1315,Robert Lee,861-01-4171,Pediatrics,Migraine,11411.43,2026-06-12
+PT-1316,Brian Joseph,203-84-0036,Cardiology,Type 2 Diabetes,5281.57,2026-07-01
+PT-1317,Jamie Brown,684-15-9018,Radiology,Type 2 Diabetes,12041.25,2026-09-01
+PT-1318,Amanda Peterson,877-62-8198,Radiology,Asthma,1842.08,2026-02-15
+PT-1319,Patty Smith,745-74-9009,Radiology,Fracture,12306.62,2026-04-13
+PT-1320,Travis Moore,066-26-9889,Pediatrics,Fracture,6339.24,2026-07-05
+PT-1321,Katherine Hurley,077-59-2440,Radiology,Asthma,12160.39,2026-04-13
+PT-1322,Sabrina Thompson,258-19-1612,Oncology,Type 2 Diabetes,6085.13,2026-06-17
+PT-1323,Christopher David,830-23-6964,Pediatrics,Type 2 Diabetes,13942.51,2026-03-21
+PT-1324,Miguel Brown,376-82-9679,Cardiology,Migraine,7065.68,2026-07-15
+PT-1325,Derrick Howard,227-44-8537,Radiology,Hypertension,7589.86,2026-03-26
+PT-1326,Sandra Brown,424-48-0914,Pediatrics,Hypertension,6909.38,2026-04-11
+PT-1327,Judy Clark,729-25-9335,Oncology,Fracture,8603.01,2026-02-18
+PT-1328,Christian Smith,085-01-0115,Radiology,Type 2 Diabetes,8228.76,2026-01-09
+PT-1329,April Clarke,487-88-2141,Oncology,Fracture,10325.51,2026-05-17
+PT-1330,Michelle Lee,541-91-5176,Radiology,Type 2 Diabetes,9135.14,2026-01-04
+PT-1331,Andrew Simmons,521-83-6781,Pediatrics,Type 2 Diabetes,7368.93,2026-03-18
+PT-1332,Amanda Sandoval,668-64-7691,Radiology,Migraine,5767.07,2026-01-25
+PT-1333,Alejandro Faulkner,297-64-4200,Pediatrics,Migraine,12180.11,2026-01-24
+PT-1334,Ashley Yates,273-09-2651,Pediatrics,Asthma,4653.44,2026-01-09
+PT-1335,Wendy Wilcox,594-12-9535,Cardiology,Type 2 Diabetes,4528.42,2026-07-30
+PT-1336,Alexander Edwards,578-73-5526,Pediatrics,Asthma,11906.25,2026-07-15
+PT-1337,Joshua Thompson,143-63-6194,Pediatrics,Fracture,760.6,2026-05-31
+PT-1338,Eric Lopez DVM,785-25-3654,Cardiology,Asthma,4138.27,2026-08-28
+PT-1339,Zachary Reynolds,238-81-8379,Pediatrics,Hypertension,12408.89,2026-03-27
+PT-1340,John Frazier,003-10-5524,Oncology,Hypertension,822.28,2026-03-07
+PT-1341,Tracy Brandt,462-91-2788,Pediatrics,Fracture,14683.63,2026-02-11
+PT-1342,Michael Lucas,513-95-0544,Pediatrics,Fracture,206.86,2026-07-22
+PT-1343,Aaron Scott,204-86-0609,Radiology,Asthma,10191.56,2026-01-28
+PT-1344,James Walters,754-84-5188,Radiology,Migraine,13735.97,2026-01-19
+PT-1345,Dean Jones,620-74-4873,Radiology,Asthma,724.26,2026-07-24
+PT-1346,Travis Banks,822-79-0517,Radiology,Type 2 Diabetes,6662.58,2026-01-18
+PT-1347,Michael Liu,548-84-0328,Cardiology,Asthma,2255.09,2026-07-26
+PT-1348,Adriana Davis,097-04-2986,Cardiology,Fracture,11447.46,2026-08-11
+PT-1349,Timothy Ward,477-83-2555,Radiology,Type 2 Diabetes,10387.17,2026-01-04
+PT-1350,Peter Smith,141-11-2555,Radiology,Hypertension,6150.5,2026-05-19
+PT-1351,Jason Williams,124-53-8820,Cardiology,Fracture,4617.57,2026-01-11
+PT-1352,Timothy Castro,688-07-9974,Radiology,Hypertension,2249.69,2026-04-30
+PT-1353,Jeffrey Mendoza,228-55-0741,Cardiology,Asthma,3302.6,2026-02-09
+PT-1354,Kathryn Lara,665-76-3694,Radiology,Type 2 Diabetes,6034.84,2026-06-21
+PT-1355,Jill Burgess,404-78-0354,Radiology,Fracture,1724.88,2026-08-07
+PT-1356,Laura Davis,462-44-5084,Cardiology,Asthma,8309.35,2026-03-14
+PT-1357,Samantha Schneider,284-67-4230,Radiology,Migraine,1247.13,2026-06-03
+PT-1358,Brenda Adams,850-96-7544,Cardiology,Migraine,10704.71,2026-03-27
+PT-1359,Brent Swanson,325-04-0290,Radiology,Hypertension,3682.62,2026-05-02
+PT-1360,Shelia Walker,333-96-9928,Radiology,Migraine,9836.8,2026-07-24
+PT-1361,Aaron Stuart,748-26-9159,Radiology,Hypertension,10721.25,2026-03-14
+PT-1362,Dr. Jill Jordan,168-74-8572,Cardiology,Hypertension,4076.01,2026-01-26
+PT-1363,Amy Martinez,853-06-6909,Cardiology,Asthma,7695.69,2026-07-25
+PT-1364,Margaret Singh,003-37-3154,Cardiology,Hypertension,3585.48,2026-08-20
+PT-1365,Kelli Hayes,778-13-2775,Cardiology,Hypertension,12917.67,2026-01-28
+PT-1366,Robert Wiggins,011-05-0378,Radiology,Asthma,6860.25,2026-06-24
+PT-1367,Dawn Gonzalez,452-49-9843,Oncology,Fracture,13077.87,2026-03-10
+PT-1368,Michael Lopez,816-60-5321,Cardiology,Fracture,3978.18,2026-03-16
+PT-1369,Jeanette Smith,829-63-7098,Cardiology,Migraine,12026.59,2026-09-13
+PT-1370,Susan David,234-33-4652,Cardiology,Hypertension,5931.73,2026-03-12
+PT-1371,James Haynes,667-25-3094,Oncology,Hypertension,3818.17,2026-05-08
+PT-1372,Jacob Hernandez,552-76-1524,Oncology,Fracture,14597.12,2026-04-06
+PT-1373,Jenny Ward,871-13-6388,Radiology,Fracture,5050.9,2026-08-08
+PT-1374,Kristin Pierce,496-69-8025,Cardiology,Migraine,2856.02,2026-05-30
+PT-1375,Angela Foster,703-65-4971,Radiology,Asthma,5098.27,2026-07-01
+PT-1376,Denise Jordan,777-89-8437,Radiology,Migraine,9610.8,2026-03-24
+PT-1377,Ruben Petersen,868-79-0931,Radiology,Asthma,11352.89,2026-06-09
+PT-1378,Andrea Buck,740-06-9654,Cardiology,Fracture,2666.49,2026-04-13
+PT-1379,Alisha Cruz,311-76-0425,Pediatrics,Migraine,8942.96,2026-03-11
+PT-1380,Albert Jordan,679-68-3878,Radiology,Fracture,687.61,2026-01-31
+PT-1381,Crystal Myers,485-32-6003,Oncology,Migraine,6027.39,2026-06-13
+PT-1382,Paul Torres,608-56-3338,Pediatrics,Asthma,8752.48,2026-06-17
+PT-1383,Michael Ortiz,174-99-3661,Cardiology,Hypertension,11972.04,2026-08-10
+PT-1384,Christine Clark,700-41-0925,Cardiology,Type 2 Diabetes,14353.31,2026-05-04
+PT-1385,Lisa Garcia,714-08-2521,Radiology,Migraine,14300.52,2026-05-01
+PT-1386,Louis Davis,170-75-0096,Radiology,Fracture,13296.56,2026-01-25
+PT-1387,Holly Glass,466-13-5009,Radiology,Fracture,6881.95,2026-08-20
+PT-1388,David Chapman,635-39-9056,Radiology,Fracture,13705.11,2026-01-28
+PT-1389,Calvin Reilly,088-48-7023,Pediatrics,Type 2 Diabetes,1236.43,2026-05-07
+PT-1390,Kyle Rasmussen,255-61-3338,Cardiology,Migraine,13291.93,2026-07-18
+PT-1391,Shelly Lindsey,132-23-6264,Pediatrics,Hypertension,11762.25,2026-03-29
+PT-1392,Joshua Osborne,705-81-2233,Radiology,Migraine,6736.08,2026-04-18
+PT-1393,David Whitney,215-89-4313,Pediatrics,Type 2 Diabetes,10514.16,2026-04-18
+PT-1394,Jessica Garcia,879-08-1983,Cardiology,Fracture,12629.93,2026-09-10
+PT-1395,Dakota David,182-87-9987,Pediatrics,Type 2 Diabetes,11435.86,2026-01-12
+PT-1396,Matthew Monroe,145-16-6616,Pediatrics,Migraine,8971.59,2026-08-10
+PT-1397,Rebecca Gordon,421-43-4237,Oncology,Migraine,12336.0,2026-08-29
+PT-1398,Tommy Mcintosh,616-46-4386,Radiology,Type 2 Diabetes,13725.0,2026-07-05
+PT-1399,Richard Peterson,328-55-9746,Cardiology,Fracture,7557.86,2026-04-21
+PT-1400,Omar Henry,199-28-5707,Oncology,Migraine,2203.86,2026-05-06
+PT-1401,Paige Sanchez,703-45-0481,Radiology,Migraine,12095.83,2026-07-26
+PT-1402,Lindsay Marshall,487-94-2931,Pediatrics,Asthma,12046.8,2026-03-05
+PT-1403,Daniel George,360-39-8256,Radiology,Hypertension,6505.24,2026-03-08
+PT-1404,Sarah Smith,025-27-5159,Cardiology,Asthma,11409.8,2026-01-31
+PT-1405,Nicholas Martin,070-63-6174,Pediatrics,Migraine,1795.92,2026-07-04
+PT-1406,Ariel Jackson,078-90-6241,Oncology,Migraine,6876.75,2026-05-31
+PT-1407,Nathan Haynes,756-76-5092,Cardiology,Migraine,5413.74,2026-09-06
+PT-1408,Mathew Jones,241-95-4971,Cardiology,Type 2 Diabetes,6724.4,2026-08-27
+PT-1409,Ann Smith,247-64-3370,Radiology,Hypertension,9317.74,2026-06-21
+PT-1410,Adam Ruiz,439-51-2407,Pediatrics,Fracture,5919.81,2026-03-01
+PT-1411,Christopher Wilkerson,256-53-3691,Oncology,Hypertension,14831.01,2026-04-08
+PT-1412,Jose Vazquez,216-38-5564,Radiology,Fracture,7249.47,2026-06-29
+PT-1413,Shelby Smith,462-01-6924,Cardiology,Hypertension,2622.14,2026-04-05
+PT-1414,Lisa Thomas,081-21-4944,Oncology,Hypertension,12079.6,2026-04-06
+PT-1415,Brenda Jefferson MD,397-67-2317,Cardiology,Fracture,5302.43,2026-05-21
+PT-1416,Samantha Williams,768-03-9520,Oncology,Asthma,13319.29,2026-09-01
+PT-1417,Jenny Bell,750-88-2409,Pediatrics,Fracture,8730.48,2026-07-22
+PT-1418,Robert Garcia,523-78-7665,Radiology,Fracture,5436.65,2026-05-09
+PT-1419,Debra Evans,009-09-6065,Oncology,Type 2 Diabetes,1826.05,2026-03-28
+PT-1420,Taylor Bowen,752-33-9202,Radiology,Type 2 Diabetes,14597.57,2026-04-15
+PT-1421,Mrs. Alicia Mahoney,592-70-4182,Pediatrics,Fracture,6267.94,2026-07-02
+PT-1422,Blake Fuller,642-18-0580,Radiology,Hypertension,2799.66,2026-06-20
+PT-1423,Christopher Bryan,058-53-9608,Cardiology,Asthma,9884.87,2026-08-26
+PT-1424,Jonathan Berry,759-26-2522,Radiology,Type 2 Diabetes,9493.44,2026-05-29
+PT-1425,Mike Martin,001-84-6643,Oncology,Asthma,4078.09,2026-08-16
+PT-1426,Andrew Rivera,738-80-0428,Oncology,Migraine,12985.35,2026-07-17
+PT-1427,Cynthia Cole,188-35-4523,Oncology,Hypertension,10785.99,2026-01-28
+PT-1428,Kelly Jones,559-28-6679,Oncology,Fracture,4878.39,2026-06-13
+PT-1429,Mitchell Ponce,143-72-9805,Radiology,Hypertension,8998.18,2026-01-20
+PT-1430,Nicole Curry,633-93-4825,Pediatrics,Hypertension,3531.66,2026-07-08
+PT-1431,Matthew Lamb,519-04-7854,Pediatrics,Fracture,8647.43,2026-01-30
+PT-1432,Deborah Smith,611-09-7265,Pediatrics,Fracture,12556.99,2026-06-25
+PT-1433,George Anderson,695-66-3348,Radiology,Type 2 Diabetes,8562.44,2026-05-20
+PT-1434,Lauren Thompson,778-65-9214,Pediatrics,Type 2 Diabetes,14749.21,2026-08-24
+PT-1435,Ariel Williams,387-99-8921,Pediatrics,Hypertension,14189.09,2026-02-07
+PT-1436,Devin Walker,677-62-8234,Radiology,Hypertension,14537.88,2026-04-20
+PT-1437,Dustin Day,773-35-0734,Cardiology,Hypertension,9052.28,2026-04-14
+PT-1438,Holly Gallegos,592-48-0892,Pediatrics,Hypertension,4549.95,2026-05-19
+PT-1439,Justin Bryant,896-46-5818,Cardiology,Migraine,13653.39,2026-08-07
+PT-1440,Cathy Munoz,576-88-7869,Pediatrics,Type 2 Diabetes,12632.57,2026-02-19
+PT-1441,Richard Moon,472-55-6254,Radiology,Hypertension,13322.77,2026-04-05
+PT-1442,Scott Boyd,407-24-6920,Oncology,Hypertension,13182.23,2026-03-28
+PT-1443,Laurie Henderson,148-12-1966,Cardiology,Asthma,3480.59,2026-03-10
+PT-1444,Robert Nelson,112-62-9279,Radiology,Fracture,8739.87,2026-07-23
+PT-1445,Paul Haynes,559-07-6690,Cardiology,Asthma,9019.7,2026-07-04
+PT-1446,Kevin Howard,462-47-5573,Radiology,Asthma,10422.02,2026-07-19
+PT-1447,Alexander Cline,297-84-5321,Radiology,Hypertension,1864.11,2026-04-21
+PT-1448,Robert Dean,331-43-3806,Radiology,Type 2 Diabetes,12856.92,2026-01-06
+PT-1449,Kyle Wright,770-10-8354,Pediatrics,Hypertension,10453.39,2026-02-08
+PT-1450,Toni Herrera,886-90-9392,Cardiology,Hypertension,12474.01,2026-04-02
+PT-1451,Rachael Schroeder,732-79-9886,Cardiology,Type 2 Diabetes,1163.97,2026-06-11
+PT-1452,Kristen Reeves,218-41-8555,Pediatrics,Migraine,2089.79,2026-05-10
+PT-1453,Anita Clark,356-40-1919,Oncology,Type 2 Diabetes,2119.72,2026-05-03
+PT-1454,Steven Cain,164-88-8134,Pediatrics,Fracture,1369.6,2026-07-29
+PT-1455,Anna Ramos,781-90-3551,Pediatrics,Hypertension,1512.39,2026-07-25
+PT-1456,Ashley Morrow,309-81-5446,Cardiology,Migraine,5823.51,2026-01-06
+PT-1457,Aaron Wood,496-52-0669,Radiology,Migraine,11089.69,2026-06-16
+PT-1458,Mark Lester,473-36-6928,Pediatrics,Hypertension,12591.09,2026-04-30
+PT-1459,Shawn Lin,612-28-0110,Radiology,Fracture,13863.09,2026-08-06
+PT-1460,Brandi Phillips,027-16-2415,Radiology,Type 2 Diabetes,11124.44,2026-01-01
+PT-1461,Michele Kelley,854-92-5204,Radiology,Asthma,2859.86,2026-02-08
+PT-1462,Roberto Little,099-83-0152,Radiology,Asthma,12228.37,2026-03-10
+PT-1463,Audrey Krause,849-60-1229,Oncology,Asthma,3903.51,2026-03-22
+PT-1464,Justin Black,567-97-9534,Oncology,Fracture,13013.61,2026-01-02
+PT-1465,Michelle Chung,805-96-8558,Cardiology,Hypertension,696.88,2026-07-21
+PT-1466,Jennifer Hobbs,327-95-6273,Pediatrics,Type 2 Diabetes,1588.47,2026-04-16
+PT-1467,Matthew Morris,109-31-6211,Radiology,Asthma,4677.39,2026-04-01
+PT-1468,Nicole Robertson,180-93-8300,Cardiology,Type 2 Diabetes,12788.1,2026-04-15
+PT-1469,Ashley Morales,456-24-7441,Cardiology,Type 2 Diabetes,2322.79,2026-03-17
+PT-1470,Benjamin Perez,583-79-9789,Oncology,Migraine,3259.89,2026-07-15
+PT-1471,Nicholas Underwood,066-06-4136,Pediatrics,Hypertension,529.7,2026-03-14
+PT-1472,Kelly Juarez,735-37-3622,Pediatrics,Hypertension,2259.33,2026-07-02
+PT-1473,Robert Perez,007-08-6545,Oncology,Asthma,9932.07,2026-03-07
+PT-1474,Raymond Miranda,485-05-2813,Oncology,Type 2 Diabetes,7837.35,2026-01-17
+PT-1475,Jason Smith,438-25-2489,Oncology,Hypertension,14511.15,2026-02-09
+PT-1476,Michael Collins,809-30-2926,Pediatrics,Fracture,1538.48,2026-08-10
+PT-1477,Sarah Peterson,514-81-5406,Oncology,Asthma,3840.74,2026-02-04
+PT-1478,Melissa Rodriguez,070-93-2526,Cardiology,Asthma,11212.54,2026-02-26
+PT-1479,Juan Carter,898-37-0347,Cardiology,Asthma,11113.79,2026-08-28
+PT-1480,David Thomas,418-08-9921,Cardiology,Type 2 Diabetes,4099.91,2026-01-17
+PT-1481,Kimberly Powers,030-42-0148,Cardiology,Fracture,13835.27,2026-08-17
+PT-1482,Marie Garner,700-46-1677,Oncology,Asthma,10694.17,2026-01-22
+PT-1483,Brian Hubbard,592-04-4997,Radiology,Hypertension,10784.44,2026-03-11
+PT-1484,Rachel Brooks,669-96-8072,Pediatrics,Type 2 Diabetes,7897.08,2026-03-07
+PT-1485,Tanya Morris,346-82-8496,Pediatrics,Hypertension,7666.18,2026-06-01
+PT-1486,Elizabeth Ford,092-59-3058,Oncology,Hypertension,12359.81,2026-04-09
+PT-1487,Ricardo Aguirre,385-53-6301,Pediatrics,Migraine,5090.33,2026-02-07
+PT-1488,Emily Murray,362-13-7552,Radiology,Asthma,10276.33,2026-01-04
+PT-1489,Susan Lewis,017-13-7428,Cardiology,Type 2 Diabetes,13664.54,2026-04-28
+PT-1490,Ryan Oliver,632-61-4739,Pediatrics,Hypertension,8957.13,2026-03-23
+PT-1491,Nicole Johnson,411-96-7416,Cardiology,Type 2 Diabetes,11320.11,2026-05-02
+PT-1492,Alexandra Dixon,635-37-8738,Oncology,Hypertension,7086.07,2026-02-16
+PT-1493,Virginia Wilson,273-40-7780,Pediatrics,Hypertension,4149.93,2026-03-16
+PT-1494,Amanda Hamilton,701-87-4608,Cardiology,Hypertension,1437.21,2026-06-25
+PT-1495,Timothy Copeland,880-21-2199,Radiology,Type 2 Diabetes,2417.84,2026-06-04
+PT-1496,Katie Brown,344-08-1461,Cardiology,Type 2 Diabetes,1830.98,2026-02-26
+PT-1497,Jacob Jones,361-99-1379,Cardiology,Migraine,3561.86,2026-01-09
+PT-1498,David Harrington,598-21-5998,Oncology,Migraine,14057.36,2026-03-24
+PT-1499,Kristine Lewis,114-28-6419,Cardiology,Migraine,11091.93,2026-08-13
+PT-1500,Michael Anderson,655-22-2898,Cardiology,Type 2 Diabetes,7306.99,2026-06-14
+PT-1501,Elizabeth Parks,282-14-6264,Cardiology,Asthma,6260.06,2026-01-29
+PT-1502,Mrs. Sandra Chaney PhD,312-20-9383,Pediatrics,Asthma,827.69,2026-08-19
+PT-1503,Heidi Reyes,537-09-5743,Pediatrics,Type 2 Diabetes,14319.95,2026-07-12
+PT-1504,Amy Brooks,039-90-3172,Cardiology,Fracture,13650.28,2026-07-27
+PT-1505,Jamie Moore,771-56-2173,Radiology,Asthma,4547.43,2026-05-26
+PT-1506,Ashley Brown,484-95-7942,Cardiology,Type 2 Diabetes,13553.26,2026-09-02
+PT-1507,Nathan Logan,374-44-0080,Pediatrics,Migraine,2384.58,2026-04-16
+PT-1508,Destiny Walker,505-99-5172,Oncology,Migraine,14591.31,2026-09-14
+PT-1509,Erin Martinez MD,623-43-7476,Radiology,Hypertension,2950.47,2026-04-05
+PT-1510,Connie Martinez,538-06-0459,Radiology,Asthma,13486.55,2026-04-21
+PT-1511,Jennifer Freeman,585-26-2961,Radiology,Type 2 Diabetes,1214.79,2026-08-29
+PT-1512,Nicholas Davis,832-54-3323,Cardiology,Migraine,519.9,2026-02-27
+PT-1513,Tara Young,543-97-2553,Pediatrics,Fracture,14988.73,2026-09-12
+PT-1514,Daryl Johnson,088-34-0233,Cardiology,Fracture,4050.66,2026-07-12
+PT-1515,Sharon Bailey,724-02-8307,Oncology,Migraine,11634.9,2026-04-11
+PT-1516,Lori Taylor,885-02-0211,Pediatrics,Fracture,5334.22,2026-03-06
+PT-1517,Charles Schwartz,519-38-0181,Oncology,Asthma,7810.76,2026-06-17
+PT-1518,Michael Jennings,336-78-9468,Oncology,Asthma,3506.48,2026-01-16
+PT-1519,Timothy Reid,290-42-6408,Radiology,Migraine,11898.42,2026-07-09
+PT-1520,Zachary King,429-24-5377,Oncology,Fracture,12096.19,2026-08-14
+PT-1521,Emily Miller,373-99-5961,Cardiology,Migraine,5134.23,2026-03-10
+PT-1522,Craig Arnold,577-05-6358,Pediatrics,Fracture,2532.43,2026-08-31
+PT-1523,Debbie Perez,147-28-5790,Radiology,Hypertension,3687.56,2026-01-30
+PT-1524,Dustin West,004-74-1988,Pediatrics,Hypertension,1701.54,2026-01-29
+PT-1525,Antonio Peters,265-20-4700,Radiology,Migraine,13303.56,2026-01-01
+PT-1526,Ronald Zhang,213-32-4241,Radiology,Fracture,5666.04,2026-01-09
+PT-1527,Kevin Richmond,612-69-5821,Pediatrics,Type 2 Diabetes,1580.09,2026-03-04
+PT-1528,Kenneth Ross,293-01-9479,Cardiology,Asthma,7232.8,2026-08-08
+PT-1529,Alicia Brown,316-43-4015,Cardiology,Asthma,14413.58,2026-08-31
+PT-1530,Shawn Nelson,502-34-5337,Cardiology,Type 2 Diabetes,12374.82,2026-04-30
+PT-1531,Melinda Dalton,100-69-3059,Pediatrics,Type 2 Diabetes,8801.96,2026-02-28
+PT-1532,Eric Anderson,836-96-9711,Pediatrics,Migraine,8396.63,2026-02-11
+PT-1533,Charles Ruiz,266-59-9023,Radiology,Migraine,4131.97,2026-05-20
+PT-1534,Katherine Reid,024-89-5896,Pediatrics,Asthma,13885.12,2026-05-09
+PT-1535,Elizabeth Cunningham,128-31-9546,Oncology,Migraine,5514.18,2026-08-26
+PT-1536,Jaime Lewis,330-73-9280,Pediatrics,Migraine,14323.88,2026-01-09
+PT-1537,Heidi Higgins,549-57-9792,Cardiology,Type 2 Diabetes,3283.65,2026-04-23
+PT-1538,Catherine Cole,230-10-1525,Oncology,Fracture,8377.61,2026-05-16
+PT-1539,Anne Foster,563-79-8886,Radiology,Type 2 Diabetes,4191.74,2026-09-16
+PT-1540,Joseph Simpson,518-94-7315,Pediatrics,Type 2 Diabetes,10884.83,2026-04-18
+PT-1541,Kevin Turner MD,448-07-8469,Pediatrics,Hypertension,2844.74,2026-07-06
+PT-1542,Elizabeth Collins,805-85-4608,Radiology,Type 2 Diabetes,11858.79,2026-03-21
+PT-1543,Heather Cook,857-15-7995,Pediatrics,Migraine,12150.86,2026-07-31
+PT-1544,Micheal Greene,836-77-2807,Pediatrics,Fracture,8325.17,2026-05-26
+PT-1545,Jason Thomas,227-95-6084,Cardiology,Migraine,3826.6,2026-05-08
+PT-1546,Travis Johnson,690-26-8383,Radiology,Fracture,969.88,2026-03-27
+PT-1547,Lisa Robbins,039-62-2419,Oncology,Type 2 Diabetes,10865.57,2026-06-16
+PT-1548,Isabel Davis,506-35-8733,Radiology,Hypertension,6989.31,2026-07-31
+PT-1549,Hayden Armstrong,332-85-8382,Cardiology,Fracture,13839.81,2026-07-30
+PT-1550,Stephen Terry,689-02-7192,Cardiology,Fracture,12084.08,2026-08-06
+PT-1551,Ronald Barr,856-89-2722,Radiology,Type 2 Diabetes,4352.58,2026-03-14
+PT-1552,Tracey Riley,334-54-7315,Cardiology,Fracture,10788.08,2026-08-21
+PT-1553,Natasha Montgomery,497-63-2013,Oncology,Migraine,6587.34,2026-06-13
+PT-1554,William Martin,412-18-1393,Radiology,Asthma,4788.21,2026-02-12
+PT-1555,Rachel Terry,499-52-8217,Pediatrics,Type 2 Diabetes,2798.82,2026-03-02
+PT-1556,Stephanie Conway,883-71-9064,Pediatrics,Fracture,6646.73,2026-07-27
+PT-1557,Nicole Clay,419-32-6646,Radiology,Asthma,2231.5,2026-04-11
+PT-1558,William Lewis,091-96-8440,Pediatrics,Asthma,214.53,2026-05-13
+PT-1559,Joseph Greer,787-60-4430,Radiology,Fracture,14307.82,2026-08-08
+PT-1560,Luke Murphy,510-27-4271,Cardiology,Asthma,6563.09,2026-08-08
+PT-1561,Hannah Mcbride,559-87-2857,Oncology,Hypertension,13774.84,2026-08-23
+PT-1562,Jennifer Krause,404-78-6213,Oncology,Hypertension,8821.37,2026-02-19
+PT-1563,Nathan Hall,780-03-2432,Radiology,Hypertension,2039.59,2026-04-25
+PT-1564,Rebecca Williams,284-27-7988,Pediatrics,Asthma,5041.93,2026-01-15
+PT-1565,Brandon Russell,164-18-2644,Pediatrics,Fracture,8712.75,2026-08-30
+PT-1566,Mary Powell,072-44-8354,Radiology,Hypertension,12921.57,2026-01-15
+PT-1567,Molly Jimenez,715-35-8782,Pediatrics,Type 2 Diabetes,1436.2,2026-07-20
+PT-1568,Sara Jordan,316-48-5499,Pediatrics,Migraine,9710.62,2026-07-10
+PT-1569,Yolanda Wade,111-81-2995,Cardiology,Migraine,1035.23,2026-09-03
+PT-1570,David Anderson,143-94-4394,Oncology,Migraine,8187.97,2026-08-17
+PT-1571,Thomas Davis,676-72-6686,Pediatrics,Migraine,1029.98,2026-05-15
+PT-1572,Robert Green,457-37-7708,Oncology,Hypertension,6123.37,2026-04-07
+PT-1573,Mark Mcgrath,687-96-9997,Pediatrics,Fracture,12873.47,2026-07-26
+PT-1574,Jennifer Fisher,099-73-4850,Oncology,Asthma,12358.84,2026-04-27
+PT-1575,Adrian Black,781-68-7006,Oncology,Hypertension,7763.85,2026-05-01
+PT-1576,Allison Robinson,129-59-3916,Radiology,Fracture,6579.22,2026-07-29
+PT-1577,Luke Kim,233-80-3335,Pediatrics,Fracture,14904.14,2026-07-04
+PT-1578,Natasha Frazier,882-06-4857,Pediatrics,Fracture,220.02,2026-04-16
+PT-1579,Samantha Robinson,179-60-1888,Radiology,Hypertension,5715.15,2026-07-18
+PT-1580,Thomas Evans,335-91-4373,Oncology,Migraine,13402.3,2026-05-29
+PT-1581,Angela Harris,646-28-2212,Oncology,Type 2 Diabetes,753.56,2026-01-05
+PT-1582,Anne Jensen,088-03-3464,Cardiology,Asthma,5990.42,2026-03-09
+PT-1583,Bradley Dunn,332-42-8075,Oncology,Asthma,13941.81,2026-02-20
+PT-1584,Tiffany Turner,039-75-7855,Cardiology,Asthma,11498.96,2026-07-15
+PT-1585,Ryan Jones,341-55-2959,Pediatrics,Asthma,11826.81,2026-08-14
+PT-1586,Michael Cole,086-45-7388,Radiology,Fracture,1768.61,2026-05-06
+PT-1587,Matthew Diaz,146-76-6984,Radiology,Fracture,13680.29,2026-08-02
+PT-1588,Timothy Murphy,746-55-2821,Cardiology,Migraine,11266.1,2026-02-19
+PT-1589,Matthew Brown,065-45-7665,Radiology,Asthma,9076.23,2026-01-11
+PT-1590,Jamie Bray,355-15-6886,Cardiology,Type 2 Diabetes,451.02,2026-02-27
+PT-1591,Leslie Stanton,241-40-8435,Radiology,Fracture,6912.22,2026-01-19
+PT-1592,Keith Larson,264-32-8635,Oncology,Asthma,12450.27,2026-05-30
+PT-1593,John Moon,317-67-0491,Cardiology,Hypertension,594.04,2026-03-16
+PT-1594,Dylan Norman,555-18-7037,Pediatrics,Migraine,797.41,2026-08-09
+PT-1595,Brian Hernandez,268-59-6176,Oncology,Migraine,13535.23,2026-05-19
+PT-1596,Todd Berry,629-95-3850,Oncology,Hypertension,3168.09,2026-06-09
+PT-1597,Michael Garcia,889-29-6902,Oncology,Hypertension,11259.2,2026-06-03
+PT-1598,Robert Jackson,362-91-4316,Pediatrics,Asthma,13829.78,2026-01-28
+PT-1599,Kendra Fox,592-43-3124,Oncology,Hypertension,9057.72,2026-04-18
+PT-1600,Gregory Larson,665-12-6525,Pediatrics,Fracture,7131.45,2026-02-19
+PT-1601,Eileen Smith,416-10-5134,Radiology,Type 2 Diabetes,12926.22,2026-01-29
+PT-1602,Sheila Hernandez,434-65-8388,Pediatrics,Fracture,7550.65,2026-09-05
+PT-1603,Ryan Brennan,416-11-3799,Radiology,Migraine,13333.39,2026-09-09
+PT-1604,Martha Mann,641-57-0924,Pediatrics,Migraine,1113.78,2026-04-13
+PT-1605,Christie Cooper,685-91-2410,Pediatrics,Migraine,1566.59,2026-07-12
+PT-1606,Sara Gordon,282-86-3948,Cardiology,Asthma,8342.45,2026-09-04
+PT-1607,Robert Reilly,435-18-9499,Oncology,Migraine,1407.99,2026-01-22
+PT-1608,Erin Jones,280-16-3256,Pediatrics,Fracture,7268.65,2026-01-29
+PT-1609,Patricia Brown,191-43-0066,Radiology,Type 2 Diabetes,4661.48,2026-06-06
+PT-1610,Kathryn Warren,885-74-6012,Cardiology,Hypertension,4911.94,2026-07-28
+PT-1611,Susan Love,560-44-3881,Pediatrics,Fracture,9539.97,2026-01-05
+PT-1612,Jessica Green,424-89-8694,Oncology,Asthma,10878.0,2026-07-08
+PT-1613,Ellen Ali DVM,425-99-5393,Cardiology,Type 2 Diabetes,605.14,2026-06-19
+PT-1614,Angela Shelton,068-99-0689,Radiology,Asthma,12838.14,2026-05-07
+PT-1615,Nancy Howard,770-83-3061,Oncology,Migraine,6465.83,2026-08-07
+PT-1616,Alison Gonzales,497-98-9238,Radiology,Hypertension,2929.23,2026-08-11
+PT-1617,Jason Bernard,892-32-0780,Oncology,Fracture,6256.5,2026-09-14
+PT-1618,Andrew Stone,451-19-9507,Pediatrics,Hypertension,2759.62,2026-08-18
+PT-1619,Rebecca Brown,414-91-6649,Radiology,Type 2 Diabetes,4139.71,2026-03-18
+PT-1620,Patrick Serrano,674-04-9960,Pediatrics,Fracture,14646.66,2026-06-05
+PT-1621,David Williams,272-48-4431,Radiology,Hypertension,1265.2,2026-05-18
+PT-1622,Olivia Fernandez,094-08-7028,Radiology,Hypertension,4570.52,2026-01-01
+PT-1623,Melissa Acosta,040-61-4949,Oncology,Migraine,8820.47,2026-05-07
+PT-1624,Melissa Thomas,689-87-6091,Radiology,Type 2 Diabetes,2692.07,2026-01-23
+PT-1625,Kelsey Turner,041-33-9818,Radiology,Fracture,4733.15,2026-08-23
+PT-1626,Michael Waller,293-49-9237,Radiology,Type 2 Diabetes,13762.8,2026-09-10
+PT-1627,Mark Small,410-62-0730,Cardiology,Migraine,4258.4,2026-08-22
+PT-1628,James Hale,290-93-4966,Radiology,Fracture,5888.34,2026-06-11
+PT-1629,John Blackwell,163-90-1869,Radiology,Asthma,2564.97,2026-03-09
+PT-1630,Lisa Wolf,799-59-6264,Radiology,Asthma,11233.68,2026-01-10
+PT-1631,Jessica Smith,115-13-0385,Cardiology,Asthma,1270.31,2026-03-11
+PT-1632,Kristen King,598-60-8589,Cardiology,Asthma,12619.46,2026-08-06
+PT-1633,Thomas Gay,303-48-5234,Pediatrics,Hypertension,12928.71,2026-07-15
+PT-1634,Julie Dougherty,684-42-9987,Oncology,Migraine,10017.99,2026-01-09
+PT-1635,Brandon Knight,466-13-1821,Radiology,Hypertension,13716.5,2026-04-20
+PT-1636,Valerie Weaver,663-25-7221,Radiology,Type 2 Diabetes,8860.01,2026-07-02
+PT-1637,Peter Valenzuela,453-09-2371,Oncology,Fracture,10436.13,2026-05-15
+PT-1638,Emily Garcia,756-74-0027,Pediatrics,Migraine,5603.82,2026-08-10
+PT-1639,Joseph Rose,014-37-7294,Radiology,Asthma,882.75,2026-08-30
+PT-1640,Curtis Wilson,124-32-1080,Oncology,Hypertension,1457.65,2026-01-22
+PT-1641,Timothy Burgess,278-02-0959,Oncology,Fracture,13577.49,2026-09-12
+PT-1642,Anthony Wright,098-12-0805,Oncology,Fracture,6143.62,2026-02-07
+PT-1643,Alexander Garcia,851-98-6908,Pediatrics,Fracture,7624.99,2026-08-28
+PT-1644,David Farmer,259-89-9274,Radiology,Asthma,3741.7,2026-08-22
+PT-1645,Jennifer Rogers,601-27-6136,Cardiology,Type 2 Diabetes,6496.9,2026-04-10
+PT-1646,Ricardo Hoffman,052-43-2206,Pediatrics,Hypertension,10325.55,2026-05-29
+PT-1647,Paula Bullock,847-36-4091,Cardiology,Hypertension,6565.71,2026-03-12
+PT-1648,David Ray,174-43-8630,Pediatrics,Migraine,3732.29,2026-02-13
+PT-1649,Charlene Lee,247-24-5660,Oncology,Hypertension,11114.26,2026-04-01
+PT-1650,Tina Gamble,888-93-7851,Pediatrics,Asthma,9012.31,2026-02-14
+PT-1651,Sonya Luna,877-53-3216,Oncology,Fracture,5371.16,2026-04-30
+PT-1652,Jennifer Smith,828-76-0419,Oncology,Asthma,2575.77,2026-06-28
+PT-1653,Amber Maldonado,868-39-9735,Oncology,Asthma,256.71,2026-01-14
+PT-1654,John Lane,491-74-8611,Pediatrics,Migraine,12796.14,2026-02-15
+PT-1655,Sarah Nguyen,390-26-7840,Cardiology,Hypertension,11005.86,2026-07-22
+PT-1656,Deborah Wilson,500-53-5320,Oncology,Hypertension,8640.81,2026-08-21
+PT-1657,Joseph Alvarado,169-90-3325,Oncology,Hypertension,11039.79,2026-07-23
+PT-1658,Nathaniel Jarvis,805-11-2790,Radiology,Type 2 Diabetes,7355.06,2026-02-09
+PT-1659,Dan Chavez,507-36-3328,Cardiology,Fracture,8659.1,2026-02-08
+PT-1660,James Jackson,668-42-4601,Radiology,Asthma,525.02,2026-07-12
+PT-1661,Sierra Nunez,059-86-8251,Oncology,Fracture,5759.44,2026-09-05
+PT-1662,Christopher Green,681-63-2660,Pediatrics,Type 2 Diabetes,645.0,2026-06-29
+PT-1663,Tristan Smith,792-76-8175,Oncology,Migraine,10063.11,2026-06-16
+PT-1664,Brent Gilbert,295-17-7418,Radiology,Asthma,697.49,2026-03-02
+PT-1665,Kaitlin Jackson,164-68-1305,Cardiology,Hypertension,14605.49,2026-04-19
+PT-1666,Kyle Gutierrez,574-54-9575,Pediatrics,Hypertension,9233.93,2026-03-01
+PT-1667,Mary Horne,540-88-7985,Pediatrics,Hypertension,13869.96,2026-01-11
+PT-1668,Christopher Lewis,254-25-9960,Cardiology,Hypertension,1262.09,2026-02-08
+PT-1669,Amanda Waters,054-23-6165,Radiology,Asthma,6427.23,2026-08-11
+PT-1670,Amanda Ortiz,454-44-5824,Oncology,Fracture,5623.09,2026-02-03
+PT-1671,Matthew Snyder,213-71-6223,Radiology,Fracture,9617.19,2026-01-17
+PT-1672,John Russo,354-96-4471,Radiology,Migraine,1562.95,2026-01-30
+PT-1673,Melissa Thompson,855-30-9736,Oncology,Type 2 Diabetes,8091.22,2026-06-19
+PT-1674,Jennifer Nelson,168-02-4339,Pediatrics,Migraine,7818.83,2026-01-19
+PT-1675,Ashley York,871-26-0981,Cardiology,Fracture,6632.43,2026-08-22
+PT-1676,Tony Jensen,418-71-7131,Cardiology,Asthma,13875.11,2026-08-25
+PT-1677,Tiffany Cantu,260-57-1419,Radiology,Asthma,11574.01,2026-02-07
+PT-1678,Leslie Taylor,318-76-8053,Pediatrics,Migraine,3304.88,2026-08-12
+PT-1679,Laura Williams,441-67-0832,Oncology,Migraine,10146.8,2026-07-19
+PT-1680,Michael Lewis,789-91-9771,Radiology,Type 2 Diabetes,8140.71,2026-02-05
+PT-1681,Rachel Hobbs,519-15-2177,Radiology,Hypertension,12988.13,2026-03-20
+PT-1682,Emily Young,463-80-7649,Oncology,Migraine,7211.5,2026-03-14
+PT-1683,Karen Mcgrath,803-09-5358,Pediatrics,Hypertension,6693.11,2026-08-21
+PT-1684,Paul Reilly,439-73-6125,Oncology,Type 2 Diabetes,944.1,2026-06-07
+PT-1685,Jason Murray,122-12-0740,Radiology,Asthma,8683.99,2026-09-06
+PT-1686,Lucas Booker,068-87-9651,Cardiology,Hypertension,5486.68,2026-07-18
+PT-1687,Wendy Wilkerson,637-92-6639,Pediatrics,Migraine,6993.77,2026-08-07
+PT-1688,Daniel Rodriguez,874-73-2381,Oncology,Asthma,13713.64,2026-02-20
+PT-1689,Brittany Rogers,095-51-6496,Cardiology,Type 2 Diabetes,4883.5,2026-02-25
+PT-1690,Brian Curry,818-87-4117,Pediatrics,Type 2 Diabetes,11909.95,2026-08-03
+PT-1691,Victoria Castro,106-22-5887,Cardiology,Hypertension,2613.05,2026-06-28
+PT-1692,Sydney Frazier,830-34-0043,Radiology,Type 2 Diabetes,13327.23,2026-06-18
+PT-1693,Alexandra Wyatt,578-82-2924,Radiology,Asthma,3283.82,2026-06-07
+PT-1694,Anna Barrett,351-90-8106,Radiology,Fracture,14705.41,2026-06-01
+PT-1695,Kristina Duncan,604-60-7961,Radiology,Type 2 Diabetes,2359.58,2026-06-23
+PT-1696,Brianna Ramirez,738-22-2773,Pediatrics,Hypertension,9189.31,2026-02-12
+PT-1697,Ray Murphy,087-41-8577,Pediatrics,Migraine,1201.34,2026-08-29
+PT-1698,Betty Swanson DDS,789-13-5337,Pediatrics,Fracture,6763.89,2026-01-08
+PT-1699,Susan Woods,339-28-3113,Pediatrics,Type 2 Diabetes,2281.39,2026-03-01
+PT-1700,Megan Hunt,314-77-1483,Oncology,Fracture,3680.45,2026-05-26
+PT-1701,Jennifer Reed,473-86-0768,Radiology,Fracture,8280.04,2026-02-08
+PT-1702,George Norman,794-57-3700,Pediatrics,Fracture,4722.32,2026-04-06
+PT-1703,Nathan Olsen,138-81-5447,Oncology,Fracture,9003.13,2026-07-12
+PT-1704,Kimberly Herman,319-18-3221,Radiology,Hypertension,947.62,2026-05-19
+PT-1705,Joshua Williams,370-59-9229,Radiology,Type 2 Diabetes,14146.6,2026-08-01
+PT-1706,William Li,099-56-0687,Cardiology,Migraine,5242.97,2026-06-29
+PT-1707,Patricia Leon,183-76-4511,Cardiology,Type 2 Diabetes,3958.51,2026-06-01
+PT-1708,Justin Barnes,013-67-5277,Pediatrics,Hypertension,7711.67,2026-01-02
+PT-1709,Devon Hayes,487-65-2417,Pediatrics,Fracture,11041.89,2026-01-07
+PT-1710,John Kim,878-34-0723,Oncology,Type 2 Diabetes,8727.53,2026-01-31
+PT-1711,Melissa Daugherty,638-85-6585,Pediatrics,Type 2 Diabetes,6391.79,2026-06-11
+PT-1712,Theresa White,587-74-2847,Cardiology,Asthma,8604.03,2026-03-29
+PT-1713,Lisa Baird,155-19-1826,Pediatrics,Asthma,12421.46,2026-04-09
+PT-1714,Crystal Houston,538-40-2727,Pediatrics,Fracture,738.11,2026-03-30
+PT-1715,Grant Saunders,184-82-0759,Cardiology,Migraine,11757.14,2026-08-27
+PT-1716,Rachel Taylor,526-02-7227,Radiology,Migraine,12974.75,2026-06-23
+PT-1717,Jeffrey Ferguson,549-70-5317,Cardiology,Hypertension,1943.59,2026-07-01
+PT-1718,Jennifer Wolf,769-31-5517,Radiology,Asthma,8157.21,2026-08-07
+PT-1719,Jordan Duncan,685-10-8537,Cardiology,Hypertension,3653.83,2026-05-17
+PT-1720,Shelia Montgomery,284-76-7510,Radiology,Asthma,14122.45,2026-05-26
+PT-1721,Jeremy Sheppard,714-09-0013,Radiology,Fracture,1217.47,2026-05-08
+PT-1722,April Acosta,570-42-8310,Radiology,Asthma,11862.25,2026-05-08
+PT-1723,Juan Obrien,464-94-1904,Cardiology,Fracture,5699.18,2026-01-21
+PT-1724,Sarah Martinez,210-48-6379,Pediatrics,Hypertension,12886.44,2026-04-03
+PT-1725,Catherine Morgan,671-14-3124,Radiology,Hypertension,11229.09,2026-05-25
+PT-1726,Carol Schmidt,679-73-0433,Cardiology,Hypertension,13415.74,2026-04-15
+PT-1727,Alexa Guzman,677-67-0884,Cardiology,Asthma,11247.66,2026-04-09
+PT-1728,Jeremy Taylor,364-67-1026,Radiology,Type 2 Diabetes,11174.63,2026-09-14
+PT-1729,Laurie Burch,413-68-9514,Radiology,Hypertension,9089.4,2026-05-08
+PT-1730,Patrick Oconnor,035-83-6556,Radiology,Type 2 Diabetes,5962.34,2026-03-31
+PT-1731,Mrs. Robin Harrison,751-49-9981,Cardiology,Type 2 Diabetes,12014.59,2026-06-21
+PT-1732,Tina Schroeder,843-61-0847,Radiology,Hypertension,599.53,2026-05-14
+PT-1733,Justin Wolf,506-89-7032,Radiology,Fracture,2853.03,2026-04-23
+PT-1734,Jennifer Acosta,157-46-8261,Oncology,Type 2 Diabetes,3615.93,2026-06-16
+PT-1735,Mr. Michael Johnson,696-32-2474,Pediatrics,Fracture,10855.89,2026-06-03
+PT-1736,Jeffrey Delgado,585-79-4077,Oncology,Migraine,13227.76,2026-06-07
+PT-1737,Gavin Myers,215-43-2886,Radiology,Asthma,14575.96,2026-02-17
+PT-1738,Melanie Garner,463-90-5142,Pediatrics,Hypertension,7801.67,2026-02-21
+PT-1739,Patricia Thompson,155-37-6082,Oncology,Hypertension,246.31,2026-05-01
+PT-1740,Walter Mcclure,126-73-7184,Oncology,Hypertension,5716.17,2026-08-11
+PT-1741,Savannah Hanson,591-32-3108,Oncology,Asthma,330.45,2026-07-14
+PT-1742,Jacob Bailey,619-51-9719,Radiology,Hypertension,14697.32,2026-09-16
+PT-1743,Carol Frederick,639-62-4025,Pediatrics,Asthma,248.05,2026-08-24
+PT-1744,Benjamin Roth,573-75-7465,Radiology,Migraine,4278.06,2026-02-23
+PT-1745,Joanna Nguyen DDS,193-85-9612,Oncology,Fracture,5387.64,2026-04-07
+PT-1746,Miss Cassandra Mahoney,639-11-8335,Cardiology,Fracture,8396.84,2026-08-21
+PT-1747,Robert Berry,080-99-1386,Oncology,Asthma,3897.91,2026-07-18
+PT-1748,Lynn Simon,538-22-3142,Pediatrics,Asthma,9285.63,2026-06-02
+PT-1749,John Osborn,141-12-6380,Oncology,Migraine,6456.92,2026-01-21
+PT-1750,Brenda Flores,118-11-7312,Cardiology,Migraine,13291.59,2026-08-11
+PT-1751,Anthony Ross,126-30-8009,Radiology,Asthma,12517.29,2026-05-11
+PT-1752,Jacob Hall,261-42-5979,Radiology,Type 2 Diabetes,11652.93,2026-09-01
+PT-1753,Gabrielle Proctor,684-63-2640,Oncology,Asthma,12679.55,2026-07-17
+PT-1754,Lance Collins,014-65-2804,Oncology,Hypertension,3048.36,2026-08-31
+PT-1755,Kelly Burns,592-69-7731,Cardiology,Hypertension,13261.16,2026-01-24
+PT-1756,Jenna Smith,398-29-5320,Oncology,Type 2 Diabetes,2904.88,2026-01-17
+PT-1757,Robert Hardy,544-14-8179,Cardiology,Migraine,10329.02,2026-08-02
+PT-1758,Cory Ramirez,132-97-5829,Cardiology,Hypertension,6940.67,2026-05-31
+PT-1759,Dennis Smith,176-99-2842,Oncology,Hypertension,7820.83,2026-06-21
+PT-1760,Tara Gardner,729-96-0124,Cardiology,Type 2 Diabetes,6011.8,2026-07-26
+PT-1761,Michael Schaefer,832-70-6146,Pediatrics,Type 2 Diabetes,1627.69,2026-05-19
+PT-1762,Melissa Nash,753-09-5834,Cardiology,Hypertension,5868.11,2026-05-21
+PT-1763,Robert Thomas,171-72-8903,Radiology,Hypertension,10389.96,2026-05-07
+PT-1764,Steven Adams,586-52-1927,Pediatrics,Hypertension,11500.86,2026-05-30
+PT-1765,Cynthia Wallace,048-01-1491,Radiology,Fracture,11792.13,2026-02-26
+PT-1766,Amber Jordan,118-58-2031,Cardiology,Type 2 Diabetes,1470.56,2026-05-13
+PT-1767,John Molina,823-64-0388,Pediatrics,Type 2 Diabetes,6400.4,2026-01-22
+PT-1768,Antonio Hughes,602-65-2124,Oncology,Hypertension,2967.32,2026-06-18
+PT-1769,Ross Jarvis,549-85-1495,Radiology,Migraine,6316.82,2026-05-10
+PT-1770,Craig Wilson,072-71-1075,Radiology,Asthma,13857.4,2026-02-24
+PT-1771,Marcus Gonzales,746-56-5110,Cardiology,Hypertension,9670.87,2026-07-12
+PT-1772,Robert Johnson,133-68-1091,Cardiology,Fracture,9248.64,2026-03-12
+PT-1773,Samantha Morgan,188-84-8915,Radiology,Asthma,10178.27,2026-06-08
+PT-1774,Christopher Nelson,485-39-4573,Oncology,Migraine,10127.75,2026-02-13
+PT-1775,Michael Booth DDS,416-99-4503,Cardiology,Asthma,7298.4,2026-06-10
+PT-1776,Robert Silva,376-84-1210,Pediatrics,Hypertension,2062.68,2026-09-06
+PT-1777,Patrick English,790-81-4352,Cardiology,Migraine,13686.8,2026-04-02
+PT-1778,Steven Wheeler,544-46-9275,Radiology,Type 2 Diabetes,704.44,2026-03-23
+PT-1779,Dawn Grimes,023-85-2260,Cardiology,Type 2 Diabetes,11290.57,2026-01-29
+PT-1780,Donald Parsons,459-09-2821,Cardiology,Type 2 Diabetes,5301.52,2026-01-10
+PT-1781,Amy Smith,210-96-8419,Radiology,Asthma,11794.75,2026-01-19
+PT-1782,Dustin Hoffman,385-95-0060,Pediatrics,Migraine,13091.86,2026-03-30
+PT-1783,Alec Bennett,576-84-5572,Pediatrics,Hypertension,6052.28,2026-07-19
+PT-1784,Christopher White,458-64-6672,Oncology,Fracture,9871.69,2026-08-17
+PT-1785,Travis Pearson,439-38-6081,Cardiology,Fracture,7103.38,2026-05-11
+PT-1786,Stephen Young,824-74-1040,Pediatrics,Asthma,8386.64,2026-08-15
+PT-1787,Todd Hall,862-42-2281,Oncology,Hypertension,5502.1,2026-05-04
+PT-1788,Nathan Kim Jr.,865-23-7362,Pediatrics,Fracture,6857.04,2026-01-07
+PT-1789,Sara Pugh,612-04-3461,Oncology,Type 2 Diabetes,1196.71,2026-01-26
+PT-1790,Lindsey Stone,765-49-3139,Radiology,Migraine,13977.09,2026-08-16
+PT-1791,Thomas Nelson,117-31-2640,Oncology,Migraine,9958.7,2026-01-24
+PT-1792,Mr. Christopher Lee,718-74-7444,Cardiology,Hypertension,7065.77,2026-04-26
+PT-1793,Brandon Brock,352-06-8016,Oncology,Asthma,13375.77,2026-01-29
+PT-1794,Matthew Morris DVM,801-72-5906,Oncology,Asthma,3778.74,2026-08-20
+PT-1795,Angela Allen,483-54-6830,Pediatrics,Migraine,9077.63,2026-01-14
+PT-1796,Melissa Young,856-87-2150,Pediatrics,Migraine,10268.37,2026-06-15
+PT-1797,Nicole Jones,707-86-8710,Oncology,Asthma,14023.88,2026-03-27
+PT-1798,Sean Williams,614-62-1615,Oncology,Fracture,2565.64,2026-02-06
+PT-1799,Jessica Richardson,096-55-5909,Radiology,Type 2 Diabetes,11289.26,2026-07-03
+PT-1800,Ronald Sloan,801-05-6834,Cardiology,Fracture,12171.68,2026-09-10
+PT-1801,Nancy Martinez,811-52-3891,Radiology,Type 2 Diabetes,13389.94,2026-06-17
+PT-1802,Aaron Preston,199-05-0379,Radiology,Hypertension,2167.07,2026-01-21
+PT-1803,Mr. Matthew Moore DDS,153-66-9542,Radiology,Fracture,14281.5,2026-05-25
+PT-1804,Tanya Craig,277-31-5306,Cardiology,Type 2 Diabetes,11283.99,2026-09-13
+PT-1805,Christopher Fernandez,652-96-7404,Radiology,Migraine,7769.21,2026-01-10
+PT-1806,Cody Carlson,512-09-6821,Radiology,Fracture,5428.89,2026-06-27
+PT-1807,Jennifer Campbell,852-50-2894,Oncology,Hypertension,5495.92,2026-04-28
+PT-1808,Andrea Miller,089-40-8258,Pediatrics,Fracture,6160.43,2026-01-10
+PT-1809,Christine Morris,846-02-9983,Pediatrics,Hypertension,12476.93,2026-04-21
+PT-1810,Tracey Anderson,235-84-2985,Pediatrics,Hypertension,12097.08,2026-04-02
+PT-1811,Peter Estes Jr.,614-59-6400,Radiology,Type 2 Diabetes,14644.08,2026-09-02
+PT-1812,Elizabeth Gardner,737-72-2716,Pediatrics,Asthma,766.79,2026-09-16
+PT-1813,Michelle Bailey,588-26-0469,Oncology,Fracture,8623.47,2026-09-02
+PT-1814,Morgan Mendoza,032-01-3875,Cardiology,Hypertension,10951.6,2026-06-02
+PT-1815,Sheryl Evans,669-14-0147,Radiology,Asthma,14025.1,2026-08-15
+PT-1816,Katherine Juarez,330-43-5490,Pediatrics,Fracture,8608.4,2026-03-06
+PT-1817,Sean Lynn,272-48-0833,Radiology,Migraine,7175.12,2026-02-15
+PT-1818,Christopher Johnson,644-74-1051,Oncology,Hypertension,12960.21,2026-07-13
+PT-1819,Blake Villa,606-65-5199,Radiology,Fracture,786.77,2026-01-23
+PT-1820,Jessica Lewis,615-51-1853,Pediatrics,Type 2 Diabetes,280.27,2026-06-03
+PT-1821,Katelyn Mcbride,522-12-3349,Oncology,Asthma,11757.13,2026-07-04
+PT-1822,Reginald Hall,831-11-3395,Pediatrics,Hypertension,7024.03,2026-01-31
+PT-1823,Stephen Frazier,672-87-5787,Cardiology,Migraine,4647.35,2026-07-06
+PT-1824,Sheri Edwards,250-89-8491,Oncology,Migraine,9328.84,2026-06-08
+PT-1825,Michael Alvarez,882-17-1824,Cardiology,Fracture,6896.44,2026-01-26
+PT-1826,Douglas Green,824-11-5049,Cardiology,Asthma,5319.48,2026-05-18
+PT-1827,Selena Shelton,218-84-6274,Radiology,Fracture,7381.61,2026-04-08
+PT-1828,David Clark,280-82-2412,Oncology,Hypertension,4458.72,2026-06-28
+PT-1829,Andrew Savage,220-93-8607,Pediatrics,Hypertension,478.27,2026-06-20
+PT-1830,Mark Morgan,796-60-2229,Oncology,Asthma,14159.04,2026-02-03
+PT-1831,Heather Jenkins,101-32-4171,Pediatrics,Migraine,533.98,2026-03-27
+PT-1832,Jacob Johnston,071-57-5527,Pediatrics,Fracture,10635.07,2026-01-31
+PT-1833,Bruce Gentry,539-97-3027,Pediatrics,Asthma,2688.43,2026-01-18
+PT-1834,Jasmine Cole,746-31-0280,Radiology,Type 2 Diabetes,2033.18,2026-02-18
+PT-1835,Manuel Williams,753-73-0281,Cardiology,Migraine,9542.41,2026-02-21
+PT-1836,Jonathan Lopez,799-49-8768,Oncology,Fracture,8761.57,2026-08-24
+PT-1837,Lisa Collins,582-98-1043,Cardiology,Asthma,5807.61,2026-02-20
+PT-1838,Dawn Le,056-81-9650,Pediatrics,Type 2 Diabetes,7488.34,2026-09-11
+PT-1839,Todd Lopez,715-77-9317,Radiology,Type 2 Diabetes,3038.97,2026-09-12
+PT-1840,Brianna Richard,323-18-6769,Pediatrics,Type 2 Diabetes,11102.44,2026-07-31
+PT-1841,Richard Camacho,215-13-6838,Cardiology,Fracture,8541.69,2026-06-23
+PT-1842,Travis Carey,344-08-7248,Oncology,Hypertension,252.9,2026-02-09
+PT-1843,Sara Pittman,267-93-3225,Oncology,Migraine,9338.3,2026-03-31
+PT-1844,Jason Wade,149-83-5898,Pediatrics,Asthma,13523.63,2026-01-08
+PT-1845,Luke Peterson,225-87-0479,Cardiology,Type 2 Diabetes,9140.18,2026-06-24
+PT-1846,Kelsey Jacobs,662-30-3582,Radiology,Fracture,14595.19,2026-06-20
+PT-1847,Shaun Hernandez,574-55-8341,Oncology,Asthma,11237.87,2026-04-07
+PT-1848,Dawn Park,358-93-0121,Cardiology,Fracture,801.67,2026-08-24
+PT-1849,Daniel Guerrero,749-26-2493,Pediatrics,Asthma,8568.49,2026-08-18
+PT-1850,Stephanie Williams,496-40-0936,Radiology,Hypertension,9457.25,2026-08-18
+PT-1851,Kelly Cantu,089-55-6816,Radiology,Migraine,11523.05,2026-07-26
+PT-1852,Jeffrey Smith,876-75-3818,Cardiology,Asthma,2755.58,2026-06-05
+PT-1853,Judy Peterson,238-84-0765,Radiology,Fracture,11395.11,2026-03-28
+PT-1854,Erin Carlson,845-32-0288,Pediatrics,Asthma,5491.89,2026-04-24
+PT-1855,Jeanette Sanders,887-75-1601,Oncology,Migraine,739.24,2026-06-10
+PT-1856,Linda Meyer,605-05-2238,Pediatrics,Type 2 Diabetes,3076.33,2026-06-13
+PT-1857,Kelli Mccoy,650-90-0477,Cardiology,Migraine,3133.85,2026-06-07
+PT-1858,Robert Sutton,122-57-7840,Pediatrics,Fracture,3926.74,2026-07-17
+PT-1859,John Johnson,609-83-6896,Oncology,Hypertension,9566.94,2026-04-19
+PT-1860,Stephanie Santos,076-78-4481,Radiology,Type 2 Diabetes,6401.48,2026-01-20
+PT-1861,Michael Jarvis,047-39-8447,Cardiology,Fracture,3567.24,2026-09-04
+PT-1862,Ms. Katherine Reeves,241-70-0846,Radiology,Migraine,14808.22,2026-07-02
+PT-1863,Amy Tucker,139-09-1797,Cardiology,Type 2 Diabetes,654.07,2026-01-03
+PT-1864,Sarah Fischer,882-11-4601,Radiology,Migraine,7900.89,2026-03-12
+PT-1865,Denise Brown,173-04-3326,Radiology,Type 2 Diabetes,14480.84,2026-08-06
+PT-1866,Spencer Montgomery,261-44-5034,Oncology,Migraine,11867.82,2026-06-30
+PT-1867,Daisy Lutz,107-15-5244,Cardiology,Type 2 Diabetes,2005.41,2026-03-10
+PT-1868,Jonathan Brown,009-50-1960,Radiology,Asthma,5815.86,2026-05-05
+PT-1869,Kathleen Meyer,530-47-0545,Cardiology,Migraine,6370.09,2026-08-22
+PT-1870,Thomas Carter,563-98-0394,Cardiology,Type 2 Diabetes,8085.25,2026-06-17
+PT-1871,Sara Pruitt,619-61-3544,Cardiology,Type 2 Diabetes,6612.69,2026-03-25
+PT-1872,Jordan Moss,573-12-7017,Radiology,Migraine,14740.46,2026-01-03
+PT-1873,Whitney Sandoval,798-79-2674,Oncology,Type 2 Diabetes,4361.7,2026-01-19
+PT-1874,Charles Gilbert,217-42-8159,Cardiology,Hypertension,11512.82,2026-05-23
+PT-1875,Roger Collier,038-61-5037,Radiology,Type 2 Diabetes,360.31,2026-03-14
+PT-1876,Charles Cox,037-30-2413,Pediatrics,Type 2 Diabetes,11347.84,2026-05-17
+PT-1877,Jennifer Glenn,176-42-4123,Pediatrics,Hypertension,2130.03,2026-06-10
+PT-1878,Christina Martinez,280-43-0367,Radiology,Hypertension,14659.04,2026-03-22
+PT-1879,Erica Davis,192-07-8931,Oncology,Hypertension,4271.93,2026-01-04
+PT-1880,Suzanne Gomez,624-08-6153,Radiology,Asthma,11415.15,2026-07-23
+PT-1881,Benjamin Davenport,017-51-2816,Pediatrics,Hypertension,4288.94,2026-07-28
+PT-1882,Dawn Morgan,805-85-4521,Cardiology,Migraine,7984.78,2026-05-20
+PT-1883,Joseph Harmon,750-10-5969,Pediatrics,Fracture,3786.83,2026-06-01
+PT-1884,Hannah Mclaughlin,641-13-8543,Oncology,Hypertension,1288.04,2026-08-24
+PT-1885,Jonathan Williamson,070-28-5304,Cardiology,Type 2 Diabetes,5750.34,2026-06-14
+PT-1886,Christopher Torres,806-24-3569,Oncology,Migraine,12774.45,2026-01-20
+PT-1887,Alexis Atkinson,734-34-1389,Oncology,Migraine,6076.87,2026-01-18
+PT-1888,Rebecca Hayes,762-99-2274,Cardiology,Asthma,13387.69,2026-02-11
+PT-1889,Betty Willis,188-48-3787,Radiology,Fracture,572.44,2026-02-16
+PT-1890,Michaela Kim,398-26-1332,Pediatrics,Asthma,9163.12,2026-08-29
+PT-1891,Amanda Hudson,833-93-7943,Radiology,Migraine,9443.22,2026-07-29
+PT-1892,Nathan Warner,836-24-1973,Radiology,Fracture,7411.86,2026-08-03
+PT-1893,Steven Santana Jr.,630-74-5178,Oncology,Asthma,13425.31,2026-02-27
+PT-1894,Justin Yoder,295-74-0901,Pediatrics,Migraine,10921.27,2026-01-08
+PT-1895,James Hansen,618-93-3460,Pediatrics,Migraine,5267.74,2026-04-22
+PT-1896,Dustin Taylor,637-89-4131,Pediatrics,Hypertension,1779.71,2026-03-12
+PT-1897,Mr. Johnny Riley Jr.,695-59-6477,Pediatrics,Migraine,12917.57,2026-07-06
+PT-1898,Jacqueline Mays,815-70-1843,Radiology,Hypertension,6778.04,2026-02-14
+PT-1899,Bryan Zavala,391-31-3462,Cardiology,Hypertension,8527.7,2026-04-26
+PT-1900,Michelle Adams,507-47-2116,Cardiology,Migraine,6708.43,2026-04-23
+PT-1901,Cathy Clayton,173-54-8430,Pediatrics,Asthma,13303.64,2026-08-04
+PT-1902,Jade Long,738-97-4039,Oncology,Asthma,8844.5,2026-05-09
+PT-1903,Taylor Blake,577-93-2516,Radiology,Hypertension,9527.76,2026-04-30
+PT-1904,Susan Hebert,309-22-0787,Cardiology,Asthma,11309.36,2026-06-04
+PT-1905,Justin Steele,123-53-4732,Radiology,Asthma,13045.11,2026-05-06
+PT-1906,Timothy Ford,754-84-8333,Radiology,Hypertension,4593.34,2026-06-30
+PT-1907,Luis Porter,149-18-0811,Radiology,Fracture,2685.71,2026-08-04
+PT-1908,James Gomez,307-62-1638,Radiology,Hypertension,2705.06,2026-08-22
+PT-1909,Brenda Schmidt,870-45-7813,Radiology,Asthma,10747.13,2026-04-25
+PT-1910,Veronica Warren,717-39-6965,Oncology,Fracture,1502.62,2026-04-18
+PT-1911,Barbara Smith,449-25-7205,Oncology,Fracture,2055.0,2026-06-28
+PT-1912,Edward Clements,117-02-1691,Cardiology,Hypertension,5550.61,2026-08-04
+PT-1913,Ashley Lindsey,634-09-2944,Oncology,Asthma,2901.6,2026-07-03
+PT-1914,Jeffrey Thomas,559-17-7130,Cardiology,Fracture,6394.93,2026-01-17
+PT-1915,Andrea Richardson,672-91-5484,Cardiology,Hypertension,3403.32,2026-03-30
+PT-1916,Jasmine Gray,118-61-9477,Cardiology,Type 2 Diabetes,13118.37,2026-07-19
+PT-1917,Dwayne Miller,770-11-0022,Oncology,Migraine,8627.84,2026-07-06
+PT-1918,Alexander Moreno,605-13-1457,Cardiology,Hypertension,1163.13,2026-07-07
+PT-1919,Dale Walsh,071-84-0241,Cardiology,Fracture,12163.25,2026-04-28
+PT-1920,Tina King,772-65-7555,Radiology,Asthma,13089.43,2026-08-16
+PT-1921,James Walker,172-21-2938,Cardiology,Asthma,7549.18,2026-05-29
+PT-1922,Scott Conner,784-56-3423,Radiology,Asthma,11846.99,2026-01-04
+PT-1923,Catherine Arias,659-60-6477,Radiology,Migraine,4339.48,2026-03-09
+PT-1924,Joseph Chen,162-31-0030,Radiology,Hypertension,11532.02,2026-04-06
+PT-1925,Kathryn Peterson,854-79-6332,Radiology,Hypertension,3685.35,2026-06-22
+PT-1926,Jamie Berry,572-30-9246,Radiology,Hypertension,5030.47,2026-02-08
+PT-1927,Melissa Love,749-36-1127,Cardiology,Type 2 Diabetes,8028.6,2026-07-27
+PT-1928,Gregory Lopez,614-35-3573,Oncology,Migraine,14641.96,2026-01-07
+PT-1929,Jasmine Erickson,733-31-5206,Oncology,Asthma,7107.31,2026-04-05
+PT-1930,Gloria Reynolds MD,679-43-1118,Oncology,Hypertension,1530.71,2026-04-27
+PT-1931,David Lee,751-33-5904,Pediatrics,Hypertension,10549.26,2026-07-26
+PT-1932,Steven Jimenez,715-41-0526,Pediatrics,Migraine,3380.69,2026-02-24
+PT-1933,Chase Short,091-44-7176,Oncology,Asthma,6981.15,2026-05-04
+PT-1934,John Jones,436-54-4015,Radiology,Migraine,4198.75,2026-08-19
+PT-1935,George Sullivan,689-19-1464,Radiology,Hypertension,9045.08,2026-01-22
+PT-1936,Sean Bailey,847-41-7320,Oncology,Fracture,7248.24,2026-03-16
+PT-1937,Matthew Mccoy,595-99-5206,Oncology,Fracture,3645.24,2026-07-14
+PT-1938,David Beck,282-52-0301,Radiology,Asthma,4699.38,2026-08-04
+PT-1939,George Campbell,882-21-4122,Cardiology,Type 2 Diabetes,4058.59,2026-02-23
+PT-1940,Sydney Pearson,374-23-1727,Cardiology,Type 2 Diabetes,14276.48,2026-07-15
+PT-1941,Robert Leach,738-20-3524,Cardiology,Hypertension,6693.18,2026-05-20
+PT-1942,Kelsey Guerrero,607-17-1206,Oncology,Type 2 Diabetes,9646.38,2026-08-20
+PT-1943,Michelle Sims,178-93-1997,Cardiology,Type 2 Diabetes,5318.64,2026-08-12
+PT-1944,Alexis Barton,276-51-9469,Oncology,Fracture,10764.6,2026-06-28
+PT-1945,Taylor Hanson,078-92-4091,Pediatrics,Fracture,5847.34,2026-03-23
+PT-1946,Sherri Duffy,622-48-3839,Radiology,Hypertension,10641.07,2026-04-01
+PT-1947,Colleen Underwood,897-70-1658,Radiology,Fracture,3678.46,2026-05-26
+PT-1948,Cassandra Floyd,496-88-0080,Cardiology,Hypertension,10607.92,2026-01-03
+PT-1949,Eric Flores,049-85-9467,Cardiology,Type 2 Diabetes,4568.24,2026-05-13
+PT-1950,Allison Holland,428-81-0243,Radiology,Type 2 Diabetes,9421.23,2026-07-25
+PT-1951,Carlos Clark,322-82-0997,Pediatrics,Fracture,11930.33,2026-05-16
+PT-1952,Austin Jones,710-02-3850,Radiology,Hypertension,12193.48,2026-02-12
+PT-1953,Jonathan Cline,185-78-0618,Radiology,Migraine,8621.43,2026-08-12
+PT-1954,Tracy Sanchez,236-65-0826,Pediatrics,Asthma,10789.37,2026-06-04
+PT-1955,Melanie Stokes,894-24-8698,Cardiology,Fracture,7765.68,2026-01-18
+PT-1956,Sarah Brown,451-44-0950,Oncology,Hypertension,3470.53,2026-02-03
+PT-1957,Joshua Shepard,213-34-4836,Pediatrics,Fracture,7674.95,2026-03-10
+PT-1958,Jared Mccoy,388-17-9591,Oncology,Migraine,3721.69,2026-03-05
+PT-1959,Robert Nelson,820-56-9700,Cardiology,Fracture,7562.88,2026-02-03
+PT-1960,Suzanne Sandoval,235-31-4305,Cardiology,Migraine,13033.92,2026-08-03
+PT-1961,Carl Morgan,420-90-5122,Cardiology,Type 2 Diabetes,3806.06,2026-06-20
+PT-1962,Kelly Young,500-60-7148,Oncology,Asthma,6484.96,2026-08-10
+PT-1963,Patricia Mora,484-30-1017,Cardiology,Asthma,3578.2,2026-04-02
+PT-1964,Sherri Garcia,798-37-1159,Oncology,Fracture,1149.71,2026-04-19
+PT-1965,Kelly Allen,025-72-2302,Cardiology,Fracture,9100.92,2026-06-10
+PT-1966,Rachel Blackburn,796-88-3670,Cardiology,Migraine,5688.72,2026-03-07
+PT-1967,Lisa Vasquez,672-24-2262,Radiology,Type 2 Diabetes,11940.35,2026-08-26
+PT-1968,David Kelley,047-38-7640,Pediatrics,Hypertension,5766.18,2026-01-21
+PT-1969,William Davis,657-14-3263,Oncology,Type 2 Diabetes,13959.16,2026-04-29
+PT-1970,Susan Baxter,396-62-0553,Pediatrics,Type 2 Diabetes,271.97,2026-09-09
+PT-1971,Carol Bryant,179-62-0291,Cardiology,Asthma,5269.78,2026-09-01
+PT-1972,Isaac Harris,718-71-3156,Pediatrics,Type 2 Diabetes,2460.89,2026-05-28
+PT-1973,Christina Rogers,747-64-5131,Pediatrics,Hypertension,8553.46,2026-01-27
+PT-1974,Alicia Harper,579-53-5223,Oncology,Hypertension,5561.84,2026-03-23
+PT-1975,Michael Powell,221-54-5061,Oncology,Type 2 Diabetes,9369.09,2026-01-29
+PT-1976,Nathan Cook,197-48-0695,Oncology,Migraine,6826.57,2026-06-08
+PT-1977,Nicholas Hill,281-19-1657,Pediatrics,Asthma,3864.01,2026-07-10
+PT-1978,Terry Morrow,163-22-4731,Cardiology,Type 2 Diabetes,7918.98,2026-01-01
+PT-1979,David Reynolds,887-45-2082,Cardiology,Fracture,6371.23,2026-04-06
+PT-1980,Kevin Harris,868-44-6637,Pediatrics,Hypertension,355.9,2026-01-13
+PT-1981,Mitchell White,757-97-0448,Oncology,Fracture,3548.66,2026-04-30
+PT-1982,Cheryl Reyes,291-78-3685,Pediatrics,Asthma,10994.84,2026-03-13
+PT-1983,Donna Peterson,046-65-8378,Pediatrics,Asthma,10943.14,2026-02-19
+PT-1984,Shannon Rodriguez,681-75-0811,Cardiology,Asthma,4674.34,2026-01-22
+PT-1985,Tyler Wolf,872-31-9181,Pediatrics,Fracture,14003.1,2026-03-28
+PT-1986,Aaron Farrell,655-54-2642,Pediatrics,Migraine,7511.05,2026-05-28
+PT-1987,Kathryn Carson,330-82-5147,Cardiology,Fracture,1712.43,2026-07-02
+PT-1988,Michael Camacho,455-04-9640,Cardiology,Type 2 Diabetes,13458.67,2026-01-11
+PT-1989,Steven Robertson,118-20-9369,Pediatrics,Fracture,4566.49,2026-05-08
+PT-1990,David Howard,736-54-3584,Oncology,Migraine,3816.61,2026-05-30
+PT-1991,Colleen Delacruz,743-24-0348,Oncology,Hypertension,9728.76,2026-03-28
+PT-1992,Matthew Bowman,260-69-9409,Oncology,Type 2 Diabetes,14921.69,2026-05-02
+PT-1993,Collin Foster,432-99-7125,Cardiology,Migraine,781.56,2026-01-19
+PT-1994,Allen Levine,443-80-8759,Pediatrics,Migraine,10700.25,2026-08-08
+PT-1995,Nancy Lewis,787-38-4048,Cardiology,Fracture,1081.0,2026-04-11
+PT-1996,Erin Butler,222-87-7784,Oncology,Asthma,8628.93,2026-06-30
+PT-1997,Sandra Miller,629-42-6619,Cardiology,Type 2 Diabetes,11197.53,2026-08-14
+PT-1998,Mrs. Susan Griffin DVM,192-43-3805,Radiology,Migraine,10819.42,2026-06-22
+PT-1999,Robert Lawson,364-42-3772,Cardiology,Type 2 Diabetes,11729.48,2026-08-15
+PT-2000,Jacob Coleman,402-05-3685,Pediatrics,Asthma,13994.77,2026-02-04
+PT-2001,Margaret Hall,012-66-9453,Oncology,Asthma,12466.54,2026-05-15
+PT-2002,Kristin Sharp,408-77-4030,Oncology,Type 2 Diabetes,14199.58,2026-01-07
+PT-2003,Laurie Harris,802-59-6447,Oncology,Type 2 Diabetes,4768.72,2026-05-13
+PT-2004,Paul Mccormick,199-65-1379,Cardiology,Hypertension,9079.98,2026-06-22
+PT-2005,Debra Gibson MD,613-57-0260,Radiology,Fracture,2067.45,2026-05-28
+PT-2006,Randy Ward,434-65-3752,Oncology,Type 2 Diabetes,4140.11,2026-08-04
+PT-2007,Jason Haynes,509-37-6569,Oncology,Hypertension,6898.73,2026-01-15
+PT-2008,Matthew Thomas,897-31-2714,Radiology,Fracture,955.56,2026-02-09
+PT-2009,Ashley Williams,017-18-1077,Cardiology,Migraine,9814.93,2026-06-12
+PT-2010,Gabriel Chase,039-40-8691,Oncology,Hypertension,12381.03,2026-08-13
+PT-2011,William Walker,504-24-5583,Oncology,Fracture,13352.68,2026-07-21
+PT-2012,Lucas Lopez,392-77-6999,Cardiology,Migraine,7820.12,2026-05-18
+PT-2013,Sarah Vasquez,807-31-4636,Radiology,Fracture,9463.45,2026-02-11
+PT-2014,Veronica Murray,347-37-4248,Pediatrics,Migraine,987.96,2026-06-21
+PT-2015,Lauren Fuller,593-24-6329,Pediatrics,Type 2 Diabetes,14930.18,2026-05-09
+PT-2016,Evan Walsh,150-24-7124,Pediatrics,Fracture,14851.0,2026-02-23
+PT-2017,Crystal Miller,426-12-3085,Pediatrics,Hypertension,13530.47,2026-03-11
+PT-2018,Renee Wells,641-54-8435,Radiology,Asthma,14416.85,2026-03-11
+PT-2019,Chad Ward,252-59-3839,Cardiology,Migraine,5243.88,2026-04-07
+PT-2020,Mackenzie Cordova,309-64-4257,Radiology,Asthma,5097.48,2026-01-25
+PT-2021,Tim Mcpherson,282-83-5402,Pediatrics,Fracture,13772.56,2026-05-29
+PT-2022,Nicholas Evans,473-59-9218,Oncology,Type 2 Diabetes,533.01,2026-04-03
+PT-2023,Collin Collins,215-52-5373,Pediatrics,Hypertension,3975.0,2026-07-15
+PT-2024,Kelli Duncan,273-55-3175,Pediatrics,Migraine,14222.2,2026-06-28
+PT-2025,Benjamin Johnson,358-10-3686,Pediatrics,Type 2 Diabetes,14333.35,2026-03-02
+PT-2026,Amanda Griffith,235-30-9926,Radiology,Fracture,8824.66,2026-07-18
+PT-2027,Carla Rice,258-21-8011,Pediatrics,Fracture,743.09,2026-09-14
+PT-2028,Roberta Murphy,747-41-2555,Cardiology,Hypertension,5134.96,2026-02-25
+PT-2029,Cindy Armstrong,732-70-3484,Cardiology,Type 2 Diabetes,5372.46,2026-03-01
+PT-2030,Daniel Garrison,276-40-9250,Oncology,Asthma,14435.78,2026-04-26
+PT-2031,John Graham,877-33-2785,Cardiology,Fracture,1543.3,2026-05-16
+PT-2032,Donna Brown,588-73-6720,Radiology,Hypertension,2145.0,2026-09-14
+PT-2033,Paul Bernard,028-88-9591,Oncology,Migraine,9443.63,2026-03-11
+PT-2034,Jonathan Hunter,800-25-1208,Radiology,Asthma,1992.26,2026-09-11
+PT-2035,Ian Miller,154-12-3479,Cardiology,Fracture,10812.22,2026-04-24
+PT-2036,Jackie Stewart,478-77-7636,Radiology,Fracture,735.28,2026-01-08
+PT-2037,Jason Gonzalez,148-62-0200,Oncology,Migraine,13158.98,2026-09-15
+PT-2038,Christopher Ray,433-27-5099,Radiology,Asthma,6075.72,2026-05-25
+PT-2039,April Phillips,237-03-2423,Pediatrics,Hypertension,7533.22,2026-04-26
+PT-2040,Robert Burton,473-05-3015,Pediatrics,Hypertension,5747.43,2026-07-20
+PT-2041,James Phillips,076-18-0970,Cardiology,Type 2 Diabetes,14072.37,2026-09-14
+PT-2042,Tamara Berry,512-16-3415,Cardiology,Migraine,6441.2,2026-04-06
+PT-2043,William Taylor DDS,763-50-6167,Oncology,Fracture,981.47,2026-08-03
+PT-2044,Michelle Hopkins,850-73-9497,Radiology,Migraine,4827.0,2026-02-06
+PT-2045,Christina Hill,290-66-8426,Oncology,Hypertension,8377.91,2026-08-08
+PT-2046,Troy Duffy,256-71-6875,Cardiology,Hypertension,1759.77,2026-08-17
+PT-2047,Zachary Ball,878-51-5020,Pediatrics,Asthma,9585.25,2026-07-19
+PT-2048,Terry Reed,421-88-6830,Cardiology,Hypertension,10194.1,2026-05-03
+PT-2049,Melissa Weiss,363-74-0961,Radiology,Fracture,2422.51,2026-02-04
+PT-2050,Stacy Armstrong,338-80-7173,Oncology,Fracture,14380.45,2026-03-29
+PT-2051,Jessica Hunter,168-37-9920,Radiology,Migraine,6516.19,2026-05-03
+PT-2052,Shelby Williams,306-49-6509,Pediatrics,Migraine,11565.59,2026-01-04
+PT-2053,Tammy Miller,051-71-3155,Pediatrics,Type 2 Diabetes,13416.59,2026-02-19
+PT-2054,Raymond Caldwell,486-25-2573,Radiology,Migraine,12082.1,2026-04-01
+PT-2055,Shelby Peterson,531-75-1494,Cardiology,Migraine,1933.83,2026-05-11
+PT-2056,Benjamin Dillon,329-09-5293,Radiology,Type 2 Diabetes,6718.14,2026-01-08
+PT-2057,James Miller,689-98-9922,Cardiology,Fracture,11489.24,2026-02-07
+PT-2058,Denise Anderson,273-97-8971,Pediatrics,Hypertension,9525.49,2026-04-10
+PT-2059,Steven Friedman,704-03-3021,Pediatrics,Asthma,8142.74,2026-06-24
+PT-2060,Rhonda Boyd,044-14-4200,Radiology,Type 2 Diabetes,8915.39,2026-08-02
+PT-2061,Desiree Brown,486-72-6093,Pediatrics,Hypertension,3837.72,2026-04-01
+PT-2062,Renee Roth,173-21-4756,Cardiology,Migraine,8062.14,2026-07-03
+PT-2063,Cynthia Carter,540-24-7273,Pediatrics,Migraine,13534.14,2026-04-24
+PT-2064,Jason Hayes,236-99-1934,Cardiology,Type 2 Diabetes,8855.73,2026-07-06
+PT-2065,Shannon Fisher,753-19-6381,Cardiology,Type 2 Diabetes,4059.57,2026-05-31
+PT-2066,Brooke Best,191-03-2740,Oncology,Type 2 Diabetes,3272.51,2026-03-16
+PT-2067,Amber Roach,857-35-9900,Radiology,Hypertension,6539.37,2026-09-07
+PT-2068,Chelsea Davis,308-89-7443,Radiology,Migraine,8911.86,2026-05-10
+PT-2069,Virginia Parker,110-72-5597,Pediatrics,Asthma,10777.62,2026-06-21
+PT-2070,Kristine Marsh,708-74-0142,Pediatrics,Asthma,12312.05,2026-01-22
+PT-2071,Harold Rose,158-48-4302,Radiology,Fracture,11388.03,2026-08-07
+PT-2072,Melinda Gutierrez,333-91-8080,Cardiology,Migraine,7571.16,2026-08-21
+PT-2073,David Robles,456-56-0265,Oncology,Fracture,4561.84,2026-02-12
+PT-2074,Chad Crawford,564-06-0467,Pediatrics,Hypertension,5333.74,2026-06-02
+PT-2075,Daniel Cisneros,748-63-8660,Oncology,Migraine,5977.96,2026-08-06
+PT-2076,Kevin Phillips,062-43-1511,Radiology,Asthma,370.55,2026-03-04
+PT-2077,Kayla Fox,563-25-2256,Pediatrics,Migraine,13775.11,2026-08-16
+PT-2078,Timothy Phillips,119-08-9691,Pediatrics,Type 2 Diabetes,6228.3,2026-07-28
+PT-2079,Lori Griffin,477-57-2690,Pediatrics,Type 2 Diabetes,14790.12,2026-03-23
+PT-2080,Thomas Jones,008-85-5845,Radiology,Hypertension,7308.11,2026-06-17
+PT-2081,Frank Combs,823-81-4310,Radiology,Fracture,9782.4,2026-01-07
+PT-2082,Roger Thompson,344-05-5982,Oncology,Migraine,329.19,2026-06-10
+PT-2083,Julia Foster,317-33-2203,Radiology,Fracture,12845.39,2026-02-14
+PT-2084,Julie Salazar,721-67-1548,Oncology,Asthma,3540.98,2026-01-02
+PT-2085,John Smith,026-34-1092,Pediatrics,Asthma,9586.03,2026-02-21
+PT-2086,Angel Patterson,419-73-4676,Oncology,Migraine,989.08,2026-07-11
+PT-2087,Jacqueline Hernandez,336-04-9891,Cardiology,Asthma,6722.81,2026-06-03
+PT-2088,Michael Gomez,386-99-1230,Radiology,Type 2 Diabetes,1413.0,2026-04-07
+PT-2089,Brittany Luna,222-28-6953,Radiology,Fracture,2845.01,2026-02-22
+PT-2090,William Franco,526-91-0264,Oncology,Hypertension,10366.7,2026-04-22
+PT-2091,Lisa Harrison,413-37-4760,Cardiology,Hypertension,8010.06,2026-04-07
+PT-2092,Robert Clark,800-83-3451,Pediatrics,Hypertension,11708.04,2026-03-06
+PT-2093,Hannah Ryan,720-59-1468,Oncology,Asthma,10514.94,2026-04-26
+PT-2094,Jamie Sullivan,470-07-3358,Cardiology,Fracture,10253.28,2026-04-03
+PT-2095,David Adams,093-09-6836,Radiology,Fracture,13198.6,2026-03-26
+PT-2096,Dr. Wesley Mercado,874-15-9597,Oncology,Hypertension,5417.71,2026-08-19
+PT-2097,Beth Lopez,002-16-9051,Pediatrics,Fracture,1463.95,2026-04-29
+PT-2098,Mercedes Richards,556-31-4366,Oncology,Hypertension,3992.53,2026-06-12
+PT-2099,Barbara Lamb,493-36-5719,Oncology,Hypertension,307.17,2026-07-18
+PT-2100,Paul Williams,307-97-7514,Radiology,Asthma,607.85,2026-08-15
+PT-2101,Albert Gregory,444-79-5162,Cardiology,Asthma,4199.12,2026-02-15
+PT-2102,William Guerrero,874-56-5824,Oncology,Asthma,13873.7,2026-03-27
+PT-2103,Christine Bennett,490-48-4509,Pediatrics,Hypertension,4530.78,2026-09-03
+PT-2104,Richard Young,542-96-0374,Radiology,Fracture,4842.26,2026-03-06
+PT-2105,Kendra Bennett,474-12-2554,Cardiology,Type 2 Diabetes,11976.6,2026-06-03
+PT-2106,Tara Villa,054-27-4936,Pediatrics,Migraine,4498.28,2026-03-24
+PT-2107,Brad Burns,615-62-9432,Pediatrics,Type 2 Diabetes,953.47,2026-02-24
+PT-2108,Natasha Pearson,468-59-4386,Pediatrics,Fracture,6143.77,2026-04-06
+PT-2109,Jordan Lopez,168-53-6153,Radiology,Asthma,5806.48,2026-04-01
+PT-2110,Kara Newman,685-14-0791,Cardiology,Fracture,5413.74,2026-01-10
+PT-2111,Jeanne Johnson,179-36-5734,Pediatrics,Fracture,1371.47,2026-04-16
+PT-2112,Heather Hays,560-76-7089,Oncology,Asthma,10508.44,2026-01-27
+PT-2113,Joseph Young,735-20-2438,Radiology,Fracture,2005.64,2026-09-01
+PT-2114,Brandon Lucas,451-02-5471,Oncology,Hypertension,7924.72,2026-06-23
+PT-2115,Brenda Hernandez,569-34-4094,Pediatrics,Hypertension,2045.72,2026-03-16
+PT-2116,Jennifer Hill,751-36-4787,Pediatrics,Asthma,9574.15,2026-04-25
+PT-2117,Vanessa Collins,670-44-3992,Oncology,Fracture,2578.04,2026-04-01
+PT-2118,Matthew Reyes,513-27-5061,Cardiology,Type 2 Diabetes,4963.08,2026-01-06
+PT-2119,Justin Douglas,820-85-6217,Pediatrics,Migraine,1177.13,2026-09-11
+PT-2120,Dean Scott,702-53-6295,Oncology,Type 2 Diabetes,13611.62,2026-07-30
+PT-2121,Timothy Kim,747-27-3891,Cardiology,Asthma,7868.97,2026-05-11
+PT-2122,Kelsey Sims PhD,558-35-9799,Radiology,Asthma,7666.09,2026-01-25
+PT-2123,Cassandra Buck,513-56-2400,Cardiology,Asthma,10161.76,2026-03-23
+PT-2124,Stacy Harris,460-08-1689,Oncology,Hypertension,3780.93,2026-01-19
+PT-2125,Cynthia Garcia,214-49-3278,Pediatrics,Asthma,3689.48,2026-06-07
+PT-2126,Alicia Wheeler,697-51-1273,Cardiology,Migraine,8078.6,2026-03-22
+PT-2127,Alicia Wilson,061-42-1165,Pediatrics,Hypertension,377.19,2026-02-20
+PT-2128,Melissa Malone,211-70-2367,Radiology,Type 2 Diabetes,6138.61,2026-09-16
+PT-2129,Sandra Hudson,215-80-2051,Cardiology,Asthma,10971.42,2026-07-05
+PT-2130,Melanie Jones,325-15-5287,Radiology,Fracture,1670.22,2026-04-30
+PT-2131,Cindy Baldwin,346-55-3540,Oncology,Type 2 Diabetes,14652.29,2026-01-01
+PT-2132,Dr. Kirsten Wallace,071-44-7035,Pediatrics,Asthma,12365.73,2026-03-24
+PT-2133,Tamara Mcmillan,664-25-7444,Pediatrics,Asthma,2775.49,2026-05-15
+PT-2134,Paul Wallace,701-14-9491,Radiology,Hypertension,14564.23,2026-02-09
+PT-2135,Louis Powell,688-85-8702,Cardiology,Asthma,5270.05,2026-02-12
+PT-2136,Joshua Bush,110-13-2226,Cardiology,Type 2 Diabetes,8357.02,2026-07-05
+PT-2137,Alicia Mata,184-85-5157,Radiology,Type 2 Diabetes,10870.98,2026-08-24
+PT-2138,Brett Perez,469-88-4626,Radiology,Fracture,6132.31,2026-05-22
+PT-2139,Cynthia Galvan,054-12-8486,Cardiology,Type 2 Diabetes,2296.55,2026-08-21
+PT-2140,Ryan Mueller,899-46-6150,Cardiology,Type 2 Diabetes,4698.98,2026-04-17
+PT-2141,Lisa Moreno,860-28-1056,Cardiology,Asthma,13115.55,2026-01-14
+PT-2142,Michael Hoffman,632-74-5759,Oncology,Type 2 Diabetes,4514.08,2026-02-04
+PT-2143,Diamond Winters,233-56-4561,Pediatrics,Fracture,5298.66,2026-05-22
+PT-2144,Susan Robertson,061-34-7156,Oncology,Type 2 Diabetes,8205.86,2026-08-29
+PT-2145,Robert Phillips,887-39-0167,Radiology,Fracture,9225.44,2026-08-17
+PT-2146,Dominique Smith,668-39-9626,Oncology,Hypertension,10658.67,2026-02-25
+PT-2147,Andrea Robinson,796-48-9807,Oncology,Type 2 Diabetes,5271.2,2026-01-17
+PT-2148,Tim Schultz,567-85-1020,Pediatrics,Hypertension,6362.31,2026-05-10
+PT-2149,Kathleen Dixon,649-17-4037,Pediatrics,Hypertension,12415.91,2026-04-25
+PT-2150,John Hill,861-04-4519,Cardiology,Hypertension,6952.91,2026-08-10
+PT-2151,Jamie Robinson,323-76-9865,Radiology,Fracture,12101.39,2026-06-25
+PT-2152,John Brown,215-03-9799,Radiology,Fracture,4128.75,2026-08-03
+PT-2153,Jose Sanders,899-92-1614,Radiology,Type 2 Diabetes,1843.65,2026-06-16
+PT-2154,Kayla Thompson,342-91-8759,Radiology,Type 2 Diabetes,3664.78,2026-06-11
+PT-2155,Jennifer Mosley,200-79-5390,Oncology,Migraine,12158.38,2026-05-19
+PT-2156,Mikayla Lyons,236-70-5486,Oncology,Hypertension,5870.06,2026-04-07
+PT-2157,Joshua Owen,011-48-3817,Pediatrics,Fracture,10167.57,2026-06-11
+PT-2158,Kenneth Moss,371-05-0473,Cardiology,Type 2 Diabetes,6930.7,2026-03-25
+PT-2159,Jill Mckay,435-53-8551,Pediatrics,Asthma,9023.27,2026-07-28
+PT-2160,Mark Kelly,349-35-2342,Radiology,Type 2 Diabetes,10020.76,2026-02-05
+PT-2161,Steve Erickson,606-63-5070,Cardiology,Type 2 Diabetes,2073.75,2026-02-06
+PT-2162,Melissa Curtis,772-05-5169,Radiology,Migraine,10339.71,2026-02-18
+PT-2163,Traci Gonzalez,689-11-3446,Oncology,Hypertension,14551.02,2026-03-24
+PT-2164,Taylor Diaz,527-02-8118,Radiology,Type 2 Diabetes,11959.18,2026-05-01
+PT-2165,Lori Gonzalez,838-59-0071,Oncology,Fracture,14234.17,2026-07-08
+PT-2166,Tonya Johnson,512-41-4359,Pediatrics,Type 2 Diabetes,12032.76,2026-06-25
+PT-2167,Laura Wilson,714-76-6628,Radiology,Asthma,1025.48,2026-02-08
+PT-2168,Allen Hunt,644-91-1619,Cardiology,Hypertension,1028.46,2026-01-25
+PT-2169,Christopher Medina,150-38-0796,Cardiology,Migraine,5332.16,2026-09-14
+PT-2170,Robert Knox,810-09-5028,Pediatrics,Migraine,4429.72,2026-02-20
+PT-2171,Harold White,621-38-9953,Radiology,Fracture,7904.52,2026-05-24
+PT-2172,Mary David,351-67-4005,Oncology,Migraine,4252.37,2026-01-20
+PT-2173,Ian Morales,715-72-6065,Pediatrics,Fracture,7043.55,2026-02-23
+PT-2174,Zachary Mcgee,242-53-0364,Pediatrics,Hypertension,13965.32,2026-03-30
+PT-2175,Richard Maynard,868-17-9762,Pediatrics,Type 2 Diabetes,3861.81,2026-04-23
+PT-2176,Mr. Aaron Farmer,216-90-5449,Cardiology,Fracture,4281.45,2026-07-17
+PT-2177,Whitney Turner,263-97-9660,Oncology,Asthma,2743.12,2026-02-25
+PT-2178,Mrs. Nancy Butler,501-22-6175,Oncology,Fracture,3565.86,2026-08-27
+PT-2179,Eugene Tate,627-92-7057,Pediatrics,Type 2 Diabetes,8020.9,2026-04-17
+PT-2180,Rebecca Hebert,763-13-0795,Pediatrics,Hypertension,6403.0,2026-08-13
+PT-2181,Tyler Davenport,624-59-0708,Pediatrics,Fracture,5372.71,2026-04-17
+PT-2182,Stephanie Wagner,669-76-1538,Oncology,Asthma,9893.49,2026-01-16
+PT-2183,Ralph Lee,487-16-1713,Oncology,Fracture,12580.67,2026-04-08
+PT-2184,Andrew Mason,622-62-6897,Cardiology,Migraine,11668.57,2026-07-01
+PT-2185,Steven Harding,686-55-1451,Cardiology,Type 2 Diabetes,14637.58,2026-04-08
+PT-2186,Richard Gordon,744-08-9030,Pediatrics,Asthma,573.65,2026-07-09
+PT-2187,Dr. Michael Taylor,819-04-3914,Oncology,Fracture,3720.63,2026-07-31
+PT-2188,Lisa Reyes,576-74-7665,Oncology,Fracture,1085.96,2026-06-10
+PT-2189,Susan Rice,479-86-3076,Radiology,Type 2 Diabetes,7989.99,2026-06-25
+PT-2190,Christine Baldwin,749-15-8213,Cardiology,Migraine,1229.51,2026-08-23
+PT-2191,Brenda Mclaughlin,311-27-0865,Pediatrics,Migraine,12643.47,2026-07-31
+PT-2192,Erica Santiago,386-18-5297,Pediatrics,Asthma,9688.58,2026-08-15
+PT-2193,Amber Durham,486-43-4618,Radiology,Type 2 Diabetes,7049.51,2026-04-15
+PT-2194,Kyle Gray,340-66-7952,Oncology,Fracture,4359.27,2026-01-06
+PT-2195,Toni Rosario,332-64-6337,Cardiology,Migraine,6844.71,2026-09-14
+PT-2196,John Sanchez,844-37-2306,Pediatrics,Migraine,1921.89,2026-03-21
+PT-2197,Alexis Hale,088-53-9764,Pediatrics,Hypertension,14826.02,2026-09-05
+PT-2198,Susan Young,235-81-2419,Oncology,Migraine,9086.4,2026-08-03
+PT-2199,Jared Cochran,884-58-0529,Pediatrics,Hypertension,4178.44,2026-03-12
+PT-2200,Laura Potter,079-84-4448,Radiology,Type 2 Diabetes,8365.81,2026-09-06
+PT-2201,Dawn Roman,499-68-2233,Pediatrics,Asthma,12175.33,2026-04-15
+PT-2202,Jenna Hill,560-45-0194,Oncology,Fracture,14022.42,2026-01-28
+PT-2203,Elizabeth Colon,720-13-3674,Pediatrics,Type 2 Diabetes,2946.04,2026-02-05
+PT-2204,Ronald Cortez,701-21-5980,Radiology,Fracture,13394.59,2026-02-09
+PT-2205,Zachary Ponce,794-12-8260,Radiology,Hypertension,12655.32,2026-06-05
+PT-2206,Brandon Duffy,061-96-7762,Oncology,Hypertension,13959.57,2026-04-08
+PT-2207,Richard Graves MD,774-63-7827,Pediatrics,Asthma,9220.6,2026-08-31
+PT-2208,Karen Park,451-51-5999,Cardiology,Fracture,13609.11,2026-09-05
+PT-2209,Leslie Rodriguez,177-89-9330,Cardiology,Migraine,302.45,2026-06-22
+PT-2210,Jamie Cox,473-91-7357,Pediatrics,Fracture,3370.37,2026-04-05
+PT-2211,Whitney Wood,291-73-0675,Radiology,Migraine,11613.99,2026-06-26
+PT-2212,Sarah Ortiz,837-10-8537,Oncology,Type 2 Diabetes,10454.27,2026-08-29
+PT-2213,Dan Hernandez,039-50-9850,Cardiology,Migraine,12082.06,2026-09-09
+PT-2214,Bryan Taylor,520-21-5240,Pediatrics,Hypertension,5860.47,2026-03-02
+PT-2215,Johnny Duran,793-90-6720,Cardiology,Hypertension,10605.03,2026-04-25
+PT-2216,Anne Smith,707-78-0985,Pediatrics,Fracture,9179.46,2026-09-08
+PT-2217,Tyler Blackburn,179-92-2065,Pediatrics,Type 2 Diabetes,2330.41,2026-07-16
+PT-2218,Marvin White,724-86-9201,Pediatrics,Asthma,6348.35,2026-01-01
+PT-2219,Tammy Morgan,348-69-6251,Pediatrics,Migraine,9882.65,2026-07-29
+PT-2220,Sean Mueller,218-51-4178,Radiology,Migraine,14589.14,2026-04-20
+PT-2221,Adam Robinson,528-99-2238,Cardiology,Migraine,5167.35,2026-07-23
+PT-2222,Larry Barry,388-31-2295,Oncology,Hypertension,815.78,2026-02-02
+PT-2223,Mathew Chambers,697-87-4820,Pediatrics,Type 2 Diabetes,7498.53,2026-08-29
+PT-2224,Mrs. Susan Navarro,062-16-1972,Radiology,Migraine,1621.95,2026-08-21
+PT-2225,Michael Fritz,571-90-0780,Pediatrics,Fracture,5175.61,2026-07-30
+PT-2226,Kathleen Norris,701-95-9938,Radiology,Hypertension,10675.06,2026-05-02
+PT-2227,Laura Braun,338-48-7715,Pediatrics,Asthma,10100.17,2026-03-31
+PT-2228,Dawn Daniels,614-95-2422,Radiology,Type 2 Diabetes,3160.49,2026-06-08
+PT-2229,Lauren Barrera,826-80-3435,Pediatrics,Asthma,5148.18,2026-05-19
+PT-2230,Rhonda Martinez,869-53-5769,Cardiology,Fracture,11523.16,2026-01-11
+PT-2231,Jenna Mason,794-66-3844,Oncology,Asthma,10277.7,2026-06-02
+PT-2232,Jordan Powell,357-33-5650,Cardiology,Asthma,6436.38,2026-07-08
+PT-2233,Kayla Wolf,841-86-3075,Cardiology,Asthma,9515.46,2026-06-10
+PT-2234,Derek George,707-26-1723,Cardiology,Asthma,4106.55,2026-04-29
+PT-2235,Casey Webster,082-57-5525,Pediatrics,Asthma,14809.61,2026-03-25
+PT-2236,Taylor Wright,418-39-9797,Cardiology,Type 2 Diabetes,4515.02,2026-03-05
+PT-2237,James Gonzalez,320-52-8621,Oncology,Hypertension,9942.64,2026-04-07
+PT-2238,David Burns,095-46-8162,Pediatrics,Type 2 Diabetes,5083.69,2026-07-09
+PT-2239,Gina Barnes,852-01-7672,Radiology,Hypertension,10774.0,2026-03-17
+PT-2240,Amy Smith,848-72-0847,Oncology,Migraine,8267.33,2026-09-07
+PT-2241,Mrs. Melanie Carpenter DDS,702-12-6003,Oncology,Fracture,14789.47,2026-04-15
+PT-2242,Alicia Moreno,148-93-2729,Cardiology,Fracture,12151.28,2026-06-15
+PT-2243,Catherine Baker,588-88-9402,Radiology,Migraine,14600.94,2026-02-08
+PT-2244,Carl Davies,125-03-4854,Cardiology,Asthma,11931.49,2026-01-31
+PT-2245,Bryan Wood,833-25-9930,Oncology,Migraine,13053.48,2026-02-14
+PT-2246,Christopher Walker,784-43-9828,Cardiology,Type 2 Diabetes,9918.89,2026-04-18
+PT-2247,Bruce Smith,031-69-6143,Oncology,Asthma,5964.88,2026-03-17
+PT-2248,Amanda Santos,099-03-4790,Radiology,Migraine,6206.61,2026-01-07
+PT-2249,Glenda Mcdonald,862-15-1586,Radiology,Fracture,3234.04,2026-04-14
+PT-2250,Jeffrey Harris,577-50-1856,Oncology,Type 2 Diabetes,512.55,2026-04-23
+PT-2251,Jay Jefferson,521-61-6818,Oncology,Type 2 Diabetes,301.81,2026-01-29
+PT-2252,David Jackson,074-76-7438,Oncology,Fracture,14981.22,2026-02-15
+PT-2253,Justin Williams,264-70-5214,Cardiology,Hypertension,10140.07,2026-08-08
+PT-2254,Mary Berry,825-09-5648,Radiology,Type 2 Diabetes,524.22,2026-05-09
+PT-2255,Anthony Gardner,535-57-9326,Radiology,Fracture,5525.01,2026-06-23
+PT-2256,Cheryl Hendrix,101-76-6134,Oncology,Asthma,4018.7,2026-09-08
+PT-2257,Brian Ross,395-78-6987,Cardiology,Fracture,12644.11,2026-01-25
+PT-2258,Ashley Diaz,803-78-8722,Radiology,Fracture,10116.17,2026-06-04
+PT-2259,Michael Foster,250-75-5403,Cardiology,Hypertension,10510.25,2026-03-04
+PT-2260,Tammy James,033-03-8123,Cardiology,Hypertension,2609.87,2026-04-22
+PT-2261,James Gregory,838-84-4545,Oncology,Fracture,7274.82,2026-07-16
+PT-2262,Gina Garcia,812-44-4221,Oncology,Fracture,1822.84,2026-08-10
+PT-2263,Christy Levy,355-36-3847,Pediatrics,Asthma,7127.88,2026-08-22
+PT-2264,Donald Conway,566-54-8440,Pediatrics,Hypertension,9604.38,2026-07-16
+PT-2265,Rhonda Webb,560-97-9447,Cardiology,Asthma,10406.88,2026-06-16
+PT-2266,Destiny Perez,296-25-1741,Radiology,Fracture,9608.27,2026-04-17
+PT-2267,Brittney Smith,098-59-1922,Oncology,Fracture,8526.09,2026-06-15
+PT-2268,Brenda Jenkins,525-87-3103,Pediatrics,Migraine,12522.83,2026-01-05
+PT-2269,Ronald Anderson,044-89-7295,Oncology,Hypertension,448.55,2026-04-05
+PT-2270,Terry Randall,555-12-6927,Pediatrics,Type 2 Diabetes,11045.9,2026-07-04
+PT-2271,Denise Mclaughlin,695-39-8408,Radiology,Type 2 Diabetes,12760.37,2026-04-08
+PT-2272,Catherine Bond,589-58-4641,Radiology,Hypertension,3751.79,2026-04-18
+PT-2273,Roger Wilson,179-22-0788,Oncology,Migraine,11018.92,2026-07-28
+PT-2274,Joshua Bailey,554-48-5514,Pediatrics,Hypertension,5265.14,2026-04-07
+PT-2275,Olivia Hart,123-56-0201,Cardiology,Type 2 Diabetes,2181.07,2026-06-14
+PT-2276,Sarah Mclaughlin,574-08-0860,Oncology,Fracture,11360.84,2026-02-09
+PT-2277,James Ward,423-45-0524,Cardiology,Fracture,6841.41,2026-05-15
+PT-2278,Ashley Krause,069-31-2256,Oncology,Asthma,9794.65,2026-01-30
+PT-2279,Aaron Williams,226-76-7376,Radiology,Fracture,6247.83,2026-05-13
+PT-2280,Heather White,552-65-7010,Oncology,Type 2 Diabetes,4668.95,2026-02-14
+PT-2281,Jessica Larsen,814-09-0641,Radiology,Asthma,6819.66,2026-07-07
+PT-2282,Ronald Burke,606-99-9541,Radiology,Hypertension,6356.54,2026-07-19
+PT-2283,Andrew Gamble,749-93-9963,Oncology,Type 2 Diabetes,12358.36,2026-05-16
+PT-2284,Mary Miller,418-35-8429,Radiology,Asthma,13885.67,2026-06-30
+PT-2285,Heather Johnson,678-63-5406,Oncology,Asthma,12250.29,2026-09-04
+PT-2286,Sarah Dyer,897-70-6396,Pediatrics,Asthma,14278.65,2026-02-06
+PT-2287,Christina Morton,426-94-0689,Cardiology,Hypertension,7800.23,2026-06-06
+PT-2288,Kelly Jensen,825-37-6878,Radiology,Fracture,5244.27,2026-05-28
+PT-2289,Dana Garcia,276-10-8848,Pediatrics,Migraine,4395.74,2026-07-12
+PT-2290,Lisa Owens,816-21-9541,Cardiology,Type 2 Diabetes,2060.62,2026-03-11
+PT-2291,Joan Wright,103-04-5216,Radiology,Fracture,7798.53,2026-08-22
+PT-2292,Mikayla Brown,339-27-9266,Radiology,Type 2 Diabetes,7665.27,2026-03-16
+PT-2293,Kaitlyn Hoffman,566-62-6658,Oncology,Type 2 Diabetes,12221.51,2026-05-26
+PT-2294,Felicia Thomas,512-96-1929,Oncology,Hypertension,6201.84,2026-02-11
+PT-2295,Dennis Barber,699-78-9150,Oncology,Fracture,2241.53,2026-06-03
+PT-2296,Andre Baker,415-22-7389,Oncology,Migraine,14214.83,2026-08-01
+PT-2297,Joy Beard,403-52-3408,Cardiology,Migraine,7489.21,2026-05-10
+PT-2298,Lisa Kerr,315-77-7897,Radiology,Fracture,6507.87,2026-04-16
+PT-2299,Charles Ramos,687-93-2924,Oncology,Migraine,5406.67,2026-03-18
+PT-2300,Michael Lewis,847-69-6389,Cardiology,Migraine,11628.98,2026-06-30
+PT-2301,Roy Walker,863-54-4010,Cardiology,Hypertension,9344.3,2026-07-31
+PT-2302,Jonathan Smith,090-65-3544,Radiology,Asthma,5118.81,2026-06-22
+PT-2303,Steven Guzman,835-36-8291,Cardiology,Type 2 Diabetes,8802.39,2026-09-05
+PT-2304,Brian Rogers,707-77-7306,Oncology,Type 2 Diabetes,5984.22,2026-01-30
+PT-2305,Kim Henry,358-19-2567,Oncology,Asthma,7737.32,2026-08-08
+PT-2306,Jessica Hunt,709-36-8801,Radiology,Type 2 Diabetes,10040.04,2026-02-16
+PT-2307,Pamela Lewis,088-28-9960,Pediatrics,Hypertension,12094.54,2026-08-30
+PT-2308,Jessica Owens,761-48-6153,Cardiology,Asthma,7743.8,2026-04-14
+PT-2309,Brian Barnes,570-56-5888,Radiology,Type 2 Diabetes,12996.72,2026-09-06
+PT-2310,Cynthia Kline,143-30-8598,Pediatrics,Asthma,4798.69,2026-08-13
+PT-2311,Nancy Kelly,801-95-8163,Oncology,Migraine,14512.63,2026-08-24
+PT-2312,Janet Cook,158-73-2280,Pediatrics,Asthma,7089.77,2026-01-20
+PT-2313,Kara Smith,241-56-2143,Oncology,Asthma,1658.94,2026-07-21
+PT-2314,David Day,210-36-6459,Radiology,Migraine,4238.37,2026-06-13
+PT-2315,Alexander Jordan,412-91-0530,Oncology,Hypertension,14215.18,2026-02-28
+PT-2316,Michael Roberson,828-29-8434,Cardiology,Migraine,773.54,2026-08-29
+PT-2317,Gina Howell,661-43-1155,Radiology,Fracture,11389.53,2026-01-14
+PT-2318,Nichole Wong,849-04-1619,Oncology,Fracture,274.12,2026-07-18
+PT-2319,Rita Davis,055-57-5232,Radiology,Migraine,9479.19,2026-05-03
+PT-2320,Daisy Hernandez,306-24-6669,Cardiology,Hypertension,3855.23,2026-06-13
+PT-2321,Justin Gordon,092-55-4923,Pediatrics,Fracture,8803.12,2026-04-11
+PT-2322,Brian Barajas,897-84-5103,Oncology,Asthma,14153.85,2026-09-01
+PT-2323,Jared Smith,441-29-3348,Cardiology,Migraine,3482.23,2026-06-01
+PT-2324,Steven Rush,690-64-9099,Radiology,Fracture,9626.55,2026-05-07
+PT-2325,Kaitlyn Weaver,054-85-1447,Oncology,Type 2 Diabetes,13731.56,2026-04-07
+PT-2326,Kyle Romero,298-20-6649,Pediatrics,Asthma,5449.62,2026-04-10
+PT-2327,Melissa Alexander,287-84-1419,Oncology,Type 2 Diabetes,786.13,2026-02-26
+PT-2328,Andrea Gutierrez,404-75-3986,Radiology,Asthma,6950.74,2026-04-07
+PT-2329,Crystal Gomez,892-47-3868,Cardiology,Hypertension,7300.03,2026-07-22
+PT-2330,Brent Knight,664-97-2263,Pediatrics,Hypertension,3922.1,2026-03-31
+PT-2331,Amber Hicks,784-75-2806,Pediatrics,Type 2 Diabetes,13302.64,2026-07-28
+PT-2332,Samantha Frye,292-38-3599,Radiology,Hypertension,9401.57,2026-01-21
+PT-2333,Michael Gomez,331-03-1760,Oncology,Fracture,5518.27,2026-04-09
+PT-2334,Jessica Kelley,246-64-1551,Cardiology,Hypertension,829.56,2026-08-27
+PT-2335,Johnny Martinez,575-38-9578,Oncology,Hypertension,10125.57,2026-02-17
+PT-2336,Stephanie Cameron,854-35-2648,Radiology,Type 2 Diabetes,6216.95,2026-07-05
+PT-2337,Christopher Clark,192-90-9395,Pediatrics,Hypertension,4189.37,2026-07-25
+PT-2338,Tammy Harris,412-77-1185,Radiology,Asthma,11989.72,2026-05-02
+PT-2339,Stephen Carroll,004-75-4738,Pediatrics,Migraine,9898.46,2026-02-12
+PT-2340,Gregory Sanders,079-79-0288,Cardiology,Migraine,7231.81,2026-07-15
+PT-2341,Tabitha Brooks,782-89-6297,Radiology,Asthma,9463.51,2026-07-24
+PT-2342,Jacob Williams,513-06-9679,Pediatrics,Hypertension,4700.35,2026-05-05
+PT-2343,Felicia Wolfe,448-62-6320,Radiology,Asthma,8746.31,2026-04-28
+PT-2344,Emily Davis,782-40-2424,Pediatrics,Type 2 Diabetes,13670.7,2026-03-20
+PT-2345,James Wolfe,123-42-6886,Pediatrics,Fracture,8872.13,2026-07-09
+PT-2346,Howard Hendrix,794-79-3037,Cardiology,Hypertension,10730.58,2026-03-10
+PT-2347,David Potter,262-50-2376,Cardiology,Type 2 Diabetes,10794.61,2026-04-08
+PT-2348,Brian Williams,028-44-5761,Cardiology,Asthma,6560.03,2026-08-12
+PT-2349,James Ford,810-12-1263,Oncology,Fracture,2065.08,2026-03-12
+PT-2350,Devin Hall,235-31-6802,Oncology,Hypertension,6085.9,2026-06-08
+PT-2351,Lisa Ross,226-85-3337,Pediatrics,Type 2 Diabetes,10774.57,2026-01-19
+PT-2352,David Lewis,263-99-1927,Cardiology,Type 2 Diabetes,7787.46,2026-01-12
+PT-2353,Lindsey Wise,539-78-9599,Radiology,Asthma,8583.62,2026-01-01
+PT-2354,Andrea Nielsen,153-62-7045,Radiology,Asthma,10596.96,2026-04-10
+PT-2355,Dawn Mccormick,455-72-7745,Oncology,Asthma,2602.11,2026-01-18
+PT-2356,Ruben Peterson,727-81-9786,Radiology,Hypertension,10901.51,2026-06-14
+PT-2357,Jack Johnson,488-61-2734,Pediatrics,Migraine,8593.31,2026-04-26
+PT-2358,Samantha Johnson,713-19-4877,Cardiology,Fracture,12044.48,2026-02-04
+PT-2359,Kevin Faulkner,096-70-9755,Cardiology,Hypertension,2885.38,2026-07-27
+PT-2360,Rick Hale,269-29-2695,Pediatrics,Type 2 Diabetes,6813.44,2026-03-18
+PT-2361,Kim Ware,090-07-0380,Radiology,Migraine,5840.7,2026-03-14
+PT-2362,Mrs. Kimberly Baker DVM,088-86-8999,Oncology,Hypertension,3087.8,2026-03-18
+PT-2363,Dr. Tammy Nelson,505-06-9199,Oncology,Asthma,13025.63,2026-04-19
+PT-2364,Tony Young,011-54-4037,Cardiology,Type 2 Diabetes,13207.78,2026-05-26
+PT-2365,Jaime Mccarthy,635-92-7733,Oncology,Hypertension,4073.32,2026-04-24
+PT-2366,Devin Russell,499-02-6209,Pediatrics,Asthma,9732.8,2026-05-01
+PT-2367,Christopher Washington,326-88-1495,Cardiology,Type 2 Diabetes,10643.71,2026-08-28
+PT-2368,Sarah Peters,077-48-1644,Cardiology,Asthma,7861.04,2026-01-24
+PT-2369,Rhonda Cabrera,807-01-2647,Cardiology,Type 2 Diabetes,8105.46,2026-05-11
+PT-2370,Abigail Whitaker,050-01-5218,Radiology,Fracture,10663.11,2026-07-28
+PT-2371,Steven Howe,220-91-7634,Oncology,Fracture,11847.43,2026-07-20
+PT-2372,Lauren Meyer,172-97-3471,Pediatrics,Type 2 Diabetes,7173.79,2026-06-29
+PT-2373,Frank Thompson,833-91-8669,Oncology,Fracture,2940.43,2026-06-26
+PT-2374,Victoria Sweeney,205-07-8146,Oncology,Asthma,14431.78,2026-06-10
+PT-2375,Kenneth Wilson,271-10-9563,Cardiology,Asthma,3309.24,2026-08-03
+PT-2376,Danny Wong,289-88-6844,Cardiology,Migraine,7546.29,2026-07-24
+PT-2377,Loretta Cook,861-56-0181,Radiology,Type 2 Diabetes,7589.15,2026-09-06
+PT-2378,Jacob Davenport,501-41-1602,Cardiology,Asthma,9303.64,2026-04-30
+PT-2379,Jennifer Campbell,812-06-0569,Radiology,Hypertension,1204.3,2026-07-20
+PT-2380,Christina Myers,783-54-2071,Oncology,Type 2 Diabetes,1404.97,2026-09-02
+PT-2381,Annette Avila,375-25-2844,Radiology,Asthma,7353.05,2026-08-20
+PT-2382,Robin Scott,244-07-4899,Radiology,Hypertension,4957.36,2026-06-09
+PT-2383,Chad Taylor,028-81-4523,Cardiology,Fracture,2288.61,2026-03-29
+PT-2384,John Sullivan,646-72-9607,Cardiology,Migraine,2874.99,2026-08-15
+PT-2385,Sarah Cobb,564-29-1149,Pediatrics,Fracture,11935.19,2026-02-03
+PT-2386,Jeffrey Martin,313-44-8156,Oncology,Migraine,3270.94,2026-06-27
+PT-2387,Megan Freeman,071-53-5906,Oncology,Fracture,11004.34,2026-06-10
+PT-2388,Sean Walsh II,140-59-1369,Radiology,Asthma,11541.67,2026-05-16
+PT-2389,Stephanie Thomas,409-05-8845,Cardiology,Migraine,4684.28,2026-05-21
+PT-2390,Susan Perkins,668-85-7337,Oncology,Fracture,13648.03,2026-07-14
+PT-2391,Mathew Hicks,318-17-9784,Radiology,Hypertension,6998.72,2026-01-27
+PT-2392,James Miles,728-99-4334,Oncology,Migraine,6131.15,2026-05-28
+PT-2393,Erik Davis,673-57-0087,Radiology,Fracture,4787.78,2026-02-23
+PT-2394,John Thomas,419-76-9290,Pediatrics,Migraine,14439.54,2026-08-24
+PT-2395,Benjamin Williams,725-15-8816,Oncology,Type 2 Diabetes,7784.26,2026-09-12
+PT-2396,Christopher Burke,029-11-4203,Oncology,Asthma,3905.49,2026-06-24
+PT-2397,Brian Edwards,714-21-8957,Radiology,Hypertension,2043.31,2026-05-11
+PT-2398,Leslie Evans,195-07-1086,Radiology,Hypertension,9124.54,2026-07-13
+PT-2399,Tracy Anderson,272-11-4470,Oncology,Asthma,8557.93,2026-01-04
+PT-2400,Matthew Schwartz,285-98-5245,Radiology,Type 2 Diabetes,13516.28,2026-04-17
+PT-2401,Denise Miller,162-66-9224,Radiology,Hypertension,9608.41,2026-05-13
+PT-2402,Steven Johnson,862-17-4663,Pediatrics,Hypertension,11346.46,2026-01-02
+PT-2403,Darlene Dean,355-02-4377,Cardiology,Asthma,5704.96,2026-03-13
+PT-2404,Michelle Lee,090-95-1357,Pediatrics,Migraine,13133.99,2026-08-04
+PT-2405,David Reed,348-41-2461,Radiology,Hypertension,6905.07,2026-05-24
+PT-2406,Kathy Olsen,759-37-7964,Pediatrics,Fracture,13633.5,2026-05-09
+PT-2407,Richard Zimmerman,414-04-2024,Cardiology,Migraine,3225.9,2026-08-14
+PT-2408,Mrs. Meghan Garcia,705-70-7792,Cardiology,Asthma,13468.83,2026-07-22
+PT-2409,Haley Collins,750-81-7141,Cardiology,Asthma,11303.51,2026-09-14
+PT-2410,George Ibarra,726-22-2703,Radiology,Migraine,12767.69,2026-08-13
+PT-2411,Misty Harris,056-62-9473,Radiology,Asthma,4002.59,2026-06-07
+PT-2412,Kelly Davis,334-80-0899,Oncology,Fracture,7874.11,2026-02-07
+PT-2413,David Reeves,012-40-9517,Cardiology,Asthma,1914.74,2026-05-15
+PT-2414,Tonya Montoya,163-35-1192,Cardiology,Hypertension,11110.6,2026-08-08
+PT-2415,Deborah Thomas,497-70-8394,Cardiology,Fracture,14794.49,2026-06-19
+PT-2416,Mary Salas,787-45-7466,Pediatrics,Fracture,13056.7,2026-09-13
+PT-2417,Kimberly Coleman,586-94-3114,Pediatrics,Asthma,14764.59,2026-05-21
+PT-2418,Susan Anderson,422-62-2973,Cardiology,Asthma,2019.42,2026-05-22
+PT-2419,Erin Farmer,063-68-4493,Radiology,Migraine,11869.3,2026-08-08
+PT-2420,Timothy Glass,509-44-3058,Radiology,Migraine,4717.9,2026-04-01
+PT-2421,Sherry Rodriguez,402-26-8039,Radiology,Hypertension,3771.81,2026-06-04
+PT-2422,Norman Reyes,057-41-2910,Pediatrics,Fracture,8260.57,2026-02-22
+PT-2423,Damon Anderson,653-31-6964,Radiology,Fracture,14016.64,2026-04-29
+PT-2424,Mr. Michael Barnes,084-25-6545,Pediatrics,Fracture,11739.15,2026-04-25
+PT-2425,Joanna Torres,056-96-0212,Oncology,Type 2 Diabetes,14124.97,2026-06-01
+PT-2426,Amanda Stevens,852-13-5364,Radiology,Fracture,726.39,2026-03-25
+PT-2427,Aaron Martinez,702-06-2534,Cardiology,Migraine,12474.75,2026-01-18
+PT-2428,Jason Lopez,833-66-8400,Cardiology,Migraine,11213.68,2026-06-07
+PT-2429,Javier Carpenter,544-39-7463,Radiology,Migraine,8441.14,2026-09-03
+PT-2430,Michele Peters,200-68-8036,Cardiology,Asthma,1760.73,2026-07-17
+PT-2431,Felicia Atkinson,802-92-4569,Oncology,Fracture,275.39,2026-02-25
+PT-2432,Alex Price,150-03-1194,Radiology,Migraine,1988.33,2026-06-11
+PT-2433,Lisa Lester,135-76-5428,Pediatrics,Type 2 Diabetes,11147.95,2026-04-05
+PT-2434,Darlene Perez,581-03-1478,Oncology,Fracture,4204.91,2026-01-24
+PT-2435,Dr. Maurice Moore II,099-72-5413,Radiology,Type 2 Diabetes,7061.39,2026-09-10
+PT-2436,Rachel Walker,884-35-4475,Oncology,Type 2 Diabetes,11321.46,2026-09-15
+PT-2437,Kyle Ochoa,099-89-3063,Radiology,Migraine,10804.28,2026-04-06
+PT-2438,Patrick Taylor,470-80-3365,Cardiology,Hypertension,705.2,2026-07-06
+PT-2439,Adrian Rangel,428-31-2640,Cardiology,Migraine,7509.74,2026-05-18
+PT-2440,Stephanie Harris,616-56-1466,Oncology,Fracture,5628.72,2026-05-15
+PT-2441,Michael Sullivan,057-88-2368,Radiology,Fracture,3727.53,2026-06-29
+PT-2442,Michele Miller,647-35-6589,Cardiology,Asthma,11038.56,2026-03-07
+PT-2443,Eric Singh,797-16-5912,Radiology,Asthma,294.98,2026-09-10
+PT-2444,Amy Sullivan,397-20-8861,Oncology,Fracture,3154.78,2026-06-18
+PT-2445,Tammy Ortiz,030-55-6003,Cardiology,Migraine,8222.73,2026-04-02
+PT-2446,Zachary Bell,297-54-0041,Radiology,Hypertension,6715.46,2026-08-19
+PT-2447,Adam Shannon,538-76-1011,Pediatrics,Hypertension,864.39,2026-03-23
+PT-2448,Todd Strickland,508-28-8052,Pediatrics,Hypertension,10406.65,2026-06-03
+PT-2449,Charles Murray,341-10-6872,Radiology,Migraine,11499.91,2026-03-15
+PT-2450,Charles Richardson,041-62-0958,Oncology,Asthma,940.08,2026-09-13
+PT-2451,Jeffery Sanchez,014-85-6137,Pediatrics,Fracture,7434.29,2026-04-26
+PT-2452,Andrew Weber,412-63-1653,Radiology,Hypertension,5857.8,2026-01-24
+PT-2453,Timothy Andrade,870-88-9020,Oncology,Asthma,5580.08,2026-09-10
+PT-2454,Robert Perez,671-51-0463,Oncology,Fracture,11149.61,2026-07-16
+PT-2455,Mrs. Lisa Johnson,647-45-3911,Oncology,Hypertension,5322.98,2026-03-31
+PT-2456,Mr. Shawn Smith,789-28-5157,Radiology,Asthma,11834.16,2026-07-29
+PT-2457,Johnny Robinson,543-20-0411,Radiology,Migraine,13150.43,2026-01-15
+PT-2458,Michael Harris,360-73-6270,Pediatrics,Asthma,8740.07,2026-09-13
+PT-2459,Rebecca Brown,667-85-3179,Pediatrics,Migraine,14557.05,2026-07-19
+PT-2460,Melissa Potts,753-17-4706,Oncology,Asthma,14963.37,2026-07-30
+PT-2461,Cory Leonard,259-72-0984,Pediatrics,Migraine,9622.37,2026-02-14
+PT-2462,James Costa,334-51-1242,Oncology,Asthma,11283.92,2026-06-05
+PT-2463,Renee Peterson,568-22-3178,Pediatrics,Type 2 Diabetes,5104.65,2026-08-05
+PT-2464,Cameron Shaw,788-49-3992,Oncology,Hypertension,12813.99,2026-05-31
+PT-2465,Austin Williams,579-45-0563,Pediatrics,Fracture,8858.91,2026-09-10
+PT-2466,Brett Rios,128-91-8695,Radiology,Hypertension,5488.69,2026-03-03
+PT-2467,Nathaniel Mcfarland,668-89-4026,Cardiology,Hypertension,7492.36,2026-01-29
+PT-2468,Justin Bell,157-16-1571,Pediatrics,Hypertension,11705.82,2026-02-07
+PT-2469,Candice Murphy,020-85-5221,Radiology,Hypertension,11238.25,2026-04-14
+PT-2470,Mrs. Susan Trevino DDS,132-43-1012,Pediatrics,Asthma,4997.33,2026-01-25
+PT-2471,Samantha Clark,068-35-0264,Pediatrics,Migraine,3010.2,2026-09-06
+PT-2472,David Ryan,208-02-2973,Radiology,Migraine,12600.91,2026-01-27
+PT-2473,Jeremy Rivera,148-47-1440,Cardiology,Migraine,9110.99,2026-03-25
+PT-2474,Gina Dean,572-07-8035,Oncology,Fracture,2666.06,2026-02-27
+PT-2475,Heather Jackson,365-36-3580,Oncology,Asthma,10569.23,2026-07-18
+PT-2476,Larry Obrien,168-02-6890,Radiology,Migraine,13459.97,2026-05-11
+PT-2477,Daniel Cochran,884-15-0984,Radiology,Migraine,2747.02,2026-07-13
+PT-2478,Kathleen Smith,697-13-8124,Oncology,Asthma,3247.24,2026-08-02
+PT-2479,Jon Perez,045-15-8763,Pediatrics,Migraine,894.34,2026-04-24
+PT-2480,Dana Taylor,285-35-2282,Oncology,Type 2 Diabetes,12687.33,2026-04-02
+PT-2481,Raymond Foster,104-78-2641,Pediatrics,Type 2 Diabetes,3964.39,2026-02-12
+PT-2482,Jill Knox,518-80-3881,Pediatrics,Fracture,11477.77,2026-03-06
+PT-2483,George Hernandez,510-36-3354,Cardiology,Hypertension,5353.1,2026-07-23
+PT-2484,Sarah Haynes,452-27-1987,Oncology,Hypertension,11942.02,2026-04-14
+PT-2485,Christine Powell,419-21-4734,Oncology,Hypertension,205.76,2026-07-02
+PT-2486,Stacy Wagner,448-49-9227,Oncology,Migraine,2856.72,2026-08-02
+PT-2487,Andrew Pittman,475-48-0778,Oncology,Hypertension,6025.36,2026-09-08
+PT-2488,Stephanie Smith,617-04-2378,Oncology,Asthma,5747.35,2026-03-01
+PT-2489,Christina Delgado,447-96-1580,Radiology,Type 2 Diabetes,13844.82,2026-01-11
+PT-2490,Ryan Williams,457-26-7373,Oncology,Hypertension,11373.36,2026-04-23
+PT-2491,Darlene Clayton MD,804-12-7634,Radiology,Hypertension,4033.26,2026-07-24
+PT-2492,Sharon Garcia,325-67-5286,Cardiology,Fracture,13371.41,2026-05-26
+PT-2493,Jessica Crawford,757-20-5196,Pediatrics,Asthma,504.43,2026-04-25
+PT-2494,Amy Wells,395-44-5078,Cardiology,Fracture,2477.23,2026-09-02
+PT-2495,Daniel Velez,370-82-7085,Oncology,Fracture,4406.88,2026-06-19
+PT-2496,Stephanie Wallace,495-60-1677,Cardiology,Asthma,14581.08,2026-01-13
+PT-2497,Christopher Williams,854-11-1072,Oncology,Hypertension,4241.49,2026-08-06
+PT-2498,Jason Caldwell,231-65-3006,Pediatrics,Type 2 Diabetes,2116.61,2026-09-06
+PT-2499,Courtney Sharp,744-85-0154,Oncology,Type 2 Diabetes,8263.64,2026-07-07
+PT-2500,Brenda Mullins,187-82-9797,Pediatrics,Hypertension,11501.41,2026-05-20
+PT-2501,Edward Williams,266-29-8553,Pediatrics,Asthma,11879.01,2026-02-12
+PT-2502,Stephanie Hartman,094-84-6947,Radiology,Asthma,530.05,2026-07-02
+PT-2503,Andrew Smith,264-49-8133,Cardiology,Fracture,14026.81,2026-03-21
+PT-2504,Theresa Ortiz,282-65-2770,Radiology,Hypertension,14644.83,2026-07-18
+PT-2505,Dale Lee,254-72-9503,Cardiology,Hypertension,5873.5,2026-02-09
+PT-2506,Erin Owens,660-25-8846,Cardiology,Fracture,14811.0,2026-05-13
+PT-2507,Jay Mckay,172-09-8294,Pediatrics,Type 2 Diabetes,7564.19,2026-02-17
+PT-2508,Nicole Burns,123-98-9488,Cardiology,Type 2 Diabetes,5957.06,2026-09-01
+PT-2509,Tyler Jones,706-40-7871,Pediatrics,Type 2 Diabetes,4411.31,2026-06-22
+PT-2510,James Brooks,506-78-7376,Oncology,Migraine,2654.33,2026-04-08
+PT-2511,Samantha Odonnell,325-79-2537,Cardiology,Fracture,12810.2,2026-01-16
+PT-2512,Suzanne Daniels,800-16-2456,Cardiology,Type 2 Diabetes,11896.93,2026-08-03
+PT-2513,Kimberly Green,341-34-8665,Pediatrics,Type 2 Diabetes,7414.9,2026-03-16
+PT-2514,Christopher Padilla,448-29-2065,Radiology,Asthma,13147.66,2026-07-31
+PT-2515,Angela Smith,838-14-5318,Pediatrics,Migraine,14042.31,2026-02-11
+PT-2516,Kent Hampton,182-02-3805,Pediatrics,Asthma,10401.16,2026-08-21
+PT-2517,Micheal Black,275-67-8144,Radiology,Type 2 Diabetes,12971.31,2026-07-07
+PT-2518,Michael Olson,552-85-6406,Cardiology,Hypertension,10820.65,2026-01-01
+PT-2519,Andrew Andrews,128-82-2739,Radiology,Fracture,9534.42,2026-02-15
+PT-2520,William Gibson,752-86-0877,Pediatrics,Asthma,11812.97,2026-02-02
+PT-2521,Timothy Foley,644-25-7505,Cardiology,Type 2 Diabetes,272.77,2026-07-22
+PT-2522,Stephanie Harmon,408-18-8303,Cardiology,Migraine,9372.88,2026-02-27
+PT-2523,Erica Rivers,851-22-4884,Oncology,Asthma,1359.55,2026-07-08
+PT-2524,William Perez,758-35-4887,Pediatrics,Migraine,8713.17,2026-03-24
+PT-2525,Meagan Davis,343-29-8398,Pediatrics,Hypertension,13381.49,2026-04-20
+PT-2526,Susan Brown,557-95-6664,Radiology,Type 2 Diabetes,4553.71,2026-06-06
+PT-2527,Gregory Reeves,880-71-6475,Radiology,Migraine,11085.29,2026-01-15
+PT-2528,Sue Camacho,305-32-8695,Pediatrics,Hypertension,9937.0,2026-02-19
+PT-2529,Christopher Neal,014-50-1547,Pediatrics,Migraine,11024.8,2026-04-25
+PT-2530,Deborah Greer,643-13-6316,Radiology,Type 2 Diabetes,12373.69,2026-02-24
+PT-2531,Peter Keith,890-10-3907,Cardiology,Asthma,4812.57,2026-03-27
+PT-2532,Kevin Simpson,384-33-3336,Radiology,Hypertension,12395.74,2026-05-14
+PT-2533,Cindy Beck,525-48-8128,Cardiology,Migraine,14292.22,2026-06-10
+PT-2534,Jose Jones,029-66-8362,Pediatrics,Fracture,9523.96,2026-04-16
+PT-2535,Anna Thomas,493-08-2742,Pediatrics,Migraine,3355.18,2026-03-04
+PT-2536,Bryce Martinez,439-57-6229,Cardiology,Hypertension,9068.19,2026-09-05
+PT-2537,Heather Morton,161-27-4641,Pediatrics,Type 2 Diabetes,6614.2,2026-03-26
+PT-2538,Elizabeth Lam,326-11-4269,Cardiology,Asthma,12661.24,2026-06-08
+PT-2539,Dr. Angela Mcfarland,404-83-6421,Pediatrics,Type 2 Diabetes,2214.94,2026-05-20
+PT-2540,Jennifer West,267-71-4472,Pediatrics,Fracture,9914.31,2026-07-19
+PT-2541,Denise Smith,264-72-8700,Oncology,Asthma,3626.05,2026-01-15
+PT-2542,Henry Hernandez,867-77-4002,Pediatrics,Type 2 Diabetes,3231.88,2026-05-02
+PT-2543,John Cobb,301-74-0275,Pediatrics,Migraine,5436.99,2026-06-12
+PT-2544,John Martinez,210-24-2534,Pediatrics,Migraine,10321.4,2026-09-15
+PT-2545,Jennifer Bell,844-74-6616,Cardiology,Fracture,13760.01,2026-05-06
+PT-2546,Travis Carr,113-04-1182,Cardiology,Type 2 Diabetes,1768.16,2026-06-29
+PT-2547,Veronica Diaz,819-62-6929,Radiology,Migraine,9111.53,2026-01-28
+PT-2548,John Stokes,488-62-2348,Pediatrics,Asthma,14789.51,2026-07-23
+PT-2549,Ryan Bolton,134-05-1743,Pediatrics,Hypertension,8638.52,2026-06-24
+PT-2550,Matthew Riddle,811-54-0051,Pediatrics,Asthma,13977.57,2026-04-07
+PT-2551,James Mcdaniel,719-34-7257,Cardiology,Fracture,7738.92,2026-04-19
+PT-2552,Olivia Blevins,336-74-9107,Oncology,Hypertension,10670.19,2026-06-19
+PT-2553,Olivia Acosta,559-42-4025,Pediatrics,Type 2 Diabetes,10988.24,2026-09-16
+PT-2554,Ann Roberts,062-57-3112,Oncology,Migraine,2182.45,2026-03-12
+PT-2555,Morgan Fleming,678-69-2107,Radiology,Type 2 Diabetes,9023.7,2026-02-19
+PT-2556,Steven Smith,888-16-9728,Radiology,Migraine,14792.64,2026-06-27
+PT-2557,Samuel Romero,646-91-2981,Radiology,Fracture,14691.1,2026-09-03
+PT-2558,Richard White,529-44-2360,Pediatrics,Migraine,1849.6,2026-07-15
+PT-2559,Ronald Garcia,112-52-6260,Pediatrics,Fracture,8085.69,2026-05-25
+PT-2560,Joshua Deleon,349-71-6889,Oncology,Migraine,11653.92,2026-01-28
+PT-2561,Daniel Pugh,538-37-9756,Cardiology,Asthma,7725.84,2026-06-14
+PT-2562,Jonathan Scott,842-72-1437,Cardiology,Migraine,14352.97,2026-06-05
+PT-2563,John Gardner,887-74-9084,Oncology,Hypertension,13676.74,2026-09-02
+PT-2564,Samantha Riddle,426-72-6149,Radiology,Fracture,7933.11,2026-05-14
+PT-2565,Chris Sanchez,342-40-1843,Oncology,Hypertension,14548.07,2026-04-28
+PT-2566,April Rosales,267-52-4471,Pediatrics,Hypertension,10865.51,2026-09-12
+PT-2567,Keith Wheeler,661-07-8451,Radiology,Fracture,12540.38,2026-07-17
+PT-2568,Philip Flores,070-81-3458,Cardiology,Hypertension,12564.03,2026-02-10
+PT-2569,Alex Rogers,190-98-0220,Radiology,Fracture,9032.66,2026-05-11
+PT-2570,Jared Hicks,246-51-6168,Cardiology,Fracture,7038.69,2026-04-20
+PT-2571,Christy Meyer,627-17-9455,Radiology,Hypertension,2661.06,2026-05-28
+PT-2572,Robert Jones,194-14-6417,Radiology,Type 2 Diabetes,14451.21,2026-02-19
+PT-2573,Robert Jackson,495-28-0327,Oncology,Hypertension,281.6,2026-08-07
+PT-2574,Nicole Lowery,079-83-3161,Cardiology,Fracture,14676.56,2026-09-07
+PT-2575,Rebecca White,076-27-4558,Oncology,Type 2 Diabetes,5381.65,2026-05-05
+PT-2576,Jon Morris,497-54-6279,Pediatrics,Asthma,5880.13,2026-04-04
+PT-2577,Kristina Herman,298-93-6656,Radiology,Type 2 Diabetes,5378.72,2026-07-31
+PT-2578,Sheri Burns,716-87-3981,Radiology,Hypertension,14437.54,2026-07-27
+PT-2579,Candice Coleman,199-20-4529,Radiology,Type 2 Diabetes,8134.34,2026-03-01
+PT-2580,Johnny Torres,875-43-2285,Pediatrics,Asthma,1751.56,2026-08-25
+PT-2581,Mrs. Dorothy King,771-05-3391,Cardiology,Type 2 Diabetes,4134.21,2026-07-13
+PT-2582,Tyler Solomon,032-95-2205,Cardiology,Fracture,13797.48,2026-05-13
+PT-2583,David Cole,849-41-8401,Pediatrics,Migraine,10447.93,2026-08-24
+PT-2584,Kimberly Patel,385-89-8434,Oncology,Hypertension,10264.57,2026-07-03
+PT-2585,William White,304-41-1892,Cardiology,Hypertension,4674.84,2026-01-19
+PT-2586,Laura Blevins,885-97-7446,Pediatrics,Migraine,12286.44,2026-05-03
+PT-2587,Deborah Adkins,831-03-9181,Oncology,Hypertension,10740.84,2026-04-14
+PT-2588,Brianna Wagner,530-94-3869,Cardiology,Migraine,13742.35,2026-05-21
+PT-2589,Christopher Smith,751-84-5404,Oncology,Fracture,7242.66,2026-06-06
+PT-2590,Kurt Roberts,238-61-6775,Oncology,Asthma,12893.8,2026-03-15
+PT-2591,Adrian Knox,897-19-2965,Radiology,Type 2 Diabetes,11915.5,2026-05-02
+PT-2592,Kimberly Jones,597-17-9729,Oncology,Asthma,14082.13,2026-03-16
+PT-2593,Dalton Elliott,691-27-8550,Oncology,Asthma,14848.26,2026-09-01
+PT-2594,Stacey Lamb,812-14-2923,Pediatrics,Fracture,11990.09,2026-05-12
+PT-2595,Beverly Lopez,416-71-5833,Cardiology,Fracture,10087.89,2026-02-09
+PT-2596,Crystal Mcdowell,149-65-7211,Oncology,Asthma,5842.32,2026-03-26
+PT-2597,Angela Holt,514-14-3576,Radiology,Fracture,4757.08,2026-06-15
+PT-2598,Candice Torres,858-33-6142,Oncology,Migraine,3575.34,2026-08-21
+PT-2599,Brandon Morgan,435-05-3029,Radiology,Hypertension,5701.85,2026-08-22
+PT-2600,Lisa Franklin,443-53-3734,Oncology,Hypertension,5110.62,2026-03-17
+PT-2601,Greg Wells,604-38-2955,Radiology,Hypertension,4011.7,2026-06-09
+PT-2602,Brandon Bell,298-57-5824,Oncology,Type 2 Diabetes,5390.9,2026-08-15
+PT-2603,Ryan Ortiz,436-56-8575,Oncology,Asthma,251.45,2026-02-16
+PT-2604,Sandra Charles,769-93-2583,Pediatrics,Fracture,11049.41,2026-07-15
+PT-2605,Mary Campbell,686-45-6417,Cardiology,Fracture,3386.87,2026-09-09
+PT-2606,Amber Hunter,647-47-1198,Oncology,Asthma,8496.44,2026-06-07
+PT-2607,Carl Blake,803-92-5072,Pediatrics,Migraine,577.76,2026-07-19
+PT-2608,Sheri Macdonald,834-16-6037,Pediatrics,Fracture,2816.21,2026-05-20
+PT-2609,Brooke Reilly,273-33-9291,Oncology,Fracture,4405.05,2026-07-08
+PT-2610,Andrew Booth,261-76-6908,Pediatrics,Hypertension,1937.37,2026-04-15
+PT-2611,Thomas Medina,583-52-7089,Oncology,Hypertension,3616.96,2026-09-04
+PT-2612,Gregory Robinson,593-60-1463,Cardiology,Fracture,12575.22,2026-05-03
+PT-2613,Laura Berry,058-07-3728,Pediatrics,Migraine,12602.32,2026-07-19
+PT-2614,Nicolas Kelly,406-51-2978,Pediatrics,Fracture,12806.33,2026-01-24
+PT-2615,Lisa Powers,519-30-8005,Pediatrics,Type 2 Diabetes,13310.5,2026-02-15
+PT-2616,Tammy Gray,369-26-8573,Cardiology,Fracture,3600.89,2026-06-15
+PT-2617,Charlene Melendez,056-13-3518,Oncology,Migraine,6737.63,2026-03-20
+PT-2618,Yolanda Woodward,642-23-2904,Pediatrics,Migraine,6069.2,2026-07-26
+PT-2619,Isaac Pena,423-45-6719,Cardiology,Hypertension,9584.64,2026-06-10
+PT-2620,Bradley Ramos,029-43-3787,Pediatrics,Type 2 Diabetes,7753.12,2026-01-08
+PT-2621,Kelsey Ortega,868-37-0531,Oncology,Hypertension,11321.74,2026-06-15
+PT-2622,Phillip Collins,020-27-6805,Pediatrics,Type 2 Diabetes,12051.97,2026-03-11
+PT-2623,Nancy Robinson,570-61-0559,Pediatrics,Asthma,3248.82,2026-01-24
+PT-2624,Tammy Wright,374-87-6603,Oncology,Type 2 Diabetes,8553.17,2026-04-29
+PT-2625,James Hudson,217-89-6808,Radiology,Migraine,2905.23,2026-08-28
+PT-2626,Sherry Flores,081-67-6025,Radiology,Migraine,13876.7,2026-03-21
+PT-2627,Samantha Hooper,129-72-4619,Radiology,Asthma,12874.16,2026-08-25
+PT-2628,Gary Baker,503-17-7527,Oncology,Migraine,8930.5,2026-09-01
+PT-2629,Jacqueline Goodman,206-63-4563,Radiology,Migraine,6121.8,2026-01-25
+PT-2630,William Liu,767-77-3219,Cardiology,Asthma,4716.96,2026-03-12
+PT-2631,Kenneth Lawrence,709-95-8268,Pediatrics,Hypertension,6455.65,2026-03-14
+PT-2632,John Bowen,274-96-8012,Oncology,Type 2 Diabetes,1682.24,2026-02-02
+PT-2633,Robert Mccullough,697-79-1425,Oncology,Asthma,7742.27,2026-05-21
+PT-2634,Rebecca Ruiz,715-60-7692,Radiology,Type 2 Diabetes,10684.89,2026-05-02
+PT-2635,Anthony Bolton,868-99-3354,Radiology,Asthma,1342.1,2026-08-25
+PT-2636,Betty Weeks,893-99-5439,Radiology,Migraine,5334.16,2026-04-19
+PT-2637,Anne Wang,834-05-1308,Cardiology,Asthma,5054.4,2026-03-30
+PT-2638,Mark Williams,503-93-2517,Pediatrics,Asthma,12552.47,2026-06-17
+PT-2639,Mark Velez,397-29-1273,Radiology,Migraine,431.85,2026-04-19
+PT-2640,Rachel Garcia,190-05-4251,Radiology,Type 2 Diabetes,11723.06,2026-05-08
+PT-2641,Rose Walton,250-25-2408,Cardiology,Migraine,8671.96,2026-02-22
+PT-2642,Melanie Gordon,861-18-5037,Cardiology,Hypertension,12285.51,2026-08-12
+PT-2643,Jacob Jones,295-13-4478,Radiology,Fracture,7968.2,2026-02-09
+PT-2644,Andrew Hayes,712-17-3066,Cardiology,Type 2 Diabetes,11013.89,2026-04-05
+PT-2645,Calvin Lawson,322-99-1954,Oncology,Hypertension,327.38,2026-03-04
+PT-2646,John Jones,853-65-4280,Radiology,Migraine,9359.99,2026-01-14
+PT-2647,Rodney Chandler,173-02-3482,Radiology,Migraine,8130.79,2026-05-14
+PT-2648,Eric Garza,803-28-0102,Cardiology,Asthma,674.6,2026-05-20
+PT-2649,Cynthia King,763-39-7952,Cardiology,Fracture,4398.49,2026-03-10
+PT-2650,Samantha Warner,068-02-0704,Oncology,Type 2 Diabetes,9907.12,2026-06-28
+PT-2651,Kim Sutton,778-26-8347,Cardiology,Hypertension,14279.74,2026-04-27
+PT-2652,Jackson Nelson,808-70-9830,Pediatrics,Asthma,10292.23,2026-04-21
+PT-2653,Jeffrey Horn,613-53-9881,Oncology,Migraine,695.58,2026-07-12
+PT-2654,Leslie Ferguson,864-08-2865,Cardiology,Fracture,1579.67,2026-05-27
+PT-2655,Megan Burgess,660-72-2922,Cardiology,Asthma,1090.9,2026-09-01
+PT-2656,Mason Hall,325-40-0555,Pediatrics,Asthma,9904.85,2026-05-15
+PT-2657,Sandra White,118-40-3212,Pediatrics,Hypertension,12842.19,2026-09-12
+PT-2658,Steven Thompson,152-04-6252,Oncology,Hypertension,4624.75,2026-08-09
+PT-2659,Tammy Sandoval,592-14-8592,Cardiology,Hypertension,14036.72,2026-03-14
+PT-2660,Shannon Pope,198-88-3721,Cardiology,Fracture,13913.81,2026-07-25
+PT-2661,Steven Daugherty,280-19-2714,Pediatrics,Asthma,13709.42,2026-05-02
+PT-2662,Christopher Holloway,075-07-1607,Radiology,Hypertension,6907.35,2026-05-23
+PT-2663,Teresa Wyatt,728-93-9583,Cardiology,Type 2 Diabetes,10682.23,2026-06-15
+PT-2664,Heather Guzman,683-02-5809,Cardiology,Fracture,381.07,2026-05-15
+PT-2665,Rodney Sanchez,730-46-4799,Radiology,Hypertension,766.82,2026-03-08
+PT-2666,Willie Dennis,104-82-5750,Cardiology,Type 2 Diabetes,13176.26,2026-05-11
+PT-2667,Leah Baker,653-07-2286,Radiology,Asthma,12003.98,2026-08-25
+PT-2668,Debra Morris,064-41-3711,Oncology,Type 2 Diabetes,12232.99,2026-04-06
+PT-2669,Susan Williamson,254-26-9061,Radiology,Hypertension,11813.22,2026-06-08
+PT-2670,Caitlin Good,548-91-2511,Cardiology,Hypertension,14360.75,2026-07-16
+PT-2671,Lisa Cook,242-24-4836,Oncology,Asthma,733.58,2026-01-17
+PT-2672,Jason Elliott,598-50-7804,Cardiology,Hypertension,12731.93,2026-02-03
+PT-2673,Sandra Herrera,639-18-5819,Cardiology,Asthma,13178.6,2026-03-23
+PT-2674,Douglas Jackson,259-92-5405,Pediatrics,Type 2 Diabetes,4073.33,2026-02-16
+PT-2675,James Buchanan,638-51-7150,Oncology,Asthma,8233.92,2026-08-21
+PT-2676,Kimberly Armstrong,692-86-7476,Oncology,Fracture,3299.14,2026-08-14
+PT-2677,Sheri Holmes,169-31-3385,Cardiology,Hypertension,6040.01,2026-06-07
+PT-2678,James Hudson,714-89-0534,Cardiology,Asthma,13373.37,2026-07-31
+PT-2679,Jessica Taylor,594-47-3205,Cardiology,Type 2 Diabetes,12124.96,2026-06-11
+PT-2680,Stephanie Lopez,583-56-7005,Oncology,Type 2 Diabetes,9322.79,2026-05-29
+PT-2681,Lorraine Young,350-34-9482,Oncology,Fracture,9178.11,2026-08-13
+PT-2682,Robert Malone,709-44-3082,Pediatrics,Fracture,12968.04,2026-09-01
+PT-2683,Ashley Carpenter,287-91-0308,Oncology,Fracture,5784.21,2026-07-29
+PT-2684,Luis Miller,649-40-9732,Pediatrics,Migraine,11313.99,2026-08-29
+PT-2685,Toni Bullock,013-28-1241,Cardiology,Migraine,5469.01,2026-04-28
+PT-2686,Heather Chavez,506-10-9722,Pediatrics,Type 2 Diabetes,4393.17,2026-06-15
+PT-2687,Deanna Nelson,782-13-2868,Radiology,Migraine,11347.0,2026-06-25
+PT-2688,Michaela Keith,450-40-6188,Cardiology,Migraine,4885.55,2026-07-01
+PT-2689,Michelle Rodriguez,567-02-9765,Radiology,Type 2 Diabetes,7842.44,2026-04-03
+PT-2690,Amanda Jackson,072-92-2145,Oncology,Type 2 Diabetes,10744.68,2026-04-05
+PT-2691,Richard Moore,322-59-9864,Oncology,Fracture,6858.37,2026-08-08
+PT-2692,Katherine Hernandez,313-10-0910,Oncology,Asthma,3018.41,2026-01-09
+PT-2693,Mark Bass,803-74-8070,Oncology,Fracture,4953.64,2026-01-28
+PT-2694,Shane Black,496-66-9918,Oncology,Hypertension,11722.41,2026-04-17
+PT-2695,Phillip Thomas II,253-01-5163,Cardiology,Type 2 Diabetes,11412.44,2026-04-18
+PT-2696,Julie Ramos,664-26-2942,Oncology,Type 2 Diabetes,11689.23,2026-04-07
+PT-2697,Gloria Mckee,187-02-5805,Oncology,Migraine,4187.96,2026-01-09
+PT-2698,Maria Frey,336-49-3240,Cardiology,Hypertension,14202.72,2026-07-26
+PT-2699,Scott Shelton,434-01-8819,Cardiology,Fracture,8752.52,2026-07-23
+PT-2700,Dr. Julie Rollins,039-36-8714,Oncology,Migraine,8888.91,2026-03-08
+PT-2701,Ronnie Miles,018-68-3524,Radiology,Hypertension,4756.41,2026-05-15
+PT-2702,Jesse Thomas,578-37-5617,Oncology,Hypertension,4238.79,2026-02-18
+PT-2703,Leah Ross,722-38-9241,Cardiology,Migraine,1331.26,2026-09-07
+PT-2704,Peggy Foster,899-31-3081,Cardiology,Asthma,9369.36,2026-05-17
+PT-2705,Matthew Guzman,463-92-2061,Radiology,Asthma,12051.03,2026-02-09
+PT-2706,Lori Romero,012-25-6008,Cardiology,Type 2 Diabetes,14679.01,2026-06-20
+PT-2707,Michael Bruce,398-35-4580,Radiology,Hypertension,9606.53,2026-04-18
+PT-2708,Megan Nguyen,678-07-6813,Radiology,Hypertension,7779.35,2026-05-14
+PT-2709,Bradley Kline,267-43-3883,Radiology,Type 2 Diabetes,11295.82,2026-07-09
+PT-2710,Tim Norman,304-17-6404,Radiology,Asthma,10285.26,2026-01-31
+PT-2711,Jordan Hampton,465-80-9723,Oncology,Asthma,1992.95,2026-05-21
+PT-2712,Brian Downs,367-63-9308,Oncology,Asthma,2794.19,2026-03-21
+PT-2713,Danielle Rodriguez,210-20-2652,Radiology,Fracture,2266.21,2026-06-13
+PT-2714,Thomas Smith,277-60-2297,Oncology,Hypertension,10516.99,2026-08-31
+PT-2715,Leonard Hunter,864-26-5809,Cardiology,Fracture,14343.02,2026-03-17
+PT-2716,Pamela Mclaughlin,756-78-6849,Oncology,Type 2 Diabetes,10360.97,2026-08-18
+PT-2717,Melvin Smith,157-81-0200,Oncology,Type 2 Diabetes,12696.96,2026-07-19
+PT-2718,Lauren Porter,131-35-3410,Oncology,Type 2 Diabetes,11311.6,2026-02-19
+PT-2719,Christopher Cunningham DDS,200-98-5941,Radiology,Asthma,2450.29,2026-01-18
+PT-2720,Lisa Wright,425-34-0019,Pediatrics,Hypertension,5351.92,2026-05-11
+PT-2721,Barbara Irwin,104-85-5738,Radiology,Fracture,12945.25,2026-05-17
+PT-2722,Stephen Heath,607-12-3761,Pediatrics,Fracture,10924.6,2026-03-07
+PT-2723,Jennifer Bentley MD,285-19-7258,Radiology,Hypertension,8664.96,2026-07-24
+PT-2724,Molly Figueroa,480-04-2373,Pediatrics,Hypertension,13074.31,2026-01-30
+PT-2725,Taylor Aguilar,243-67-9341,Oncology,Migraine,7726.36,2026-07-21
+PT-2726,Marvin Brown,411-54-5846,Oncology,Asthma,6246.49,2026-02-19
+PT-2727,Patrick Ruiz,397-28-8533,Cardiology,Hypertension,8161.04,2026-04-05
+PT-2728,Mark Wright,503-37-9575,Radiology,Asthma,13229.57,2026-09-05
+PT-2729,Deborah Thompson,199-20-7939,Cardiology,Fracture,10265.17,2026-05-27
+PT-2730,Jennifer Collins,598-90-6862,Pediatrics,Hypertension,12331.34,2026-07-13
+PT-2731,Alejandra Cooper,495-81-5287,Oncology,Hypertension,928.99,2026-02-17
+PT-2732,Taylor Obrien,127-02-6464,Radiology,Hypertension,1747.83,2026-05-08
+PT-2733,Chad Jones,103-13-6251,Oncology,Hypertension,1458.14,2026-02-15
+PT-2734,Jennifer Ali,616-12-9252,Oncology,Migraine,8346.33,2026-07-18
+PT-2735,David Williams,742-81-1398,Oncology,Asthma,6187.12,2026-01-09
+PT-2736,Megan Collier,531-44-9729,Pediatrics,Type 2 Diabetes,2601.41,2026-02-25
+PT-2737,Samuel Ruiz,731-18-4644,Cardiology,Migraine,1097.67,2026-06-05
+PT-2738,Mike Stanley,795-52-4777,Radiology,Asthma,12273.28,2026-04-19
+PT-2739,Cynthia Young,107-38-0554,Cardiology,Fracture,11748.2,2026-02-13
+PT-2740,Alisha Martinez,570-16-7593,Pediatrics,Fracture,9000.98,2026-09-01
+PT-2741,Melissa Harper,037-57-1627,Radiology,Fracture,12185.22,2026-02-23
+PT-2742,Donald Smith MD,641-26-0731,Cardiology,Fracture,596.64,2026-03-03
+PT-2743,Nicholas Duran,365-10-5651,Pediatrics,Asthma,11276.17,2026-06-12
+PT-2744,Michelle Franklin,238-89-5758,Oncology,Asthma,4408.56,2026-06-07
+PT-2745,Christian Gilbert,181-20-4606,Radiology,Asthma,9102.3,2026-04-23
+PT-2746,Mark Baird,835-15-3545,Cardiology,Asthma,3117.57,2026-02-04
+PT-2747,Claudia Buchanan,172-52-4828,Radiology,Fracture,2298.2,2026-05-01
+PT-2748,Dawn Bernard,447-99-6316,Oncology,Fracture,7566.25,2026-02-09
+PT-2749,Pamela Horton,032-94-3719,Oncology,Asthma,6303.04,2026-04-03
+PT-2750,Cassandra Gross,359-17-6300,Cardiology,Hypertension,2467.81,2026-03-04
+PT-2751,Sandra Pratt,566-81-5149,Oncology,Fracture,5588.74,2026-07-30
+PT-2752,Sarah Hudson,184-03-2610,Radiology,Asthma,10658.76,2026-08-13
+PT-2753,Chris Watson,324-23-7982,Pediatrics,Type 2 Diabetes,1978.8,2026-07-26
+PT-2754,Evan Sheppard,295-74-0334,Cardiology,Fracture,14445.55,2026-08-31
+PT-2755,Mark Campbell,243-62-4853,Oncology,Hypertension,830.17,2026-07-27
+PT-2756,Sarah Murphy,202-85-6555,Radiology,Hypertension,8565.71,2026-08-21
+PT-2757,James Johnson,415-99-9468,Radiology,Type 2 Diabetes,13766.7,2026-01-22
+PT-2758,Matthew Little,702-41-9559,Cardiology,Asthma,1040.67,2026-05-08
+PT-2759,Jennifer Henry DDS,667-28-6322,Pediatrics,Type 2 Diabetes,1446.96,2026-05-07
+PT-2760,Kimberly Griffin,491-36-2832,Oncology,Migraine,10359.36,2026-03-29
+PT-2761,Luke Harrington,524-68-9943,Pediatrics,Asthma,8840.11,2026-08-11
+PT-2762,Cynthia Meyers,183-02-6583,Radiology,Hypertension,6480.39,2026-09-15
+PT-2763,Kristin Singh,787-71-3345,Pediatrics,Hypertension,8795.84,2026-07-31
+PT-2764,Jamie Coleman,097-51-0745,Oncology,Type 2 Diabetes,4274.03,2026-05-21
+PT-2765,Derrick Williams,658-62-2472,Pediatrics,Type 2 Diabetes,8760.21,2026-08-06
+PT-2766,Kelly Gallegos,887-29-9319,Oncology,Migraine,7239.23,2026-04-25
+PT-2767,Elizabeth Torres,062-63-2698,Oncology,Type 2 Diabetes,4204.85,2026-03-26
+PT-2768,Kelly Klein,319-69-0257,Radiology,Fracture,11860.16,2026-04-26
+PT-2769,Amanda Green,791-03-1109,Pediatrics,Type 2 Diabetes,10825.51,2026-05-01
+PT-2770,Paula Moore,019-02-5593,Radiology,Migraine,2918.25,2026-01-23
+PT-2771,Daniel Jackson,440-14-9317,Cardiology,Fracture,12099.52,2026-03-18
+PT-2772,Abigail Benson,338-34-0532,Pediatrics,Type 2 Diabetes,1201.67,2026-04-28
+PT-2773,Jeremy Trujillo,361-48-8455,Radiology,Fracture,622.05,2026-08-26
+PT-2774,Ashley Leonard,429-10-6585,Radiology,Fracture,3324.01,2026-03-11
+PT-2775,Jose Kim PhD,617-75-5762,Pediatrics,Fracture,9900.26,2026-03-09
+PT-2776,Douglas Golden,819-02-5401,Cardiology,Hypertension,7316.26,2026-01-05
+PT-2777,Benjamin Neal,250-81-7556,Pediatrics,Type 2 Diabetes,7789.68,2026-02-09
+PT-2778,James Terrell,133-56-0498,Pediatrics,Migraine,4374.97,2026-01-09
+PT-2779,Mr. David Clark,890-72-1068,Oncology,Migraine,9968.62,2026-08-31
+PT-2780,Derek Bowen,791-03-3257,Oncology,Hypertension,1020.91,2026-05-27
+PT-2781,Jamie Johnson,129-80-6516,Radiology,Asthma,1174.68,2026-02-10
+PT-2782,Richard Martinez,424-09-9344,Pediatrics,Fracture,9601.78,2026-06-06
+PT-2783,Jesse Moran,542-44-1507,Pediatrics,Type 2 Diabetes,9775.37,2026-04-13
+PT-2784,Matthew Thomas,100-20-7488,Radiology,Fracture,1525.1,2026-07-02
+PT-2785,Xavier Vazquez,840-62-2367,Pediatrics,Asthma,3161.21,2026-04-21
+PT-2786,Jacob Crosby,214-80-3462,Pediatrics,Type 2 Diabetes,2416.23,2026-05-08
+PT-2787,Ariana Taylor,552-94-0479,Cardiology,Migraine,14457.12,2026-01-23
+PT-2788,Jason Anthony,169-06-5078,Radiology,Asthma,5802.97,2026-05-24
+PT-2789,Elaine Dawson,715-01-8796,Oncology,Fracture,6828.59,2026-03-30
+PT-2790,Heather Fitzpatrick,487-23-8685,Radiology,Asthma,12988.13,2026-08-12
+PT-2791,Jesus Ruiz,153-68-3543,Cardiology,Migraine,4339.41,2026-04-12
+PT-2792,Kathryn Myers,072-47-5306,Pediatrics,Migraine,9474.14,2026-08-18
+PT-2793,David Cannon,768-95-2130,Cardiology,Migraine,9492.65,2026-05-22
+PT-2794,Eric Coffey,381-48-3347,Oncology,Migraine,7913.26,2026-01-29
+PT-2795,Gabriella Bush,321-24-0249,Radiology,Hypertension,10250.91,2026-07-25
+PT-2796,Lacey Gutierrez,001-49-9104,Cardiology,Hypertension,915.86,2026-04-16
+PT-2797,Luke Schmidt,039-74-4008,Pediatrics,Type 2 Diabetes,2971.57,2026-06-16
+PT-2798,Brooke Henry,084-43-5489,Oncology,Asthma,9930.17,2026-04-12
+PT-2799,Sean Brady,830-26-5740,Radiology,Migraine,10152.44,2026-03-08
+PT-2800,Cassie Williams,476-80-5581,Cardiology,Hypertension,8456.28,2026-07-22
+PT-2801,Victor Myers,642-75-9947,Pediatrics,Asthma,10800.89,2026-06-24
+PT-2802,Lisa Garrett,527-85-8851,Oncology,Hypertension,10441.38,2026-07-06
+PT-2803,Melissa Drake,875-63-0056,Pediatrics,Asthma,12793.4,2026-06-03
+PT-2804,Michael Ortiz,334-18-9163,Oncology,Asthma,11538.7,2026-01-06
+PT-2805,Christopher Romero,887-50-4137,Oncology,Fracture,7636.8,2026-02-15
+PT-2806,Alan Sweeney,695-02-1210,Cardiology,Migraine,4939.07,2026-03-22
+PT-2807,Anthony Allison,251-87-1059,Pediatrics,Hypertension,11619.23,2026-08-28
+PT-2808,Misty Massey,652-27-1959,Pediatrics,Hypertension,8482.56,2026-07-31
+PT-2809,William Lopez,332-31-1681,Cardiology,Type 2 Diabetes,9717.2,2026-07-01
+PT-2810,James Scott,148-99-4932,Cardiology,Asthma,9514.2,2026-05-13
+PT-2811,Dr. Kimberly Morgan,281-40-5167,Oncology,Fracture,5852.47,2026-03-11
+PT-2812,Debra Austin,897-48-5080,Radiology,Asthma,6382.72,2026-05-27
+PT-2813,Lindsay Stevenson,088-92-1975,Oncology,Fracture,1474.12,2026-07-23
+PT-2814,Christopher Travis,148-14-3501,Oncology,Hypertension,7709.78,2026-06-04
+PT-2815,Kathryn Baker,196-96-9125,Radiology,Asthma,14347.05,2026-09-03
+PT-2816,Christopher Walker,127-74-3215,Radiology,Asthma,7104.86,2026-08-21
+PT-2817,Christopher Jones,321-10-0397,Radiology,Type 2 Diabetes,1536.82,2026-04-17
+PT-2818,Matthew Simpson,555-15-6160,Oncology,Migraine,2760.13,2026-05-05
+PT-2819,Lauren Miller,765-35-8611,Cardiology,Asthma,13909.67,2026-08-25
+PT-2820,Heidi Alvarez,822-65-0490,Oncology,Asthma,14302.6,2026-07-10
+PT-2821,Jason Buckley,873-03-8321,Cardiology,Type 2 Diabetes,7664.86,2026-03-16
+PT-2822,Mark Sanders,025-10-8521,Pediatrics,Hypertension,4430.76,2026-01-20
+PT-2823,Justin West,328-21-4320,Cardiology,Migraine,6651.01,2026-01-20
+PT-2824,Maria Mcmahon,583-09-0112,Oncology,Fracture,12160.38,2026-01-08
+PT-2825,Donald Sloan,576-90-5394,Oncology,Fracture,4936.37,2026-06-17
+PT-2826,Natalie Franklin,284-77-2436,Radiology,Type 2 Diabetes,2335.78,2026-08-19
+PT-2827,Michael Baker,338-77-1747,Cardiology,Asthma,14229.97,2026-07-06
+PT-2828,Melinda Shelton,369-86-0122,Pediatrics,Asthma,14423.58,2026-03-11
+PT-2829,Susan Watts,027-05-7308,Pediatrics,Hypertension,10151.81,2026-08-11
+PT-2830,Albert Mills,217-15-2812,Radiology,Migraine,14176.35,2026-07-19
+PT-2831,Robert Wilson,575-32-4909,Pediatrics,Fracture,4945.75,2026-05-06
+PT-2832,Mrs. Melissa Flowers,564-28-5069,Pediatrics,Type 2 Diabetes,1249.54,2026-07-19
+PT-2833,Karen Shelton,154-89-5131,Oncology,Migraine,1526.95,2026-04-06
+PT-2834,Bradley Thomas,726-73-3490,Radiology,Type 2 Diabetes,14900.38,2026-03-13
+PT-2835,Sarah Cunningham,873-44-4602,Radiology,Fracture,13520.61,2026-02-26
+PT-2836,Brenda Baker,118-84-5015,Pediatrics,Migraine,13735.22,2026-06-17
+PT-2837,Karen Lucas,893-75-9291,Pediatrics,Migraine,13990.97,2026-04-04
+PT-2838,Stephen Patterson,551-65-6297,Oncology,Asthma,6612.26,2026-03-16
+PT-2839,Nancy Cook,218-89-0555,Pediatrics,Type 2 Diabetes,4063.41,2026-06-26
+PT-2840,Juan Beltran,206-99-9133,Pediatrics,Fracture,13710.98,2026-01-24
+PT-2841,John Atkins,596-20-4497,Pediatrics,Hypertension,5541.29,2026-07-07
+PT-2842,Sharon Marshall MD,519-07-1660,Cardiology,Hypertension,12001.0,2026-08-13
+PT-2843,Melanie Finley,248-19-0218,Radiology,Fracture,9167.87,2026-03-14
+PT-2844,Jonathan Taylor,413-29-0550,Oncology,Migraine,3123.1,2026-03-19
+PT-2845,Lisa Hamilton,484-34-5243,Oncology,Type 2 Diabetes,13990.78,2026-03-27
+PT-2846,Steven Odonnell,665-70-8506,Pediatrics,Type 2 Diabetes,11691.57,2026-08-16
+PT-2847,Marie Williams,127-62-2500,Radiology,Hypertension,13882.27,2026-05-27
+PT-2848,Brent Chavez,139-60-9715,Cardiology,Hypertension,6976.84,2026-02-23
+PT-2849,Bradley Lopez,302-22-3294,Oncology,Migraine,14746.22,2026-07-08
+PT-2850,Kelly Macdonald,889-68-3150,Pediatrics,Type 2 Diabetes,8975.57,2026-02-07
+PT-2851,Michelle Baker,175-43-3965,Oncology,Migraine,12742.83,2026-04-18
+PT-2852,Chris Brooks,174-57-7626,Oncology,Migraine,1341.92,2026-05-09
+PT-2853,Charles Richards,645-96-8779,Oncology,Type 2 Diabetes,2440.85,2026-02-24
+PT-2854,Marissa Smith,693-60-3887,Pediatrics,Hypertension,6970.73,2026-03-31
+PT-2855,Deborah Rice,132-96-3288,Pediatrics,Asthma,4448.06,2026-08-31
+PT-2856,Deanna Jones,003-75-4270,Radiology,Hypertension,14967.98,2026-01-10
+PT-2857,Erica Thomas,573-24-1297,Oncology,Type 2 Diabetes,12271.46,2026-03-11
+PT-2858,Joshua Green,314-27-6905,Radiology,Fracture,12734.07,2026-08-11
+PT-2859,Brenda Vargas,288-75-2700,Pediatrics,Hypertension,4113.08,2026-04-30
+PT-2860,Victoria Brown DDS,391-60-3916,Cardiology,Asthma,14662.65,2026-03-21
+PT-2861,Calvin Hunter,002-36-8483,Radiology,Type 2 Diabetes,11837.13,2026-09-04
+PT-2862,John Gomez,589-37-1758,Oncology,Type 2 Diabetes,3552.9,2026-01-13
+PT-2863,Isaiah Todd,599-58-7232,Radiology,Asthma,10066.77,2026-03-15
+PT-2864,Melissa Johnson,601-87-8299,Cardiology,Type 2 Diabetes,1303.18,2026-07-03
+PT-2865,Mr. Michael Parsons,600-54-4686,Radiology,Fracture,11679.53,2026-06-13
+PT-2866,Ruben Russell,514-52-7706,Radiology,Asthma,10969.71,2026-07-09
+PT-2867,Danielle Conner,062-03-9500,Cardiology,Fracture,12562.23,2026-01-04
+PT-2868,Kathleen Bridges,429-24-8141,Radiology,Migraine,11550.39,2026-02-09
+PT-2869,Michael Cook,245-86-8089,Radiology,Migraine,5115.46,2026-03-23
+PT-2870,Clinton White,347-27-8435,Pediatrics,Hypertension,8530.91,2026-01-25
+PT-2871,Joseph Carter,445-14-5281,Radiology,Asthma,4613.44,2026-06-19
+PT-2872,Amy Moyer,671-39-6804,Cardiology,Type 2 Diabetes,6390.91,2026-06-12
+PT-2873,Donald Allen,340-85-4569,Cardiology,Type 2 Diabetes,292.21,2026-07-19
+PT-2874,Megan Juarez,088-76-4765,Oncology,Asthma,10384.86,2026-06-03
+PT-2875,John Baker,727-93-8421,Cardiology,Fracture,11825.36,2026-08-10
+PT-2876,Victoria Torres,426-27-1146,Oncology,Asthma,6173.04,2026-08-19
+PT-2877,Olivia Mann,044-28-8351,Pediatrics,Type 2 Diabetes,7280.03,2026-04-29
+PT-2878,Matthew Joseph,286-14-8594,Oncology,Asthma,11148.3,2026-04-07
+PT-2879,Scott Riley,036-96-0667,Oncology,Migraine,6806.9,2026-02-23
+PT-2880,Michaela Stewart,847-99-5141,Oncology,Hypertension,9450.43,2026-07-21
+PT-2881,Tyler Vaughn,817-98-9644,Cardiology,Asthma,5974.5,2026-02-21
+PT-2882,Michele Holmes,310-36-8818,Cardiology,Fracture,5223.9,2026-04-30
+PT-2883,Edgar Miller,846-50-2841,Radiology,Hypertension,3266.13,2026-08-06
+PT-2884,Sara Sanders,107-77-2416,Radiology,Type 2 Diabetes,5499.94,2026-05-08
+PT-2885,Kevin Lang,852-95-8670,Cardiology,Type 2 Diabetes,7696.53,2026-08-20
+PT-2886,Jessica Browning,766-64-1949,Pediatrics,Hypertension,3606.7,2026-06-23
+PT-2887,Kaitlyn Robinson,048-14-2541,Cardiology,Asthma,8891.05,2026-07-23
+PT-2888,Donald Horne,478-91-5037,Cardiology,Migraine,5003.49,2026-01-20
+PT-2889,Molly Wall,539-08-0266,Cardiology,Asthma,12976.04,2026-07-14
+PT-2890,Rebecca Turner,852-44-3979,Radiology,Asthma,502.95,2026-07-20
+PT-2891,Tyler Ramsey,302-56-4554,Cardiology,Migraine,7376.04,2026-09-08
+PT-2892,David Anderson,861-50-1696,Cardiology,Type 2 Diabetes,10471.78,2026-08-04
+PT-2893,Samuel Adams,464-58-5032,Pediatrics,Fracture,2400.29,2026-01-04
+PT-2894,Michael Williams,433-06-2964,Cardiology,Migraine,10290.69,2026-03-14
+PT-2895,Maria Vaughan,323-13-7380,Radiology,Fracture,14957.29,2026-05-29
+PT-2896,James Wade,078-94-9849,Pediatrics,Migraine,6423.64,2026-09-02
+PT-2897,Eric Vazquez,801-24-8900,Cardiology,Fracture,13219.18,2026-07-15
+PT-2898,Jonathan Rodriguez,398-30-9299,Pediatrics,Migraine,2092.64,2026-09-07
+PT-2899,Angela Riddle,593-26-0393,Oncology,Migraine,12974.46,2026-02-24
+PT-2900,Julian Perry,029-76-9422,Cardiology,Hypertension,8484.98,2026-06-25
+PT-2901,David Poole,483-85-9337,Radiology,Type 2 Diabetes,12952.66,2026-04-23
+PT-2902,Jody English,355-18-6406,Cardiology,Hypertension,9075.79,2026-02-18
+PT-2903,Cristina Andrews,421-74-7450,Radiology,Type 2 Diabetes,13682.02,2026-05-02
+PT-2904,Kevin White,601-88-2021,Cardiology,Asthma,6071.95,2026-02-10
+PT-2905,Heather Miranda,706-38-9514,Oncology,Hypertension,5108.91,2026-08-01
+PT-2906,Kenneth Edwards,866-91-2391,Oncology,Type 2 Diabetes,2915.34,2026-06-01
+PT-2907,Danielle Jones,506-11-2324,Radiology,Type 2 Diabetes,484.81,2026-06-03
+PT-2908,Brandon Carter,388-86-2243,Cardiology,Migraine,14678.03,2026-06-26
+PT-2909,Heidi Gutierrez,824-89-0615,Cardiology,Hypertension,10227.3,2026-03-18
+PT-2910,Rachel Stout,024-25-4489,Pediatrics,Fracture,5329.25,2026-06-18
+PT-2911,Gina Evans,121-18-6568,Radiology,Fracture,6971.85,2026-07-27
+PT-2912,Sandra Anderson,511-50-2220,Cardiology,Hypertension,3318.67,2026-09-14
+PT-2913,Mr. John Gonzalez,554-21-8284,Cardiology,Migraine,5432.31,2026-08-16
+PT-2914,Paul Jenkins,801-09-8970,Cardiology,Asthma,5633.43,2026-01-12
+PT-2915,Matthew Lyons,581-49-9830,Oncology,Type 2 Diabetes,6561.5,2026-03-17
+PT-2916,Anna Lawrence,237-61-2247,Radiology,Hypertension,4225.4,2026-05-18
+PT-2917,Holly Pratt,711-96-8581,Cardiology,Fracture,12653.25,2026-06-11
+PT-2918,Amy Bean,419-95-4592,Pediatrics,Asthma,5087.86,2026-04-02
+PT-2919,Ashley Campbell,747-09-3767,Cardiology,Hypertension,10430.97,2026-02-25
+PT-2920,Reginald Davis,898-42-5355,Cardiology,Asthma,8514.5,2026-09-06
+PT-2921,Kiara Ortiz,231-45-9810,Radiology,Hypertension,13198.57,2026-01-20
+PT-2922,Gregory Shepherd,531-66-0531,Radiology,Type 2 Diabetes,10947.52,2026-02-23
+PT-2923,Vincent Hahn,814-14-9307,Pediatrics,Type 2 Diabetes,11220.75,2026-08-05
+PT-2924,William Brown,271-19-3882,Radiology,Type 2 Diabetes,8398.1,2026-02-06
+PT-2925,Joseph Nichols,598-11-2226,Pediatrics,Asthma,9584.31,2026-01-02
+PT-2926,David Powell,219-17-4106,Cardiology,Asthma,10817.9,2026-03-21
+PT-2927,Anne Herrera,561-77-0932,Cardiology,Type 2 Diabetes,7358.52,2026-05-05
+PT-2928,Erica Bell,459-74-7322,Radiology,Hypertension,2304.77,2026-02-04
+PT-2929,Christopher Hoffman,615-75-8632,Radiology,Asthma,3492.27,2026-08-21
+PT-2930,Paige Gentry,098-56-4005,Pediatrics,Type 2 Diabetes,13669.95,2026-02-25
+PT-2931,Gary Hayes,815-13-1684,Oncology,Fracture,7595.92,2026-09-05
+PT-2932,Kim Lopez,883-63-1456,Radiology,Type 2 Diabetes,10494.11,2026-05-17
+PT-2933,Kenneth Salas,803-79-3042,Cardiology,Migraine,604.01,2026-04-02
+PT-2934,Samantha Dunn,048-43-8198,Cardiology,Migraine,11905.87,2026-05-16
+PT-2935,Antonio Johnson,679-29-3434,Oncology,Type 2 Diabetes,5410.76,2026-06-16
+PT-2936,Christopher Navarro,692-24-4993,Oncology,Type 2 Diabetes,1978.64,2026-01-26
+PT-2937,Melinda Rodriguez,127-39-0563,Pediatrics,Migraine,11924.01,2026-02-08
+PT-2938,Nicholas Anderson,176-19-1920,Radiology,Migraine,1644.98,2026-06-17
+PT-2939,Michele Pena,631-60-5651,Oncology,Type 2 Diabetes,10695.63,2026-04-25
+PT-2940,Ryan Brown,584-62-8087,Cardiology,Migraine,4498.53,2026-04-11
+PT-2941,Peter Gutierrez,218-28-2015,Oncology,Type 2 Diabetes,14302.54,2026-07-25
+PT-2942,Angel Hardy,240-35-1417,Radiology,Hypertension,13326.91,2026-02-27
+PT-2943,Dillon Deleon,264-58-2845,Pediatrics,Fracture,5434.01,2026-03-24
+PT-2944,Emily Clark,521-47-7226,Pediatrics,Migraine,4190.13,2026-01-09
+PT-2945,Michele Melendez,894-78-8885,Oncology,Asthma,8506.3,2026-04-03
+PT-2946,Jeffrey Mendoza MD,826-25-7255,Pediatrics,Asthma,13429.58,2026-05-17
+PT-2947,Jason Edwards,668-36-0349,Oncology,Type 2 Diabetes,12064.28,2026-02-03
+PT-2948,Travis Cook,699-18-1668,Cardiology,Migraine,8991.07,2026-05-17
+PT-2949,Linda Alvarez,841-90-7556,Cardiology,Hypertension,4980.79,2026-04-02
+PT-2950,Lori Velasquez,093-99-8271,Oncology,Migraine,5387.98,2026-02-26
+PT-2951,John Martinez,653-74-1461,Oncology,Type 2 Diabetes,3435.34,2026-04-04
+PT-2952,Melody Harris,173-29-7832,Radiology,Type 2 Diabetes,2802.69,2026-02-11
+PT-2953,Jeffrey Grant,013-81-2822,Radiology,Migraine,5612.79,2026-03-29
+PT-2954,Jacob Ellis,546-79-6534,Cardiology,Migraine,2205.83,2026-08-25
+PT-2955,Shannon Johnson,655-41-3077,Cardiology,Type 2 Diabetes,12198.08,2026-03-02
+PT-2956,Benjamin Lynch,620-56-9240,Cardiology,Hypertension,12113.95,2026-03-31
+PT-2957,Crystal Solis,810-41-5156,Radiology,Type 2 Diabetes,8147.33,2026-08-10
+PT-2958,Hunter Montes,514-64-2717,Cardiology,Migraine,4088.8,2026-01-06
+PT-2959,Thomas Miles,684-88-8417,Radiology,Type 2 Diabetes,5321.09,2026-06-18
+PT-2960,Emily Parker,533-97-9115,Oncology,Fracture,7815.88,2026-01-21
+PT-2961,Antonio Bridges,124-32-5931,Cardiology,Hypertension,252.19,2026-07-21
+PT-2962,Rodney Ponce,577-23-2863,Radiology,Hypertension,4928.85,2026-03-29
+PT-2963,Christine Hernandez,864-06-8484,Oncology,Fracture,13608.55,2026-01-30
+PT-2964,Diane Oliver,192-97-4878,Oncology,Fracture,8713.88,2026-02-27
+PT-2965,Gregory Santos,321-55-0897,Radiology,Type 2 Diabetes,3017.5,2026-03-02
+PT-2966,Kevin Jones,316-32-2285,Radiology,Type 2 Diabetes,8157.74,2026-05-19
+PT-2967,Sheila Lane,809-47-6883,Oncology,Migraine,8953.35,2026-07-20
+PT-2968,Leon Jones,304-61-6958,Cardiology,Fracture,10928.22,2026-07-24
+PT-2969,Michael White,210-99-3110,Radiology,Asthma,7140.78,2026-05-22
+PT-2970,Brian Robinson,509-02-1508,Cardiology,Migraine,11727.07,2026-07-09
+PT-2971,Shannon Khan,013-45-9197,Oncology,Type 2 Diabetes,5482.32,2026-03-27
+PT-2972,Kathleen Carson,549-65-1177,Pediatrics,Hypertension,13111.45,2026-05-28
+PT-2973,Ronald Miles,223-28-2889,Cardiology,Hypertension,1760.74,2026-04-05
+PT-2974,Robert Davis,414-53-2867,Pediatrics,Hypertension,332.13,2026-03-28
+PT-2975,William Clark,574-48-6334,Oncology,Type 2 Diabetes,6987.54,2026-05-08
+PT-2976,Brittany Martinez,493-94-4944,Oncology,Fracture,8040.43,2026-06-20
+PT-2977,Kim Skinner,597-15-7729,Cardiology,Type 2 Diabetes,2131.36,2026-04-27
+PT-2978,Christina Young,760-50-3398,Pediatrics,Type 2 Diabetes,12995.64,2026-05-25
+PT-2979,Wendy Hubbard,879-05-8705,Pediatrics,Fracture,14663.88,2026-04-15
+PT-2980,Philip Allen,059-79-5883,Radiology,Migraine,1916.45,2026-02-05
+PT-2981,Austin Crawford,872-49-0660,Radiology,Fracture,5155.22,2026-01-01
+PT-2982,James Arnold,851-15-3238,Pediatrics,Fracture,11699.34,2026-03-25
+PT-2983,Jesse Choi,318-10-6805,Pediatrics,Type 2 Diabetes,9443.87,2026-09-09
+PT-2984,Scott Hawkins,452-35-3366,Oncology,Migraine,10434.45,2026-03-24
+PT-2985,Jesus Marquez,204-25-1864,Cardiology,Asthma,5693.21,2026-01-09
+PT-2986,Scott Anderson,710-43-4521,Cardiology,Type 2 Diabetes,1549.05,2026-02-27
+PT-2987,Ashley Bailey,211-44-2714,Pediatrics,Hypertension,14382.56,2026-05-18
+PT-2988,Gregory Watkins,493-82-2841,Cardiology,Asthma,12221.4,2026-06-26
+PT-2989,Teresa Bennett,023-84-0303,Pediatrics,Migraine,3629.13,2026-02-09
+PT-2990,Brandon Turner,662-59-4198,Cardiology,Hypertension,12051.35,2026-01-27
+PT-2991,Catherine Walls,067-69-0481,Radiology,Asthma,10230.14,2026-09-05
+PT-2992,Richard Love,177-06-0245,Cardiology,Type 2 Diabetes,8566.44,2026-05-03
+PT-2993,Brittany Fitzgerald,750-78-0779,Pediatrics,Type 2 Diabetes,4765.35,2026-02-06
+PT-2994,Robert Thomas,464-19-5721,Oncology,Migraine,8831.8,2026-03-10
+PT-2995,Wanda Johnson,595-95-0366,Oncology,Asthma,14203.57,2026-03-06
+PT-2996,Sara Wells,140-99-3458,Radiology,Asthma,621.3,2026-07-20
+PT-2997,Krista Powell,235-41-3583,Oncology,Migraine,9918.25,2026-03-07
+PT-2998,Emily Lewis MD,277-85-8907,Radiology,Migraine,13382.64,2026-08-24
+PT-2999,Jessica Sanchez,676-19-9248,Cardiology,Hypertension,12363.16,2026-05-24

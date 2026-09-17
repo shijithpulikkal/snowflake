@@ -1,0 +1,24 @@
+version: 2
+
+models:
+  - name: fct_orders
+    columns:
+      - name: order_id
+        tests:
+          - not_null
+
+      - name: customer_id
+        tests:
+          - not_null
+
+  - name: dim_customers
+    columns:
+      - name: customer_id
+        tests:
+          - not_null
+
+  - name: mart_customer_support_summary
+    columns:
+      - name: customer_id
+        tests:
+          - not_null
